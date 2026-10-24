@@ -32,6 +32,7 @@ export function providerInfo() {
 const SHAPE = `{
   "productName": string | null,
   "brand": string | null,
+  "category": "饮料" | "乳制品" | "方便食品" | "饼干" | "糕点" | "坚果" | "调味品" | "谷物" | "膨化食品" | "糖果" | "肉制品" | null,
   "netContent": string | null,
   "ingredientsText": string | null,
   "ingredients": string[],
@@ -62,7 +63,8 @@ const SYSTEM_PROMPT = `你是食品标签的录入员，不是营养师。
 4. 营养成分按"每 100g / 每 100ml"录入。如果标签是"每份"，先按净含量换算成每 100g。
 5. 标签没写"糖"/"饱和脂肪"/"膳食纤维"，就填 null。不要因为配料表里有白砂糖就填糖含量——那是下游的活。
 6. 不要在输出里加任何健康评价、建议、"注意"之类的话。
-7. 只输出 JSON，不要 markdown 代码块，不要任何解释文字。`;
+7. category 只能从结构里列出的品类中选一个，判断不了就填 null，不要硬猜。
+8. 只输出 JSON，不要 markdown 代码块，不要任何解释文字。`;
 
 const OCR_PROMPT = `把这张食品包装照片上的所有文字逐行抄录出来。
 

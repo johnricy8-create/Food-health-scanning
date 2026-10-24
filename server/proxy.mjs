@@ -17,6 +17,16 @@ const { extract, narrate, providerInfo } = await import("../src/extract/index.mj
 const params = JSON.parse(readFileSync(new URL("../config/params.json", import.meta.url), "utf8"));
 const kb = JSON.parse(readFileSync(new URL("../data/knowledge.json", import.meta.url), "utf8"));
 
+/** 一次扫描只调 2 次模型（抄录 + 结构化）。转述默认关闭：
+ *  界面已经改成用规则生成的"为什么是这个分数"，转述既不显示又白花一次调用和时间。
+ *  想开就设 AI_NARRATIVE=1。 */
+const NARRATIVE_ON = process.env.AI_NARRATIVE === "1";
+
+/** params.servingSize 里有哪些品类，用来校验模型给的品类 */
+const SERVING_CATEGORIES = new Set(
+  Object.keys(params.servingSize ?? {}).filter((k) => !k.startsWith("_") && k !== "default")
+);
+
 const PORT = Number(process.env.PORT ?? 8787);
 const MAX_BODY = 8 * 1024 * 1024; // 8MB，够一张压缩后的手机照片
 
@@ -38,6 +48,9 @@ function rateLimited(ip) {
 /** 没有类目时兜底推断。饮料走严格阈值，猜错影响很大，生产环境应由条码库/用户选择给出 */
 function inferCategory(extracted, body) {
   if (body.category) return body.category;
+  // 模型从包装上读到的品类（限定在 params.servingSize 的键里）
+  const c = extracted?.category;
+  if (c && SERVING_CATEGORIES.has(c)) return c;
   if (extracted?.nutrition?.basis === "100ml") return "饮料";
   return "其他";
 }
@@ -64,6 +77,12 @@ const server = createServer(async (req, res) => {
   const wait = rateLimited(ip);
   if (wait) return json(res, 429, { error: `请求过于频繁，请 ${wait} 秒后再试` }, cors);
 
+  // 先看 Content-Length，超大请求直接拒，不用把整个 body 读进内存
+  const declared = Number(req.headers["content-length"] ?? 0);
+  if (declared > MAX_BODY) {
+    return json(res, 413, { error: tooBigMessage() }, cors);
+  }
+
   try {
     const body = JSON.parse(await readBody(req));
     if (!body.text && !body.imageBase64) {
@@ -87,12 +106,16 @@ const server = createServer(async (req, res) => {
 
     const result = analyse(sample, kb, params, body.preset);
 
-    // 转述是"锦上添花"，失败不能影响打分结果
-    const narrative = await narrate(result).catch(() => null);
+    // 转述是"锦上添花"，失败不能影响打分结果；默认关闭，省一次模型调用和十几秒
+    const narrative = NARRATIVE_ON ? await narrate(result).catch(() => null) : null;
 
     return json(res, 200, { extracted, result, narrative }, cors);
   } catch (err) {
     console.error("[analyze]", err);
+    // 图片过大：明确告诉客户端，别让它以为"网络连不上"
+    if (err?.status === 413) {
+      return json(res, 413, { error: String(err.message ?? "图片太大") }, cors);
+    }
     // 上游限流要让客户端知道是"稍后再试"，而不是"服务坏了"
     const busy = err?.status === 429 || /429|1302|1305|速率限制|访问量过大/.test(String(err?.message ?? ""));
     if (busy) {
@@ -118,6 +141,10 @@ function json(res, code, payload, headers = {}) {
   res.writeHead(code, { "Content-Type": "application/json; charset=utf-8", ...headers }).end(body);
 }
 
+function tooBigMessage() {
+  return `图片太大（超过 ${Math.round(MAX_BODY / 1024 / 1024)}MB），请换一张体积小一点的照片`;
+}
+
 function readBody(req) {
   return new Promise((resolve, reject) => {
     let size = 0;
@@ -125,8 +152,13 @@ function readBody(req) {
     req.on("data", (c) => {
       size += c.length;
       if (size > MAX_BODY) {
-        reject(new Error("请求体过大"));
-        req.destroy();
+        const err = new Error(tooBigMessage());
+        err.status = 413;
+        reject(err);
+        // 不能 destroy：那样响应发不出去，客户端只会看到"连接被重置"。
+        // 把剩余数据读完丢掉即可。
+        req.removeAllListeners("data");
+        req.resume();
         return;
       }
       chunks.push(c);

@@ -2,12 +2,35 @@ import { useCallback, useState } from "react";
 import { ActivityIndicator, Platform, Pressable, StyleSheet, Text, View } from "react-native";
 import { router, useFocusEffect } from "expo-router";
 import * as ImagePicker from "expo-image-picker";
+import { ImageManipulator, SaveFormat } from "expo-image-manipulator";
 import { Shell } from "../components/Shell";
 import { C, scoreColor } from "../theme";
 import { demoSamples, score, Sample } from "../engine/data";
 import { analyzeImage } from "../api";
-import { listHistory, pushHistory, HistoryItem } from "../storage";
+import { listHistory, pushHistory, saveResult, HistoryItem } from "../storage";
 import { setCurrent } from "../store";
+
+/** 上传前把长边压到 1600px。视觉模型对像素数很敏感，
+ *  直接传 3000×4000 的原图经常要 40 秒以上，压完 10 秒左右。 */
+const MAX_EDGE = 1600;
+
+async function prepareImage(asset: ImagePicker.ImagePickerAsset) {
+  const fallback = { base64: asset.base64 ?? "", mimeType: asset.mimeType ?? "image/jpeg" };
+  const longEdge = Math.max(asset.width ?? 0, asset.height ?? 0);
+  if (!fallback.base64 || longEdge <= MAX_EDGE) return fallback;
+
+  try {
+    const ctx = ImageManipulator.manipulate(asset.uri);
+    ctx.resize(asset.width >= asset.height ? { width: MAX_EDGE } : { height: MAX_EDGE });
+    const ref = await ctx.renderAsync();
+    const out = await ref.saveAsync({ compress: 0.7, format: SaveFormat.JPEG, base64: true });
+    if (!out.base64) return fallback;
+    return { base64: out.base64, mimeType: "image/jpeg" };
+  } catch {
+    // 压缩失败就用原图，别让整个识别挂掉
+    return fallback;
+  }
+}
 
 export default function Home() {
   const [busy, setBusy] = useState(false);
@@ -21,7 +44,10 @@ export default function Home() {
   );
 
   const finish = (r: any, narrative?: string | null) => {
-    setCurrent(narrative ? { ...r, _narrative: narrative } : r);
+    const value = narrative ? { ...r, _narrative: narrative } : r;
+    setCurrent(value);
+    // 存完整结果：刷新页面、点历史记录都还能还原
+    saveResult(value);
     pushHistory({ id: r.id, name: r.name, total: r.total, grade: r.grade, at: Date.now() });
     setHistory(listHistory());
     router.push({ pathname: "/result", params: { id: r.id } });
@@ -39,7 +65,7 @@ export default function Home() {
       }
       const opts: ImagePicker.ImagePickerOptions = {
         mediaTypes: ["images"],
-        quality: 0.8,
+        quality: 0.7,
         base64: true,
       };
       const res = fromCamera
@@ -54,7 +80,8 @@ export default function Home() {
       }
 
       setBusy(true);
-      const out = await analyzeImage(asset.base64, asset.mimeType ?? "image/jpeg");
+      const prepared = await prepareImage(asset);
+      const out = await analyzeImage(prepared.base64, prepared.mimeType);
       finish(out.result, out.narrative);
     } catch (e: any) {
       setError(String(e?.message ?? e));
@@ -141,7 +168,11 @@ export default function Home() {
         ) : (
           <View style={styles.list}>
             {history.map((h, i) => (
-              <View key={h.id + h.at} style={[styles.row, i > 0 && styles.rowDivider]}>
+              <Pressable
+                key={h.id + h.at}
+                style={({ pressed }) => [styles.row, i > 0 && styles.rowDivider, pressed && styles.pressed]}
+                onPress={() => router.push({ pathname: "/result", params: { id: h.id } })}
+              >
                 <View style={[styles.gradeBox, { backgroundColor: scoreColor(h.total) }]}>
                   <Text style={styles.gradeText}>{h.grade}</Text>
                 </View>
@@ -149,7 +180,7 @@ export default function Home() {
                   {h.name}
                 </Text>
                 <Text style={[styles.rowScore, { color: scoreColor(h.total) }]}>{h.total}</Text>
-              </View>
+              </Pressable>
             ))}
           </View>
         )}

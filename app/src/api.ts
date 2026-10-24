@@ -15,9 +15,12 @@ export type AnalyzeResponse = {
   narrative: string | null;
 };
 
+/** 识别一次的客户端超时。真实手机照片走两段模型，慢的时候要 60–90 秒 */
+const TIMEOUT_MS = 120_000;
+
 export async function analyzeImage(base64: string, mimeType: string): Promise<AnalyzeResponse> {
   const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), 45_000);
+  const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
 
   try {
     const res = await fetch(`${API_BASE}/api/analyze`, {
@@ -28,12 +31,21 @@ export async function analyzeImage(base64: string, mimeType: string): Promise<An
     });
 
     if (!res.ok) {
-      const text = await res.text();
-      throw new Error(`服务返回 ${res.status}：${text.slice(0, 200)}`);
+      // 中转服务把可读的原因放在 {error} 里，优先用它
+      let msg = "";
+      try {
+        const data = await res.json();
+        msg = data?.error ?? "";
+      } catch {
+        msg = (await res.text().catch(() => "")).slice(0, 200);
+      }
+      throw new Error(msg || `服务返回 ${res.status}`);
     }
     return (await res.json()) as AnalyzeResponse;
   } catch (e: any) {
-    if (e?.name === "AbortError") throw new Error("识别超时，请检查网络后重试");
+    if (e?.name === "AbortError") {
+      throw new Error("识别超时（超过 2 分钟）。照片越大越慢，换一张更清晰、体积更小的照片再试。");
+    }
     if (String(e?.message ?? "").includes("Network request failed") || String(e?.message ?? "").includes("Failed to fetch")) {
       throw new Error(
         `连不上中转服务（${API_BASE}）。\n请先在电脑上运行 npm run proxy，并确认 .env 里配了 ZHIPU_API_KEY。`

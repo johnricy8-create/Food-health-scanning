@@ -5,13 +5,15 @@ import { ScoreRing } from "../components/ScoreRing";
 import { DimBars } from "../components/DimBars";
 import { C, scoreColor, summaryOf, faceOf } from "../theme";
 import { getCurrent } from "../store";
+import { getResult } from "../storage";
 import { samples, score } from "../engine/data";
 
 export default function Result() {
   // 优先用 ?id= 重新算（刷新/深链都不会丢），否则读内存里的扫描结果
   const { id } = useLocalSearchParams<{ id?: string }>();
   const fromId = id ? samples.find((s) => s.id === id) : undefined;
-  const r = fromId ? score(fromId) : getCurrent();
+  // 示例走实时计算；扫描结果从缓存里取（刷新、点历史都能还原）；最后才用内存
+  const r = fromId ? score(fromId) : getResult(id) ?? getCurrent();
 
   if (!r) {
     return (
