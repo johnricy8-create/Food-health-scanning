@@ -1,0 +1,182 @@
+{
+  "_comment": "调参用样本。营养数值按中国标签常见的'1+4'格式（能量/蛋白/脂肪/碳水/钠）录入，糖与饱和脂肪故意不提供——用来检验估算逻辑。数值为示意性近似值，不是官方检测数据。",
+
+  "samples": [
+    {
+      "id": "cola",
+      "name": "可乐型碳酸饮料",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "水、果葡糖浆、白砂糖、二氧化碳、焦糖色、磷酸、食用香精、咖啡因",
+      "nutrition": { "energyKj": 180, "proteinG": 0, "fatG": 0, "carbG": 10.6, "sodiumMg": 12 }
+    },
+    {
+      "id": "cola-zero",
+      "name": "零糖可乐",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "水、二氧化碳、焦糖色、磷酸、阿斯巴甜、安赛蜜、三氯蔗糖、食用香精、咖啡因",
+      "nutrition": { "energyKj": 0, "proteinG": 0, "fatG": 0, "carbG": 0, "sodiumMg": 40 }
+    },
+    {
+      "id": "milk",
+      "name": "全脂纯牛奶",
+      "category": "乳制品",
+      "unit": "100ml",
+      "ingredients": "生牛乳",
+      "nutrition": { "energyKj": 272, "proteinG": 3.2, "fatG": 3.6, "carbG": 4.8, "sodiumMg": 60 }
+    },
+    {
+      "id": "yogurt",
+      "name": "草莓风味发酵乳",
+      "category": "乳制品",
+      "unit": "100g",
+      "ingredients": "生牛乳、白砂糖、草莓果酱、果胶、明胶、食用香精、保加利亚乳杆菌、嗜热链球菌",
+      "nutrition": { "energyKj": 420, "proteinG": 3.0, "fatG": 3.0, "carbG": 13.5, "sodiumMg": 55 }
+    },
+    {
+      "id": "wholewheat",
+      "name": "全麦吐司",
+      "category": "烘焙",
+      "unit": "100g",
+      "ingredients": "全麦粉、水、酵母、食用盐、植物油",
+      "nutrition": { "energyKj": 1010, "proteinG": 9.0, "fatG": 4.5, "carbG": 44.0, "sodiumMg": 380 }
+    },
+    {
+      "id": "sausage",
+      "name": "火腿肠",
+      "category": "肉制品",
+      "unit": "100g",
+      "ingredients": "猪肉、鸡肉、水、淀粉、大豆蛋白、白砂糖、食用盐、味精、5'-呈味核苷酸二钠、亚硝酸钠、山梨酸钾、红曲红、食用香精",
+      "nutrition": { "energyKj": 1080, "proteinG": 12.0, "fatG": 19.0, "carbG": 8.0, "sodiumMg": 900 }
+    },
+    {
+      "id": "chips",
+      "name": "原味薯片",
+      "category": "膨化零食",
+      "unit": "100g",
+      "ingredients": "马铃薯、植物油、食用盐",
+      "nutrition": { "energyKj": 2250, "proteinG": 6.0, "fatG": 35.0, "carbG": 52.0, "sodiumMg": 550 }
+    },
+    {
+      "id": "kids-biscuit",
+      "name": "儿童夹心饼干",
+      "category": "烘焙",
+      "unit": "100g",
+      "ingredients": "小麦粉、白砂糖、植物油、起酥油、鸡蛋、全脂乳粉、食用盐、碳酸氢钠、碳酸氢铵、柠檬黄、食用香精",
+      "nutrition": { "energyKj": 2050, "proteinG": 6.0, "fatG": 22.0, "carbG": 65.0, "sodiumMg": 300 }
+    },
+    {
+      "id": "orange-juice-100",
+      "name": "100% 橙汁",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "橙汁",
+      "nutrition": { "energyKj": 190, "proteinG": 0.7, "fatG": 0, "carbG": 10.5, "sodiumMg": 3 }
+    },
+    {
+      "id": "sparkling-water",
+      "name": "无糖气泡水",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "水、二氧化碳、赤藓糖醇、三氯蔗糖、食用香精",
+      "nutrition": { "energyKj": 0, "proteinG": 0, "fatG": 0, "carbG": 0, "sodiumMg": 5 }
+    },
+    {
+      "id": "oats",
+      "name": "纯燕麦片",
+      "category": "谷物",
+      "unit": "100g",
+      "ingredients": "燕麦",
+      "nutrition": { "energyKj": 1600, "proteinG": 13.0, "fatG": 7.0, "carbG": 60.0, "sodiumMg": 5 }
+    },
+    {
+      "id": "chocolate-bar",
+      "name": "巧克力涂层棒",
+      "category": "糖果巧克力",
+      "unit": "100g",
+      "ingredients": "白砂糖、代可可脂、小麦粉、全脂乳粉、可可粉、单双甘油脂肪酸酯、食用香精",
+      "nutrition": { "energyKj": 2300, "proteinG": 6.5, "fatG": 32.0, "carbG": 55.0, "sodiumMg": 120 }
+    },
+    {
+      "id": "instant-noodle",
+      "name": "红烧牛肉方便面",
+      "category": "方便食品",
+      "unit": "100g",
+      "ingredients": "小麦粉、棕榈油、食用盐、淀粉、味精、白砂糖、酱油、5'-呈味核苷酸二钠、焦糖色、特丁基对苯二酚、食用香精、脱水蔬菜",
+      "nutrition": { "energyKj": 1900, "proteinG": 9.0, "fatG": 20.0, "carbG": 58.0, "sodiumMg": 1800 }
+    },
+    {
+      "id": "lactic-drink",
+      "name": "乳酸菌饮料",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "水、白砂糖、乳粉、果葡糖浆、乳酸、果胶、食用香精、保加利亚乳杆菌",
+      "nutrition": { "energyKj": 300, "proteinG": 1.0, "fatG": 0.5, "carbG": 15.0, "sodiumMg": 40 }
+    },
+    {
+      "id": "mixed-nuts",
+      "name": "混合坚果（原味）",
+      "category": "坚果",
+      "unit": "100g",
+      "ingredients": "巴旦木、核桃仁、腰果",
+      "nutrition": { "energyKj": 2500, "proteinG": 20.0, "fatG": 50.0, "carbG": 18.0, "sodiumMg": 10 }
+    },
+    {
+      "id": "juice-drink",
+      "name": "果汁饮料（10% 果汁）",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "水、白砂糖、浓缩苹果汁、柠檬酸、维生素C、柠檬黄、食用香精",
+      "nutrition": { "energyKj": 180, "proteinG": 0, "fatG": 0, "carbG": 10.5, "sodiumMg": 15 }
+    },
+    {
+      "id": "tofu",
+      "name": "北豆腐",
+      "category": "豆制品",
+      "unit": "100g",
+      "ingredients": "大豆、水、氯化镁",
+      "nutrition": { "energyKj": 400, "proteinG": 8.0, "fatG": 4.0, "carbG": 2.0, "sodiumMg": 5 }
+    },
+    {
+      "id": "mayo",
+      "name": "沙拉酱",
+      "category": "调味品",
+      "unit": "100g",
+      "ingredients": "植物油、水、蛋黄、白砂糖、食醋、食用盐、羟丙基二淀粉磷酸酯、黄原胶、乙二胺四乙酸二钠",
+      "nutrition": { "energyKj": 2400, "proteinG": 2.0, "fatG": 55.0, "carbG": 8.0, "sodiumMg": 600 }
+    },
+    {
+      "id": "sugary-cereal",
+      "name": "含糖早餐谷物",
+      "category": "谷物",
+      "unit": "100g",
+      "ingredients": "小麦粉、白砂糖、玉米粉、麦芽糊精、植物油、食用盐、维生素C、焦糖色、食用香精",
+      "nutrition": { "energyKj": 1650, "proteinG": 7.0, "fatG": 3.0, "carbG": 78.0, "sodiumMg": 300 }
+    },
+    {
+      "id": "energy-drink",
+      "name": "能量饮料",
+      "category": "饮料",
+      "unit": "100ml",
+      "ingredients": "水、白砂糖、果葡糖浆、柠檬酸、牛磺酸、咖啡因、食用香精、柠檬黄、苯甲酸钠",
+      "nutrition": { "energyKj": 200, "proteinG": 0, "fatG": 0, "carbG": 11.5, "sodiumMg": 40 }
+    },
+    {
+      "id": "soymilk",
+      "name": "无糖豆浆",
+      "category": "豆制品",
+      "unit": "100ml",
+      "ingredients": "水、大豆",
+      "nutrition": { "energyKj": 130, "proteinG": 3.0, "fatG": 1.6, "carbG": 1.5, "sodiumMg": 20 }
+    },
+    {
+      "id": "soda-cracker",
+      "name": "苏打饼干",
+      "category": "烘焙",
+      "unit": "100g",
+      "ingredients": "小麦粉、植物油、食用盐、碳酸氢钠、酵母",
+      "nutrition": { "energyKj": 1900, "proteinG": 8.0, "fatG": 15.0, "carbG": 68.0, "sodiumMg": 700 }
+    }
+  ]
+}

@@ -1,0 +1,6678 @@
+[
+  {
+    "id": "off-6922255451427",
+    "name": "百岁山 饮用天然矿泉水",
+    "brand": "Ganten",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "饮用天然矿泉水",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": 1
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:spring-waters"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/225/545/1427/front_zh.12.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1x 570ml"
+  },
+  {
+    "id": "off-6921168509256",
+    "name": "农夫山泉",
+    "brand": "Nongfu Spring",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "『配料表天然水［保质期24个月供产日期瓶体［必存条件阴凉干燥无异味处，不宜冷冻［产品标/准号Q/NFS000IS\n冰源类别深层湖水［水源地址广东省河市万湖产地广东鲍可陳市医\n商农夫山泉股份有限公司（地址许工省\n杭州市西湖区島合庄18号性生产南1然\n山泉广东万绿湖有限公司（工厂代码G）\n附址）-东省河汉市源城区西不路103号\n生产许可证安马SC10644160200149\n性生产商2］农夫山泉广东万绿湖饮料有限公司工广代码HM）地址广东鲍可滋市源城区中兴大道1号性生产许可！\n宇SC10644160200420性生商\n3关山泉广东后受湖饮胁有限市通城区匀泉路侣性附可店學\nSC1062416970001 生产商见生产日期后端工厂代码［全国服务热线195077\nwww.nongfuspring.com",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": null
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/116/850/9256/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "550ml"
+  },
+  {
+    "id": "off-6902083881405",
+    "name": "娃哈哈 饮用纯净水",
+    "brand": "Wahaha",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:bottled"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/208/388/1405/front_zh.16.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "596 ml"
+  },
+  {
+    "id": "off-6937003117814",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "牛肉、膨化豆制品、植物油、白砂糖、 芝麻、辣椒、食用盐、味精、香辛料、大豆 分离蛋白、麦芽糖、食品用香精、食品添加剂 (D-异抗坏血酸钠、乳酸链球菌素、辣椒红、呈味核苷酸 二钠)。 致敏物质提示:含有麸质的谷物制品和大豆制品 产品标准号:GB 2726 食品生产许可证编号:SC10451011600728 生产日期:见包装上标示 保质期:180天 贮藏条件:请置于通风阴凉 干燥处保存食用方法:开袋即食 温馨提示:若有胀袋、漏气,请勿食用, 要请联系客服更换。 被委托生产单位:成都优合食品有限公司 地址:成都市双流区九 区走马岭革新大道8号(13) 服务热线:400-1177-517 官方商城:WWW.LPPZ.COM 江街道新华大道536号 委托单位:湖北良品铺子食品工业有限公司 地址:武汉市东西湖 回社 营养成分表",
+    "nutrition": {
+      "energyKj": 2075,
+      "proteinG": null,
+      "fatG": 37.7,
+      "carbG": 112,
+      "sodiumMg": null
+    },
+    "declaredSugarG": 4,
+    "declaredSatFatG": 112,
+    "declaredFiberG": 55,
+    "offCategories": [
+      "en:snacks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/700/311/7814/front_zh.6.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6902083881085",
+    "name": "娃哈哈 AD 钙奶原味",
+    "brand": "Wahaha",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖、全脂乳粉、脱脂乳粉、食品添加剂（羧甲基纤维素钠、磷酸、柠檬酸、三聚磷酸钠、柠檬酸钠、甲硬脂酸甘油酯、蔗糖酯肪酸酯、山梨酸钾、阿斯巴甜、安赛蜜、乳酸链球菌素）、浓缩乳清蛋白粉、碳酸钙、食用香精、维生素 A、维生素 D",
+    "nutrition": {
+      "energyKj": 157,
+      "proteinG": 1.36363636363636,
+      "fatG": 0.909090909090909,
+      "carbG": 5.90909090909091,
+      "sodiumMg": 112
+    },
+    "declaredSugarG": 5.45454545454545,
+    "declaredSatFatG": 0.4,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/208/388/1085/front_zh.38.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "4 x 220ml"
+  },
+  {
+    "id": "off-6923644266066",
+    "name": "纯牛奶",
+    "brand": "特仑苏",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳 产 品 类 型: 全脂灭菌乳 产品标准号:GB 25190 生 产 日 期: 见包装喷码 保质期:6个月 生产厂商及产地: 具体见喷码前两位代码 贮 存 条 件: 常温密闭保存。 开启前,无需冷藏; 开启名仕世界 开启后,请立即饮用。 请勿连同包装在微波炉中加热。 消费者热线:400-6603333 请勿乱扔空包保持环境清洁 PLEASE DISPOSE PROPERLY",
+    "nutrition": {
+      "energyKj": 309,
+      "proteinG": 3.6,
+      "fatG": 4.4,
+      "carbG": 5,
+      "sodiumMg": 58
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:whole-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/364/426/6066/front_zh.13.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6928804010114",
+    "name": "0度无糖可乐",
+    "brand": "可口可乐",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、食品添加剂 [二氧化碳、焦糖色、磷酸、苯甲酸钠、阿斯巴甜(含苯丙氨 酸)、安赛蜜、柠檬酸钠、咖啡因、蔗糖素]、食用香精",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/880/401/0114/front_en.9.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6907992507095",
+    "name": "金典",
+    "brand": "伊利",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Ⓡ 金典 SATINE 3.6g/100mL原生乳蛋白、120mg/100mL原生高钙 纯牛奶 净含量:250mL 图片仅供参考",
+    "nutrition": {
+      "energyKj": 309,
+      "proteinG": 3.6,
+      "fatG": 4.4,
+      "carbG": 5,
+      "sodiumMg": 58
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:Zh-Hans:纯牛奶"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/799/250/7095/front_zh.10.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250mL"
+  },
+  {
+    "id": "off-6901285991271",
+    "name": "饮用纯净水",
+    "brand": "C'estbon",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:drinking-water"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/128/599/1271/front_en.9.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1.555l"
+  },
+  {
+    "id": "off-6917878044729",
+    "name": "雀巢咖啡",
+    "brand": "Nescafé",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "植脂末(葡萄糖浆,氢化植物油,酪蛋白酸钠,研磨咖啡,磷酸氢二钾,碳酸钙,六偏磷酸钠,柠檬酸钠,单双甘油脂肪酸酯,乙酰酒石酸单双甘油酯,食用盐,食用香精),砂糖,速溶咖啡,固体玉米糖浆,食品添加剂(黄原胶、碳酸氢制,食用盐,食用香精。",
+    "nutrition": {
+      "energyKj": 1150,
+      "proteinG": 0,
+      "fatG": 1.6,
+      "carbG": 6.7,
+      "sodiumMg": 56
+    },
+    "declaredSugarG": 4.8,
+    "declaredSatFatG": 2.4,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/787/804/4729/front_en.18.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "15g"
+  },
+  {
+    "id": "off-6944649700065",
+    "name": "饮用纯净水",
+    "brand": "景田",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "INGREDIENTS: Cumin (Cuminum cyminum). Black pepper (Piper nigrum), Dry Mango (Mangifera indica), Dry Ginger (Zingiber officinale), Long Pepper (Piper longum), Neembusatt (Citrus medica extract), Peeplamool (Piper longum), Black Salt, Regular Salt, Sugar, and Permitted flavours. For Allergen: This product has been packed in a factory which handles all types of Nuts, Sesame, Soya, Wheat, Gluten, Black Seed, Mustard & Celery.",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/464/970/0065/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6924743919242",
+    "name": "墨西哥鸡汁番茄味薯片",
+    "brand": "Lay's",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Kartoffel 92%, Palmöl, Tomatengeschmack mit mexikanischer Hühnersauce 4% (Zucker, Maltodextrin, Salz, essbare Glukose, Sojasaucenpulver (gebraute Sojasauce (einschließlich Weizen und Sojabohnen), Maltodextrin, Geschmacksverstärker (E621)), Tomatenpulver, Zwiebel Pulver, Hefeextrakt, säurehydrolysiertes pflanzliches Protein-Gewürzpulver (hydrolysiertes pflanzliches Protein einschließlich Soja), Maltodextrin, Salz, essbare Glucose), Lebensmittelgeschmack (enthält Milch), Essigpulver (Maltodextrin, säurebehandelte Stärke, gebrauter Essig), Knoblauchpulver, Säureregulator (E296, E330), Süßstoff (E960, E951), Antibackmittel (E551), Geschmacksverstärker (E627, E631),\r\nAchtung: Dieses Produkt enthält Aspartam (Quelle der Phenylalanin), Allergene: Kann Spuren von SOJA,WEIZEN und MILCH enthalten,",
+    "nutrition": {
+      "energyKj": 2230,
+      "proteinG": 6,
+      "fatG": 33.3,
+      "carbG": 51.7,
+      "sodiumMg": 800
+    },
+    "declaredSugarG": 5,
+    "declaredSatFatG": 16.7,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/474/391/9242/front_de.31.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:contains-a-source-of-phenylalanine"
+    ],
+    "quantity": "70 g"
+  },
+  {
+    "id": "off-6924743919211",
+    "name": "经典原味薯片",
+    "brand": "Lay's",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "马铃薯、植物油、经典原味调味料(含5'-呈味核苷酸二钠)、 TBHO。",
+    "nutrition": {
+      "energyKj": 2288,
+      "proteinG": 5.7,
+      "fatG": 35,
+      "carbG": 52.7,
+      "sodiumMg": 551
+    },
+    "declaredSugarG": 1.3,
+    "declaredSatFatG": 5.7,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/474/391/9211/front_zh.29.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": ""
+  },
+  {
+    "id": "off-6901668938824",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,食用植物油,白砂糖,淀粉,芝士风味复合调味料,乳 清粉,食品添加剂(碳酸氢铵,磷酸二氢钙,碳酸氢钠,氯化钾,抗坏 血酸钠,大豆磷脂,胭脂树橙,乳酸,柠檬酸),干酪制品,全脂乳粉, 再制干酪,食用盐,麦精(饮用水,大麦,麦芽),黄油,食用香精。 过敏原信息:含有小麦、乳制品、大麦和大豆制品。 此生产线也加工含有花生、坚果、芝麻和蛋制品的产品。 营养成分表 项目 每100克 NRV % 能量 2101 千焦 25% 蛋白质 6.4克 11% 脂肪 26.1克 44% - 反式脂肪 0克 碳水化合物 60.4克 20% 钠 597毫克 30% NRV=营养素参考值",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/166/893/8824/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6937003139458",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "食品名称:每日坚果 产地:安徽省宣城市配料:提子干(提子、葵花籽油)、核桃仁、腰果仁、 扁桃仁、葡萄干、蔓越莓干(蔓越莓、白砂糖、葵花籽油) 致敏物质提示:含有坚果及其果仁类制品 产品标准号:Q/SLR 0006S 食品生产许可证编号:SC11734188130252 生产日期:见包装上标示 保质期: 150天 贮藏条件:请置于阴凉通风干燥处 食用方法:开封即 食 温馨提示:儿童请在成人监护下食用。内含脱氧剂,请勿食用 地址:安徽省宣城 市宁国市经济技术开发区河沥园区柿子树路7号 委托单位:湖北良品铺 子食品工业有限公司 地址:武汉市东西湖区马岭革新大道8号(13) 服务热线:400-1177-517 官方商城WWW.LPPZ.COM 被委托生产单位:安徽山里仁休闲食品有限责任公司 600027 营养成分表 2024.01.15 项目 每100克(g) NRV% 能量 2217千焦(kJ)26% 蛋白质 11.8克(g) 20% 脂肪 31.8克(g) 53% 碳水化合物49.4克(g) 16% 钠 9毫克(mg) 0% 6937003 139458&quot;",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:nuts-and-their-products",
+      "en:nuts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/700/313/9458/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6901939621738",
+    "name": "怡泉苏打水（无糖）",
+    "brand": "Schweppes",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、二氧化碳、碳酸氢钠。",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 27
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/193/962/1738/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "330ml"
+  },
+  {
+    "id": "off-6907992500942",
+    "name": "伊利纯牛奶",
+    "brand": "伊利",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 277,
+      "proteinG": 3,
+      "fatG": 3.8,
+      "carbG": 5,
+      "sodiumMg": 51
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/799/250/0942/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "240 ml"
+  },
+  {
+    "id": "off-6907992100272",
+    "name": "伊利",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "新巨 包 丰 融 包装 更多 可 3% 配 产品种类:全脂灭菌纯牛乳 料:生牛乳 营养成分表 项目 每100mL NRV% 能量 289kJ 蛋白质 3.3g 脂肪 碳水化合物 5.0g 钠 26723 %%%% 钙 13% 4.0g 6% 7% 2% 56mg 3% 100mg 产品标准代号:GB 25190 生产日期:见盒顶部 保质期:常温密闭条件下6个月 贮存条件:未开启前 无需冷藏 开启之后立即饮用 消费者服务热线:4008169999 欢迎访问:www.yili.com 6 9079",
+    "nutrition": {
+      "energyKj": 284,
+      "proteinG": 3.3,
+      "fatG": 4,
+      "carbG": 5,
+      "sodiumMg": 56
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "zh:全脂灭菌纯牛奶"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/799/210/0272/front_en.9.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6954767470573",
+    "name": "冰露",
+    "brand": "可口可乐",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、食品添加剂（硫酸镁、氯化钾）",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:drinking-water"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/476/747/0573/front_zh.5.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "550 ml"
+  },
+  {
+    "id": "off-6920152460061",
+    "name": "红烧牛肉面",
+    "brand": "Master Kong",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "面饼:小麦粉、精炼棕榈油、淀粉、醋酸酯淀粉、食用盐、复配酸度调节剂(碳酸钠、三聚磷酸钠、谷氨 酸钠、5'-呈味核苷酸二钠)、鸡全蛋粉0.15克、羧甲基纤维素钠、复配着色剂(栀子黄、核黄素)、 维生素E。 酱包:精炼棕榈油、葱、蒜、牛肉0.6克、食用盐、姜、味精、辣椒、维生素E。 粉包:食用盐、味精、麦芽糊精、香辛料、白砂糖、食品用香精、酵母抽提物、5'-呈味核苷酸二钠、焦糖色。 菜包:脱水蔬菜3.3克(2.5克+0.8克)(脱水高丽菜、脱水胡萝卜、脱水葱)、脱水肉块(熟肉制品)、调味 蛋粒(鸡蛋粉、淀粉、白砂糖、植物油、食用盐、山梨糖醇液、三聚磷酸钠、焦磷酸钠、六偏磷酸 钠、B-胡萝卜素、维生素E)。",
+    "nutrition": {
+      "energyKj": 2053,
+      "proteinG": 12.6,
+      "fatG": 21.9,
+      "carbG": 61.6,
+      "sodiumMg": 960
+    },
+    "declaredSugarG": 4.2,
+    "declaredSatFatG": 12,
+    "declaredFiberG": 0.9,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:dried-products",
+      "en:pastas"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/015/246/0061/front_zh.42.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "105g"
+  },
+  {
+    "id": "off-6921168560509",
+    "name": "农夫山泉 饮用纯净水",
+    "brand": "农夫山泉",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:waters"
+    ],
+    "imageFront": null,
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1x 500ml"
+  },
+  {
+    "id": "off-6920584471017",
+    "name": "旺仔牛奶",
+    "brand": "Hot-Kid",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "WATER, WHOLE MILK POWDER, SWEETENED CONDENSED MILK (RAW COW MILK, SUGAR, LACTOSE), SUGAR, EMULSIFIER (MONO-AND",
+    "nutrition": {
+      "energyKj": 744,
+      "proteinG": 6.4,
+      "fatG": 5.9,
+      "carbG": 24.5,
+      "sodiumMg": 120
+    },
+    "declaredSugarG": 13,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:snacks",
+      "en:sweet-snacks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/058/447/1017/front_zh.21.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "245ml"
+  },
+  {
+    "id": "off-6921168593569",
+    "name": "农夫山泉 茶π果味茶饮料 蜜桃乌龙茶",
+    "brand": "Nongfu Spring",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、果葡糖浆、白砂糖、乌龙茶、浓缩水蜜桃汁、柠檬酸、DL-苹果酸、柠檬酸钠、D-异抗坏血酸钠、甜菊糖苷、食用香精",
+    "nutrition": {
+      "energyKj": 139,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 8,
+      "sodiumMg": 9200
+    },
+    "declaredSugarG": 1.2,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:hot-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/116/859/3569/front_zh.31.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500 ml"
+  },
+  {
+    "id": "off-6939209518020",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水，冰糖，乌梅，桂花，重瓣玫瑰，山楂，甘草，陈皮，食用盐",
+    "nutrition": {
+      "energyKj": 179,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 9.8,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 9,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "imageFront": null,
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6928804013672",
+    "name": "冰露纯悦",
+    "brand": "可口可乐",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、食品添加剂（硫酸镁、氯化钾、硫酸锌）",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:drinking-water"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/880/401/3672/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "550 ml"
+  },
+  {
+    "id": "off-6972020770130",
+    "name": "北冰洋橙汁汽水",
+    "brand": "Arctic Ocean",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、糖",
+    "nutrition": {
+      "energyKj": 202,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 11.9090909090909,
+      "sodiumMg": 8
+    },
+    "declaredSugarG": 9,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/202/077/0130/front_fr.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:eco-score",
+      "en:eco-score-b"
+    ],
+    "quantity": "330ml"
+  },
+  {
+    "id": "off-6920459902387",
+    "name": "冰红茶",
+    "brand": "Master Kong",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖､果葡糖浆､速溶红茶,食用盐､红茶浓缩液､食品添加剂(柠檬酸, 柠檬酸钠、维生素C、焦糖色)、食用香精 速溶红茶添加量&gt;0.8g/L",
+    "nutrition": {
+      "energyKj": 165,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 9.7,
+      "sodiumMg": 28
+    },
+    "declaredSugarG": 2.5,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:tea-based-beverages",
+      "en:iced-teas"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/045/990/2387/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250 ml"
+  },
+  {
+    "id": "off-6909548098880",
+    "name": "冬瓜汁饮料",
+    "brand": "深晖",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水,鲜冬瓜,白砂糖,浓缩冬瓜汁,荷叶,甜味剂(950, 952,960),着色剂(150d), 食用香精。 冬瓜汁总含量≥10% 鲜冬瓜含量≥5%",
+    "nutrition": {
+      "energyKj": 34,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 2,
+      "sodiumMg": 15
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/954/809/8880/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6916196410414",
+    "name": "李子园甜牛奶饮品",
+    "brand": "LIZIYUAN",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "饮用水、全脂牛乳粉、 白砂糖、单，双甘油脂肪酸酯、卡拉胶、瓜尔胶、海藻酸钠、碳酸氢二钠、安赛蜜、碳酸氢钠、食品用香精。",
+    "nutrition": {
+      "energyKj": 158,
+      "proteinG": 1,
+      "fatG": 1.2,
+      "carbG": 5.7,
+      "sodiumMg": 29
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/619/641/0414/front_it.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "450ml"
+  },
+  {
+    "id": "off-6914973603394",
+    "name": "士力架",
+    "brand": "Snickers",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "元方 ·房,乳脂肪,食用植物油,乳化剂(犬牛奶巧克力(白砂糖,可可脂,可可液块,脱脂 天津防 大豆磷脂,花生仁、鸡蛋蛋白粉。本品,食用有本品乳糖, 高更加量22%。产品类型:涂层型巧克力制品。玛氏食品(中国)有限公司(A) 9号正编号:SC11311160415037中国北京市怀柔区雁栖经济开发区雁栖 北二 SC1 9号101407 产地:北京市 玛氏食品(嘉兴)有限公司(B)食品生产许可证编号: 产地:3040800549 中国浙江省嘉兴经济技术开发区西南新区圣堂路505号314036 运 有嘉兴市 具体产地见生产日期后首位代码 产品标准号:GB/T 19343 合格品 请置于阴凉干燥清洁处,避免阳光直射。消费者服务热线:400-830-1099 向本地通话费是商标 202 每份(1块平 能量 蛋白质 脂肪 热 脂肪 1039kJ 4.4g 12.2g 45 12% 7% 20% 22 %营养素参津 生产日期见背面封口內層",
+    "nutrition": {
+      "energyKj": 2038,
+      "proteinG": 8.6,
+      "fatG": 23.9,
+      "carbG": 57.8,
+      "sodiumMg": 229
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 8.8,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/497/360/3394/front_zh.6.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "51 g"
+  },
+  {
+    "id": "off-6976046843311",
+    "name": "苹果醋果味饮料",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、苹果原醋(添加量2.0g/L)、浓缩苹果清汁 、柠檬酸、冰乙酸、DL-苹果酸、柠檬酸钠、三聚磷酸鈉、 六偏磷酸钠、乙二胺四乙酸二钠、食用盐、甜蜜素、苯甲酸钠、安赛蜜、阿斯巴甜(含苯丙氨酸)、三氯蔗糖、 焦糖色、柠檬黄、诱惑红、食品用香精。",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/604/684/3311/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "300ml"
+  },
+  {
+    "id": "off-6921351120305",
+    "name": "噜咪啦原切马铃薯片(云贵土豆原味)",
+    "brand": "云贵薯片",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "新鲜马铃薯,棕榈油,云贵土豆原味复合调料",
+    "nutrition": {
+      "energyKj": 2347,
+      "proteinG": 6,
+      "fatG": 35,
+      "carbG": 55.6666666666667,
+      "sodiumMg": 243
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/135/112/0305/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "50 g"
+  },
+  {
+    "id": "off-6971503920239",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉、白砂糖、食用葡萄糖、生活饮用水、 鸡蛋、食用玉米淀粉、食用盐、食品添加剂【复配 膨松剂(焦磷酸二氢二钠、碳酸氢钠、碳酸钙、磷 酸二氢钙、单硬脂酸甘油酯、食用淀粉)、复配乳化 剂(山梨糖醇液、单,双甘油脂肪酸酯、山梨醇酐 单硬脂酸酯、丙二醇、水)、黄原胶、柠檬酸、脱 氢乙酸钠、山梨酸钾】、食品用香精",
+    "nutrition": {
+      "energyKj": 1333,
+      "proteinG": 5.3,
+      "fatG": 1.8,
+      "carbG": 69.2,
+      "sodiumMg": 325
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:cakes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/150/392/0239/front_fr.9.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6948939681928",
+    "name": "蜂蜜琥珀核桃仁",
+    "brand": "百草味",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "核桃仁,植 物油,白砂糖,麦芽糖浆,蜂蜜(添加量≥0.5%)",
+    "nutrition": {
+      "energyKj": 3147,
+      "proteinG": 9.8,
+      "fatG": 74.8,
+      "carbG": 12.5,
+      "sodiumMg": 20
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:nuts-and-their-products",
+      "en:nuts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/893/968/1928/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "100 g"
+  },
+  {
+    "id": "off-6948939696106",
+    "name": "紫皮腰果",
+    "brand": "百草味",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "腰果仁,食用盐",
+    "nutrition": {
+      "energyKj": 2839,
+      "proteinG": 16.4,
+      "fatG": 60.1,
+      "carbG": 19.8,
+      "sodiumMg": 476
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:nuts-and-their-products",
+      "en:nuts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/893/969/6106/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "100 g"
+  },
+  {
+    "id": "off-6938360357264",
+    "name": "法式炙烤腰果仁",
+    "brand": "心里话",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "腰果仁、食用盐、味精 (如对以上配料有不良反应者请慎食用)",
+    "nutrition": {
+      "energyKj": 2548,
+      "proteinG": 19.9,
+      "fatG": 46.2,
+      "carbG": 29.4,
+      "sodiumMg": 226
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:nuts-and-their-products",
+      "en:nuts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/836/035/7264/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "78 g"
+  },
+  {
+    "id": "off-6972153268139",
+    "name": "花椒锅巴",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "大米、植物油、食用木薯淀粉、花椒 味调味料(白砂糖、辣椒粉、花椒粉、食用香 精香料、食用盐、味精、香辛料)、小米、大黄 米、花椒粉",
+    "nutrition": {
+      "energyKj": 2124,
+      "proteinG": 6.2,
+      "fatG": 23.4,
+      "carbG": 67.8,
+      "sodiumMg": 376
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:含油型膨化食品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/215/326/8139/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6974800253352",
+    "name": "三麟苏打汽水",
+    "brand": "三麟",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水\n二氧化碳\n碳酸氢钠",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/480/025/3352/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6904682000355",
+    "name": "王子饼干",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉，白砂糖，食用植物油，淀粉，乳粉，食用葡萄糖,食品添加剂（碳酸氢铵，碳酸氢钠，焦亚硫酸钠）,食用盐,食用香精。",
+    "nutrition": {
+      "energyKj": 2071,
+      "proteinG": 5.1,
+      "fatG": 24,
+      "carbG": 64.5,
+      "sodiumMg": 328
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes"
+    ],
+    "imageFront": null,
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6923167524186",
+    "name": "浪味鳕鱼香丝（微辣味）",
+    "brand": "旺旺",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "冷冻鱼糜(70%)[带鱼肉、鳕鱼肉、白砂糖、焦磷酸钠、三聚磷酸钠]、淀粉、食品用香精、白砂糖、复合调味粉(山梨糖醇、明胶水解蛋白调味粉、味精、酸水解植物蛋白调味粉、5'-呈味核苷酸二钠、L-丙氨酸、琥珀酸二钠、甘氨酸)、山梨糖醇液、大豆油、食用盐、全蔗糖糖浆(白砂糖、水)、 味精、酿造酱油、辣椒粉、鱼露",
+    "nutrition": {
+      "energyKj": 1434,
+      "proteinG": 21.8421052631579,
+      "fatG": 5.26315789473684,
+      "carbG": 51.0526315789474,
+      "sodiumMg": 1637
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 5.26315789473684,
+    "declaredFiberG": null,
+    "offCategories": [],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/316/752/4186/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "38g / 包"
+  },
+  {
+    "id": "off-6937962112714",
+    "name": "番茄鸡蛋牛肉面",
+    "brand": "康师傅",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "面饼:小麦粉、精炼棕榈油、淀粉、醋酸酯淀粉、食用盐、复配酸度调节剂(碳酸钠、三聚磷酸钠、谷氨 酸钠、5”一呈味核苷酸二钠)、谷朊粉、鸡全蛋粉0.15克、羧甲基纤维素钠、复配着色剂(栀子黄、 核黄素)、维生素E。 项目 能量 蛋白质 「高汤包21.5克:番茄酱罐头7克、精炼棕榈油、果葡糖浆、番茄丁罐头、味精、食用盐、蒜、葱、白砂糖、 食用牛油、猪骨高汤(复合调味料)、鸡肉复合调味酱、牛肉复合调味酱、郫县豆瓣、红葱头、姜、 脂肪 乳酸、牛肉、食品用香精、维生素E。 新包:油砂糖、食用盐、麦芽糊精、番茄粉、淀粉、味精、香辛料、牛肉复合调味粉、风味型酵母水解物、 食品用香精、柠檬酸、5'-呈味核苷酸二钠、黄原胶、鸡肉复合调味粉、琥珀酸二钠。 菜包:激水西红柿、调味蛋片0.4克(鸡蛋粉、植物油、山醇液、食用盐、黄原胶、葱、味精、三聚磷 酸钠、焦磷酸钠、B-胡萝卜素、六偏磷酸钠、维生素E)、脱水葱、脫水肉块(熟肉制品)。",
+    "nutrition": {
+      "energyKj": 1882,
+      "proteinG": 7.6,
+      "fatG": 21.5,
+      "carbG": 56.3,
+      "sodiumMg": 2309
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:high",
+      "zh:油炸方便面"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/796/211/2714/front_zh.16.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "115g"
+  },
+  {
+    "id": "off-6971407920304",
+    "name": "调制驼乳粉",
+    "brand": "Silutuobao",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生驼乳(或全脂乳粉)、脱盐乳清粉、乳清蛋白粉、菊粉(添加量3.0g/100g)、低聚异麦芽糖、复配维生素(醋酸视黄酯、胆钙化醇、盐酸吡哆醇、L-抗坏血酸、叶酸)、复配矿物质（碳酸钙、焦磷酸铁、乳酸锌、富硒酵母）、牛磺酸、植物甾醇酯（添加量20mg/100g）、沙棘果粉(添加量20mg/100g)、磷脂酰丝氨酸(添加量20mg/100g)。",
+    "nutrition": {
+      "energyKj": 1930,
+      "proteinG": 20,
+      "fatG": 18,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 5,
+    "offCategories": [
+      "zh:乳制品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/140/792/0304/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "360g"
+  },
+  {
+    "id": "off-6934502301584",
+    "name": "西柚电解质(西柚味)",
+    "brand": "东鹏饮料股份有限公司",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水，白砂糖，果葡糖浆，柠檬酸，食用香精，食用盐，柠檬酸钠，苹果酸，氯化钾，葡萄糖酸",
+    "nutrition": {
+      "energyKj": 104,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 6.1,
+      "sodiumMg": 38
+    },
+    "declaredSugarG": 6.30630630630631,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "zh:电解质"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/450/230/1584/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "555ml"
+  },
+  {
+    "id": "off-6924187858084",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Noyaux de noix (noyaux de noix, noix de badan, noyaux de noix de cajou, noyaux de noisette) fruits secs (canneberges entières, raisins secs, myrtilles, sucre blanc, huile de tournesol)",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruit-based-foods-and-beverages",
+      "en:fruits-and-vegetables-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/418/785/8084/front_fr.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6971095495634",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "全麦小麦90.0%,燕麦9.5%,食用盐",
+    "nutrition": {
+      "energyKj": 1571,
+      "proteinG": 13,
+      "fatG": 3,
+      "carbG": 68.2,
+      "sodiumMg": 197
+    },
+    "declaredSugarG": 0.8,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 9.9,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/109/549/5634/front_fr.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6924773540416",
+    "name": "山椒味风爪",
+    "brand": "友伦",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "鸡爪、泡椒、水、食用盐、白砂糖、鸡精调味料、酵母提取物、香辛料、食品添加剂（谷氨酸钠、乳酸、冰乙酸、乳酸钠、柠檬酸钠、双乙酸钠、三聚磷酸钠、D-异抗坏血酸钠、双乙酸钠、三聚球菌素、山梨酸钾、亚硝酸钠）、食用香精香料",
+    "nutrition": {
+      "energyKj": 516,
+      "proteinG": 15.3,
+      "fatG": 6,
+      "carbG": 2,
+      "sodiumMg": 1660
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:卤制品",
+      "zh:禽类"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/477/354/0416/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "32g"
+  },
+  {
+    "id": "off-8935090914864",
+    "name": "烘烤混合坚果仁",
+    "brand": "Member's Mark",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "腰果仁,扁桃仁,碧根果仁,夏威夷果仁, 开心果仁。",
+    "nutrition": {
+      "energyKj": 10962,
+      "proteinG": 17.9,
+      "fatG": 55.5,
+      "carbG": 20,
+      "sodiumMg": 7
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:nuts-and-their-products",
+      "en:nuts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/893/509/091/4864/front_en.15.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1.1kg"
+  },
+  {
+    "id": "off-6950955909610",
+    "name": "蜂蜜云朵蛋糕",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "鸡蛋全蛋液、小麦粉、白砂糖、鸡蛋蛋黄液、玉米油、海藻糖、甘油、水、羟丙基二淀粉磷酸酯、山梨糖醇液、葡萄 糖浆、蜂蜜、蜂蜜味酱(复合调味料)、乳粉、 单, 双甘油脂肪酸酯、聚甘油脂肪酸酯、丙二醇脂肪酸酯、山梨醇酐单硬脂酸酯、硬脂酸钾、碳酸氢钠、焦磷酸二氢 二钠、葡萄糖酸-8-内酯、磷酸二氢钙、 柠檬酸、磷酸三钙、乳酸脂肪酸甘油酯、 黄原胶、天然胡萝卜素、蔗糖脂肪酸酯 山梨酸钾、丙酸钠、食用盐、食用香精",
+    "nutrition": {
+      "energyKj": 1462,
+      "proteinG": 6.5,
+      "fatG": 13.7,
+      "carbG": 49.7,
+      "sodiumMg": 213
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:cakes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/095/590/9610/front_zh.10.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "50g"
+  },
+  {
+    "id": "off-6974854978010",
+    "name": "12度浓醇豆浆",
+    "brand": "七鲜",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "生活饮用水、非转基因大豆",
+    "nutrition": {
+      "energyKj": 219,
+      "proteinG": 5.3,
+      "fatG": 2.3,
+      "carbG": 2.6,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:dairy-substitutes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/485/497/8010/front_zh.11.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1 L"
+  },
+  {
+    "id": "off-5202908113119",
+    "name": "Grapefruit Juice",
+    "brand": "easa",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "grapefruit juice from natural concentrated grapefruit juice",
+    "nutrition": {
+      "energyKj": 204,
+      "proteinG": 0.5,
+      "fatG": 0,
+      "carbG": 11,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 11,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 1,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/520/290/811/3119/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1L"
+  },
+  {
+    "id": "off-6922507806807",
+    "name": "鸡蛋富强圆挂面",
+    "brand": "陈克明",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,水,食用盐,鸡全蛋 粉(&gt;5%)。 过敏原信息:本产品含有小麦、鸡蛋成 分,此生产线也加工含有燕麦、养麦, 大豆成分的食品。",
+    "nutrition": {
+      "energyKj": 1488,
+      "proteinG": 11,
+      "fatG": 1.4,
+      "carbG": 73.5,
+      "sodiumMg": 916
+    },
+    "declaredSugarG": 73.5,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:挂面"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/250/780/6807/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500g"
+  },
+  {
+    "id": "off-6932009600742",
+    "name": "炭烧奶茶",
+    "brand": "谷淦",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "配料表:饮用水、白砂糖、炼乳粉、全脂奶粉、 红茶粉(添加量1.06)、食品添加剂(单,双甘 油防酸酯、蔗糖脂肪酸酯、黄原胶、乙酰嘆 評、碳酸氢钠、D-异抗坏血酸钠)、食用香精。",
+    "nutrition": {
+      "energyKj": 142,
+      "proteinG": 0.2,
+      "fatG": 1,
+      "carbG": 6,
+      "sodiumMg": 61
+    },
+    "declaredSugarG": 6,
+    "declaredSatFatG": 1,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:奶茶饮料"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/200/960/0742/front_zh.7.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "300g"
+  },
+  {
+    "id": "off-6410405257772",
+    "name": "Oat Drink",
+    "brand": "Pirkka",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "water, Finnish whole grain OAT (9%), rapeseed oil, calcium carbonate, salt, stabilizer (gellan gum), vitamins and minerals (riboflavin, folic acid, iodine, D2, B12)",
+    "nutrition": {
+      "energyKj": 180,
+      "proteinG": 0.3,
+      "fatG": 1.5,
+      "carbG": 6.9,
+      "sodiumMg": 41
+    },
+    "declaredSugarG": 2,
+    "declaredSatFatG": 0.1,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/641/040/525/7772/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1L"
+  },
+  {
+    "id": "off-6970541410207",
+    "name": "油炸休闲小点心（油炸糕点）虾味",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,食用植物油,白砂糖,鱼露, 食用盐,食品添加剂(碳酸氢铵,栀子黄, 甜菜红),味精,海鲜粉调味料(虾粉, 5'-呈味核苷酸二钠)(辐照),食用香精香料, 香辛料(辐照)。",
+    "nutrition": {
+      "energyKj": 2228,
+      "proteinG": 8,
+      "fatG": 27.6,
+      "carbG": 63,
+      "sodiumMg": 840
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/054/141/0207/front_en.10.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "18g"
+  },
+  {
+    "id": "off-6905734301277",
+    "name": "浪味仙创意花式薯卷（意式番茄味）",
+    "brand": "旺旺",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "马铃薯雪花全粉(马铃薯、单,双甘油脂肪酸酯、维生素C、柠檬酸、香辛料、食品用香料)、淀粉、植物油、特丁基对苯二酚、白砂糖、味精、食用盐、食品用香精、阿斯巴甜、苯丙氨酸、番茄粉复合调味料(番茄酱、二氧化硅、食用盐、白砂糖、麦芽糊精、辣椒红、单,双甘油脂肪酸酯、柠檬酸、DL-苹果酸、5'-呈味核苷酸二钠)、蒜粉",
+    "nutrition": {
+      "energyKj": 2219,
+      "proteinG": 4,
+      "fatG": 29.3333333333333,
+      "carbG": 62.6666666666667,
+      "sodiumMg": 561
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fried-foods",
+      "en:fried-plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/573/430/1277/front_zh.8.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "30g / 包"
+  },
+  {
+    "id": "off-9707442171046",
+    "name": "Maestria en cafe Intenso escarlata",
+    "brand": "Matiz",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "100% café excelso Colombiano, variedad Arábica",
+    "nutrition": {
+      "energyKj": 38,
+      "proteinG": 0.3,
+      "fatG": 0.3,
+      "carbG": 1.3,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:beverage-preparations"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/970/744/217/1046/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "340g"
+  },
+  {
+    "id": "off-6900873024285",
+    "name": "康师傅老坛酸菜牛肉面",
+    "brand": "康师傅",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "营养成分 每100克 能量 蛋白质 脂肪 碳水化合物 納 项目 1831千焦 6.0克 25.0克 47.3克 2609臺克 直养素参考值% 22% 10% 42% 16% 130% 周料包请依个人口味酌量添加。 糖 - 香辛料 N麻制品. 味 纳",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:食物"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/087/302/4285/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1"
+  },
+  {
+    "id": "off-7610900081738",
+    "name": "Blueberry Yogurt",
+    "brand": "Emmi",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Milk, jam (sugar, blueberries, E1442, lemon juice concentrate, flavour, preservative potassium sorbate), milk protein, Lb. bulgaricus).",
+    "nutrition": {
+      "energyKj": 396,
+      "proteinG": 4,
+      "fatG": 1.5,
+      "carbG": 16,
+      "sodiumMg": 51
+    },
+    "declaredSugarG": 15,
+    "declaredSatFatG": 0.9,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:desserts",
+      "en:fermented-milk-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/761/090/008/1738/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:made-in-swiss"
+    ],
+    "quantity": "1kg"
+  },
+  {
+    "id": "off-9004584021865",
+    "name": "semi-skimmed UHT milk",
+    "brand": "SalzburgMilch",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "milk",
+    "nutrition": {
+      "energyKj": 197,
+      "proteinG": 3.4,
+      "fatG": 1.5,
+      "carbG": 4.9,
+      "sodiumMg": 52
+    },
+    "declaredSugarG": 4.9,
+    "declaredSatFatG": 0.9,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:homogenized-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/900/458/402/1865/front_en.6.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1l"
+  },
+  {
+    "id": "off-7801383000068",
+    "name": "Frozen Cooked Mussels",
+    "brand": "St Andrews",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "mussels",
+    "nutrition": {
+      "energyKj": 349,
+      "proteinG": 14,
+      "fatG": 3,
+      "carbG": 0,
+      "sodiumMg": 244
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:seafood",
+      "en:frozen-foods",
+      "en:frozen-seafood",
+      "en:mollusc"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/780/138/300/0068/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500g"
+  },
+  {
+    "id": "off-8713734039858",
+    "name": "Emmental Cheese",
+    "brand": "Anker",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes",
+    "nutrition": {
+      "energyKj": 1528,
+      "proteinG": 27.2,
+      "fatG": 28.2,
+      "carbG": 0,
+      "sodiumMg": 488
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 16.3,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/871/373/403/9858/front_en.7.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "150g"
+  },
+  {
+    "id": "off-26246024",
+    "name": "Fine Wafer Crackers Pepper & Chives",
+    "brand": "Damora",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Wheat Flour, Cheese Powder {Milk Solids, Cheese Solids [Milk, Salt, Starter Culture, Enzyme (Rennet)], Salt, Acidity Regulator (330)}, Salt, Vegetable Oil, Cracked Black Pepper (0.6%), Dried Chives (0.4%), Raising Agent (500).",
+    "nutrition": {
+      "energyKj": 1660,
+      "proteinG": 10.6,
+      "fatG": 4.8,
+      "carbG": 74.5,
+      "sodiumMg": 670
+    },
+    "declaredSugarG": 2.3,
+    "declaredSatFatG": 1.8,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/000/002/624/6024/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "100g"
+  },
+  {
+    "id": "off-5760466737654",
+    "name": "Brie castello",
+    "brand": "Arla",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Pasteurized cow's milk, salt, lactic acid culture, rennet (microbial), mould culture.",
+    "nutrition": {
+      "energyKj": 5075,
+      "proteinG": 18,
+      "fatG": 24,
+      "carbG": 0,
+      "sodiumMg": 240
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 15,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/576/046/673/7654/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "125g"
+  },
+  {
+    "id": "off-6922848641310",
+    "name": "黄牌精选红茶",
+    "brand": "立顿",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "红茶",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:hot-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/284/864/1310/front_zh.24.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "100 g"
+  },
+  {
+    "id": "off-8718104917408",
+    "name": "Tequila beer",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Water, Barley malt, Maize, Sugar, Flavours (vodka, citrus), Acidifier: Citric acid, Hopextract",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:alcoholic-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/871/810/491/7408/front_fr.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6921355220476",
+    "name": "全脂鲜牛奶",
+    "brand": "San Yuan",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Milk",
+    "nutrition": {
+      "energyKj": 255,
+      "proteinG": 3,
+      "fatG": 3.4,
+      "carbG": 4.6,
+      "sodiumMg": 69
+    },
+    "declaredSugarG": 4.6,
+    "declaredSatFatG": 1.9,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:fresh-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/135/522/0476/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1.8L"
+  },
+  {
+    "id": "off-8711521903184",
+    "name": "Appelpuree ongezoet",
+    "brand": "Ekoplaza",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "apples",
+    "nutrition": {
+      "energyKj": 891,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbG": 11.5,
+      "sodiumMg": 4
+    },
+    "declaredSugarG": 9.9,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 1.4,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:desserts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/871/152/190/3184/front_en.139.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "700g"
+  },
+  {
+    "id": "off-6946036500036",
+    "name": "乡村干酪 Cottage Cheese",
+    "brand": "Ambrosia Dairy",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Fresh milk, salt, culture",
+    "nutrition": {
+      "energyKj": 413,
+      "proteinG": 13.4,
+      "fatG": 4.6,
+      "carbG": 0.9,
+      "sodiumMg": 203
+    },
+    "declaredSugarG": 0.9,
+    "declaredSatFatG": 3.2,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/603/650/0036/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250g"
+  },
+  {
+    "id": "off-6974717740044",
+    "name": "Kvarg",
+    "brand": "Food Union",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Milk, culture",
+    "nutrition": {
+      "energyKj": 390,
+      "proteinG": 8,
+      "fatG": 4.8,
+      "carbG": 4.5,
+      "sodiumMg": 46
+    },
+    "declaredSugarG": 4.5,
+    "declaredSatFatG": 3.2,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:desserts",
+      "en:fermented-milk-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/471/774/0044/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "120g"
+  },
+  {
+    "id": "off-5937418370157",
+    "name": "Prosciutto Cotto Praga Style",
+    "brand": "ISU",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Pork, water, sodium lactate, salt, glucose, carrageenan, sodium triphosphate, sodium hexametaphosphate, L-ascorbic acid sodium, sodium nitrite, nisin, flavorings",
+    "nutrition": {
+      "energyKj": 698,
+      "proteinG": 18.1,
+      "fatG": 9.9,
+      "carbG": 1.4,
+      "sodiumMg": 996
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 3.9,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:meats-and-their-products",
+      "en:meats",
+      "en:pork-and-its-products",
+      "en:prepared-meats"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/593/741/837/0157/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "100g"
+  },
+  {
+    "id": "off-6938254753639",
+    "name": "Sliced Chicken Breast",
+    "brand": "Hormel",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Chicken breast, water, salt, vinager, sugar, soya protein, sodium triphosphate, flavorings",
+    "nutrition": {
+      "energyKj": 475,
+      "proteinG": 22.7,
+      "fatG": 2.4,
+      "carbG": 0,
+      "sodiumMg": 874
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 1.2,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:meats-and-their-products",
+      "en:meat-preparations",
+      "en:meats",
+      "en:prepared-meats"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/825/475/3639/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "120g"
+  },
+  {
+    "id": "off-8858984800565",
+    "name": "Shrimp Wonton",
+    "brand": "CP",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Shrimp Wonton (94%): Farm-Raised Shrimp (Litopenaeus Vannamei), Wheat Flour, Water, Sesame Oil, Tapioca Starch, Thickener(1420), Salt, Sugar, Acidity regulator (500i, 45 l i), Wheat Gluten, White Pepper; Powder Soup Powder (6%): Sugar, Salt, Maltodextrin, Soybean, Yeast Extract, Palm Oil, Onion Powder, Garlic Powder, Flavour Enhancer(627, 631), Anticaking Agent(551)",
+    "nutrition": {
+      "energyKj": 659,
+      "proteinG": 11.3,
+      "fatG": 2.7,
+      "carbG": 21.6,
+      "sodiumMg": 1680
+    },
+    "declaredSugarG": 1.9,
+    "declaredSatFatG": 0.4,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:frozen-foods",
+      "en:meals",
+      "en:pasta-dishes",
+      "en:pastas-and-dumplings"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/885/898/480/0565/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "144g"
+  },
+  {
+    "id": "off-6911569126077",
+    "name": "Basil Sausage",
+    "brand": "Beretta",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Pork, Water, Food Additives (Acetylated Distarch Adipate, Sodium D-isoascorbate, Sodium Tripolyphosphate, Sodium pyrophosphate, Carrageenan, Sodium Nitrite), Salt, Sugar, Spices, Edible Glucose, Food Flavors, MSG",
+    "nutrition": {
+      "energyKj": 1278,
+      "proteinG": 14,
+      "fatG": 23.7,
+      "carbG": 9.6,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:meats-and-their-products",
+      "en:meats",
+      "en:pork-and-its-products",
+      "en:prepared-meats"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/156/912/6077/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-4770301235338",
+    "name": "(未命名)",
+    "brand": "Volfas Engelman",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "water, barley, wheat malt, oat malt, naked oats, hops, beer yeast",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:alcoholic-beverages",
+      "en:beers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/477/030/123/5338/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:not-advised-for-specific-people",
+      "en:not-advised-for-pregnant-women"
+    ],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-4514603417616",
+    "name": "Mitsuya Peach 完熟もも",
+    "brand": "Asahi",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "carbonated water, sugar (fructose glucose liquid sugar, sugar), peach juice / acidulants, flavoring, vitamin C (E300), thickener [xanthan (E415)]",
+    "nutrition": {
+      "energyKj": 221,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 13,
+      "sodiumMg": 20
+    },
+    "declaredSugarG": 13,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/451/460/341/7616/front_fr.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6909995103670",
+    "name": "小小酥（原味）",
+    "brand": "旺旺",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "大米、植物油(含特丁基对苯二酚)、白砂糖、山梨糖醇液、羟丙基淀粉、酿造酱油、米粉、淀粉、味精、辣椒粉、食用盐、酵母抽提物、辣 椒红、5'-呈味核苷酸二钠、乳糖、 甘草粉、柠檬酸钠、食用盐",
+    "nutrition": {
+      "energyKj": 2302,
+      "proteinG": 3.5,
+      "fatG": 33.5,
+      "carbG": 59,
+      "sodiumMg": 650
+    },
+    "declaredSugarG": 0.2,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/999/510/3670/front_zh.8.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "60g / 袋"
+  },
+  {
+    "id": "off-6938866514680",
+    "name": "高钙牛奶",
+    "brand": "天山雪",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳、稀奶油、乳矿物盐、单硬脂酸甘油酯、蔗糖脂肪酸酯、食用香精 致敏物质提示:含有乳成分 产品标准代号:GB 25191 产品类型:调制乳 贮存条件:阴凉干燥处保存,开启后立即饮用。",
+    "nutrition": {
+      "energyKj": 282,
+      "proteinG": 3.3,
+      "fatG": 3.8,
+      "carbG": 5,
+      "sodiumMg": 69
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:whole-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/886/651/4680/front_zh.19.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6924769700497",
+    "name": "金枪鱼罐头",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "金枪鱼、大豆油、饮用水、食用盐、香辛料",
+    "nutrition": {
+      "energyKj": 948,
+      "proteinG": 14.6,
+      "fatG": 18.9,
+      "carbG": 0,
+      "sodiumMg": 499
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:canned-foods",
+      "en:fishes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/476/970/0497/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "175g"
+  },
+  {
+    "id": "off-6938866514871",
+    "name": "高钙牛奶 10盒",
+    "brand": "天山雪",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳、稀奶油、乳矿物盐、单硬脂酸甘油酯、蔗糖脂肪酸酯、食用香精",
+    "nutrition": {
+      "energyKj": 282,
+      "proteinG": null,
+      "fatG": 3.8,
+      "carbG": 5,
+      "sodiumMg": 69
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:whole-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/886/651/4871/front_zh.14.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml x10"
+  },
+  {
+    "id": "off-6942404210064",
+    "name": "百事可乐",
+    "brand": "百事",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、果葡糖浆、白砂糖、二氧化碳、焦糖色、磷酸、咖啡因、食用香精",
+    "nutrition": {
+      "energyKj": 190,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 11.2,
+      "sodiumMg": 12
+    },
+    "declaredSugarG": 11.2,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/240/421/0064/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "330ml"
+  },
+  {
+    "id": "off-6946663000152",
+    "name": "鲜牛奶",
+    "brand": "一鸣",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 273,
+      "proteinG": 3.8,
+      "fatG": 3.8,
+      "carbG": 4.6,
+      "sodiumMg": 76
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:pasteurised-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/666/300/0152/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "2kg"
+  },
+  {
+    "id": "off-6971496202060",
+    "name": "桂花坚果藕粉",
+    "brand": "美粥食客",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "藕粉(纯藕粉、木薯淀粉、白砂糖、麦芽糊精、 葡萄干、腰果碎、蔓越莓、瓜子仁、山楂片、黑芝麻、冰糖、红枣碎、桂花",
+    "nutrition": {
+      "energyKj": 1526,
+      "proteinG": 2.7,
+      "fatG": 1.5,
+      "carbG": 83.8,
+      "sodiumMg": 91
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:powdered lotus porridge"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/149/620/2060/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500g"
+  },
+  {
+    "id": "off-6971496201001",
+    "name": "混合坚果燕麦片",
+    "brand": "美粥食客",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "燕麦片、葡萄干、玉米片、猕猴桃干、圣女果、香蕉干、红枣干、花生仁、瓜 子仁、南瓜籽、黑芝麻、巴旦木",
+    "nutrition": {
+      "energyKj": 1426,
+      "proteinG": 9.2,
+      "fatG": 6.7,
+      "carbG": 60.1,
+      "sodiumMg": 85
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/149/620/1001/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500g"
+  },
+  {
+    "id": "off-6971496202084",
+    "name": "酸奶水果烘培麦片",
+    "brand": "众懒客",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "烘焙麦片(燕麦片、果葡糖浆、枫糖浆、（植物油、 椰子粉、蜂蜜)、玉米片、葡萄干、猕猴桃干、紫薯圈(小麦粉、紫薯粉、玉米淀粉、马铃薯粉、白砂糖、食用油、植物油、碳酸钙)、红枣干、圣女果干、香蕉干、冻干草莓 、椰子片、草莓酸奶块(风味发酵乳、草莓、脱脂乳粉、乳清粉、麦芽糖浆、白砂糖、食用淀粉、果胶) 蓝莓酸奶块（风味发酵乳、草莓、脱脂乳粉、乳清粉、麦芽糖浆、白砂糖、食用淀粉、果胶)、黄桃酸奶块(风味发酵乳､黄桃、脱脂乳粉、乳清粉、麦芽糖浆、白砂糖、食用淀粉、果胶)",
+    "nutrition": {
+      "energyKj": 1898,
+      "proteinG": 10.4,
+      "fatG": 14.3,
+      "carbG": 70.1,
+      "sodiumMg": 92
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/149/620/2084/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "400g"
+  },
+  {
+    "id": "off-6940187266308",
+    "name": "富硒高钙羊奶粉",
+    "brand": "蒙牛",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "全脂羊奶粉(添加量50g/100g)、脱盐乳清粉、浓缩乳清蛋白粉、果糖、乳糖、植物油、醋酸维生素A、维生素D3、dl−α−醋酸生育酚、L-抗坏血酸、L-抗坏血酸钠、硫酸亚铁、硫酸锌、 碳酸钙、乳矿物盐、富硒酵母(添加量20mg/100g)、大豆磷脂、柠檬酸、氢氧化钾。",
+    "nutrition": {
+      "energyKj": 1998,
+      "proteinG": 19,
+      "fatG": 19.4,
+      "carbG": 56.3,
+      "sodiumMg": 396
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:Goat milk powder"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/018/726/6308/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "800g"
+  },
+  {
+    "id": "off-6930096326262",
+    "name": "姜汁料酒",
+    "brand": "恒顺",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、粳米、麦曲(小麦)、 姜、食用盐、焦糖色。",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:alcoholic-beverages",
+      "en:wines"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/009/632/6262/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6940187265158",
+    "name": "中老年多维高钙奶粉",
+    "brand": "蒙牛",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "脱脂乳粉、全脂乳粉、固体玉米糖浆､乳糖、果糖、食用植物油、醋酸维生素A、维生素D3、dl-α-醋酸生育酚。 L-抗坏血酸、L-抗坏血酸钠、乳矿物盐、碳酸钙、硫酸亚铁、硫酸锌、磷脂、柠檬酸、氢氧化钾。",
+    "nutrition": {
+      "energyKj": 1784,
+      "proteinG": 19.4,
+      "fatG": 11,
+      "carbG": 61.6,
+      "sodiumMg": 305
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dried-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/018/726/5158/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "800g"
+  },
+  {
+    "id": "off-6906754010248",
+    "name": "纯米醋",
+    "brand": "恒顺",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水、大米、食用盐、苯甲酸钠",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:condiments",
+      "en:vinegars",
+      "en:rice-vinegars"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/675/401/0248/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "800ml"
+  },
+  {
+    "id": "off-6922824000643",
+    "name": "薄盐生抽",
+    "brand": "Lee Kum Kee",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水、非转基因黄豆、白砂糖、 食用盐(未加碘)、小麦粉、谷氨酸钠、焦糖色、酵母抽提物、乳酸、山梨酸钾、5'-呈味核苷酸二钠。",
+    "nutrition": {
+      "energyKj": 487,
+      "proteinG": 6.66666666666667,
+      "fatG": 0,
+      "carbG": 22,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:condiments",
+      "en:sauces",
+      "en:soy-sauces",
+      "en:light soy sauce"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/282/400/0643/front_en.17.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6902265751731",
+    "name": "鲜味蚝油",
+    "brand": "海天",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水, 蚝汁(蚝,水,食用盐),白砂糖,食用盐,谷氨酸钠,羟丙基二淀粉磷酸酯,焦糖色,小麦粉,5'-呈味核苷酸二钠,黄原胶,柠檬酸,山梨酸钾。",
+    "nutrition": {
+      "energyKj": 333,
+      "proteinG": 3.33333333333333,
+      "fatG": 0,
+      "carbG": 14.6666666666667,
+      "sodiumMg": 4437
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:condiments",
+      "en:sauces",
+      "en:oyster-sauces"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/226/575/1731/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "700g"
+  },
+  {
+    "id": "off-6920152497029",
+    "name": "藤椒牛肉面",
+    "brand": "康师傅",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "面饼: 小麦粉、精炼棕榈油、淀粉、醋酸酯淀粉、食用盐、谷朊粉、复配酸度调节剂(碳酸钾、碳酸钠、六偏磷酸钠、磷酸二氢钠、三聚磷酸钠、焦磷酸钠、谷氨酸钠、5-呈味核苷酸二钠)、复配增稠剂(大豆分离蛋白、黄原胶、海藻酸钠、食用玉米淀粉、魔芋粉、全蛋粉)、羧甲基纤维素钠、复配着色剂(栀子黄、核黄素)、维生素E \n酱包:精炼棕榈油、盐水渍辣椒、食用牛油、姜、食用盐、牛肉平均0.5克、葱、牛肉复合调味酱、白砂糖、酿造酱油、香辛料、食品用香精、维生素E \n粉菜包:食用盐、白砂糖、味精、脱水辣椒、香辛料、脱水青菜、麦芽糊精、酵母抽提物、食品用香精、脱水香菜、脱 水肉块平均0.4克(熟肉制品)、鸡肉复合调味粉、脱水葱、5'-呈味核苷酸二钠、焦糖色、鲜味复合调味料(麦芽糊精、酵母抽提物、食用盐、白砂糖、食品用香精) \n油包平均1.3克：藤椒调味油平均0.8克(植物油、藤椒)、精炼棕榈油、维生素E",
+    "nutrition": {
+      "energyKj": 1972,
+      "proteinG": 7.2,
+      "fatG": 25.4,
+      "carbG": 53.5,
+      "sodiumMg": 2481
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:dried-products",
+      "en:pastas"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/015/249/7029/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "104g"
+  },
+  {
+    "id": "off-6937962103019",
+    "name": "红烧牛肉面",
+    "brand": "康师傅",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "面饼：小麦粉、精炼棕榈油、淀粉、醋酸酯淀粉、食用盐、谷朊粉、复配酸度调节剂(碳酸钾、碳酸钠、六偏磷酸钠、磷酸二氢钠、三聚磷酸钠、焦磷酸钠、谷氨酸钠、5'-呈味核苷酸二钠)、复配增稠稳定剂(聚丙烯酸钠、黄原胶、碳酸氢钠、羟丙基甲基纤维素、磷酸二氢钠、L-苹果酸、淀粉)、羧甲基纤维素钠、复配着色剂 (栀子黄、核黄素)、维生素E \n酱包:精炼棕榈油、葱、蒜、牛肉平均0.8克、食用盐、姜、味精、辣椒、维生素E \n粉包:食用盐、味精、麦芽糊精、香辛料、白砂糖、食品用香精、酵母抽提 物、5-呈味核苷酸二钠、焦糖色 \n菜包 脱水蔬菜平均4.0克(脱水高丽菜、脱水胡萝卜、脱水葱)、脱水肉块(熟肉制品)、调味蛋粒(鸡蛋粉、淀粉、白砂糖、玉米油、食用盐、 山梨糖醇液、三聚磷酸钠、焦磷酸钠、六偏磷酸钠、β-胡萝卜素、维生素E)",
+    "nutrition": {
+      "energyKj": 1939,
+      "proteinG": 7.1,
+      "fatG": 25.7,
+      "carbG": 51,
+      "sodiumMg": 2428
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:dried-products",
+      "en:pastas"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/796/210/3019/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "106g"
+  },
+  {
+    "id": "off-6937962103293",
+    "name": "劲爽拉面",
+    "brand": "康师傅",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "面饼: 小麦粉、精炼棕榈油、淀粉、食用盐、复配酸度调节剂(碳酸钾、碳酸钠、六偏磷酸钠、磷酸二氢钠、三聚磷酸钠、焦磷酸钠、谷氨酸钠、5'-呈味核苷酸二钠) 复配增稠稳定剂(聚丙烯酸钠、黄原胶、碳酸氢钠、羟丙基甲基纤维素、磷酸二氢钠、L-苹果酸、淀粉)、羧甲基纤维素钠、复配着色剂(栀子黄、核黄素)、维生素E \n粉包:食用盐、味精、白砂糖、麦芽糊精、香辛料、酵母抽提物、5'-呈味核苷酸二钠、辣椒素(辣椒、麦芽糊精)、焦糖色 \n酱包：精炼棕榈油、红葱头、芝麻油、食用牛油、辣椒、香辛料、食用盐、辣椒红、食品用香精、青花椒调味油(植物油、青花椒油、花椒油)、牛肉、辣椒油树脂、维生素E\n菜包：脱水辣椒、芝麻、脱水香菜、脱水肉块(熟肉制品)、调味蛋粒(鸡蛋粉、淀粉、白砂糖、玉米油、食用盐、山梨糖醇液、三聚磷酸钠、焦磷酸钠、六偏磷酸钠、β-胡卜素、维生素E)",
+    "nutrition": {
+      "energyKj": 1957,
+      "proteinG": 7.8,
+      "fatG": 24.5,
+      "carbG": 54,
+      "sodiumMg": 2675
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:dried-products",
+      "en:pastas"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/796/210/3293/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "98g"
+  },
+  {
+    "id": "off-6970561120155",
+    "name": "坚果拿破仑",
+    "brand": "澳可可",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "小麦粉、白砂糖、精炼植物油、起酥油、芝麻、燕麦片、 代可可脂巧克力、蔓越莓、南瓜子、杏仁、巴旦木仁、食用盐、 添加剂(食用香精)。",
+    "nutrition": {
+      "energyKj": 1754,
+      "proteinG": 8.4,
+      "fatG": 19.5,
+      "carbG": 52.3,
+      "sodiumMg": 276
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/056/112/0155/front_en.15.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "130g"
+  },
+  {
+    "id": "off-6927756401001",
+    "name": "榴莲饼",
+    "brand": "轻食咖",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉、白砂糖、豌豆、食用植物油、饮用水、榴莲粉≥10%、食用盐、食用香精、食品添加剂(脱氢乙酸钠、丙酸钙)。",
+    "nutrition": {
+      "energyKj": 1606,
+      "proteinG": 7.3,
+      "fatG": 10.6,
+      "carbG": 64.1,
+      "sodiumMg": 184
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:baked pastry"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/775/640/1001/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "220g"
+  },
+  {
+    "id": "off-6902265128410",
+    "name": "味极鲜",
+    "brand": "海天",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水,非转基因黄豆,食用盐,小麦,谷氨酸钠,白砂糖,酵母抽提物,5'-呈味核苷酸二钠,5'-肌苷酸二钠,苯甲酸钠,三氯蔗糖。",
+    "nutrition": {
+      "energyKj": 320,
+      "proteinG": 12.6666666666667,
+      "fatG": 0,
+      "carbG": 5.33333333333333,
+      "sodiumMg": 7552
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:condiments",
+      "en:sauces",
+      "en:soy-sauces"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/226/512/8410/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1.28L"
+  },
+  {
+    "id": "off-6942806982989",
+    "name": "2.3°鲜花椒油",
+    "brand": "仲景",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "植物油(含TBHQ)、花椒",
+    "nutrition": {
+      "energyKj": 3670,
+      "proteinG": 0,
+      "fatG": 99.2,
+      "carbG": 0,
+      "sodiumMg": 38
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:zanthoxylum bungeanum oil"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/280/698/2989/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "258"
+  },
+  {
+    "id": "off-6970304386886",
+    "name": "风味豆豉",
+    "brand": "Longze",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "配料:豆豉、大豆油、辣椒、白砂糖、 食用盐、味精、香辛料,食品添加剂:山梨酸钾",
+    "nutrition": {
+      "energyKj": 1863,
+      "proteinG": 15.5,
+      "fatG": 30.5,
+      "carbG": 27.1,
+      "sodiumMg": 1093
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:Flavored soy beans"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/030/438/6886/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "400 g"
+  },
+  {
+    "id": "off-6920202888883",
+    "name": "红牛",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "【主要原料】牛磺酸、赖氨酸、肌醇、咖啡因 烟酰胺、维生素B、维生素B2、柠檬酸 白砂糖、香精、柠檬酸钠、苯甲酸钠、柠檬黄、 胭脂红、水片 【功效成分及含量】每罐含:牛磺酸 125mg. 咖啡因 50mg、肌醇 50mg、赖氨酸 50mg. 烟酰胺10mg、维生素B1mg、维生素B23ug",
+    "nutrition": {
+      "energyKj": 233,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 13.3,
+      "sodiumMg": 37
+    },
+    "declaredSugarG": 13.3,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:energy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/020/288/8883/front_en.6.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6919351020022",
+    "name": "沙沟芝麻酱",
+    "brand": "沙沟",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "芝麻",
+    "nutrition": {
+      "energyKj": 2655,
+      "proteinG": 26,
+      "fatG": 52.6,
+      "carbG": 15.7,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:seasame butter"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/935/102/0022/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "200g"
+  },
+  {
+    "id": "off-6955882722431",
+    "name": "云南小粒咖啡",
+    "brand": "后谷",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "咖啡豆",
+    "nutrition": {
+      "energyKj": 1527,
+      "proteinG": 21.9,
+      "fatG": 3.1,
+      "carbG": 61.2,
+      "sodiumMg": 300
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/588/272/2431/front_en.14.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "2g×75Pack"
+  },
+  {
+    "id": "off-8809260947122",
+    "name": "Mini Mix Pretzel and Crackers Chessy",
+    "brand": "Samjin",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Salted Pretzels {wheat flour, palm oil, corn syrup, processed salt [salt (sodium chloride), potassium iodate], fructose syrup, yeast, ammonium bicarbonate, sodium bicarbonate}, biscuits (wheat flour, palm oil, sugar, fructose syrup, ammonium bicarbonate, barley malt powder, yeast extract powder, whey powder, sodium bicarbonate, salt, protease), palm oil, cheddar cheese seasoning [white cheddar cheese seasoning] Ingredients [Blue cheese (sterilized milk, sea salt, lactic acid bacteria, rennet, penicillium), palm oil, dextrin, casein, whey powder, salt, skim milk, cheddar cheese flavor, citric acid], sugar , Cheddar cheese seasoning {Cheddar cheese powder [Cheddar cheese (milk, salt, lactic acid bacteria, rennet)], whey powder, salt, cream, cheese flavor, disodium hydrogen phosphate}, processed Salt (Potassium Phosphate, Salt), Seasoning Powder (Sodium L-Glutamate, Salt, Yeast Extract Powder, Silicon Dioxide), Cheese Powder ';Processed Cheese {Cheese Sauce [Foam, Cheddar Cheese (Milk, salt, lactic acid bacteria, rennet), lipase, protease, guanhua bean gum], cheese flavor}, yeast extract, beta-cyclodextrin, sugar, salt, glucose syrup, cheddar cheese ( milk, salt, lactic acid bacteria, rennet), flavorings (disodium 5'-inosine phosphate, disodium 5'-guanosine phosphate), yeast extract powder, calcium phosphate, cheese flavor, Sweetener (Aspartame)",
+    "nutrition": {
+      "energyKj": 8297,
+      "proteinG": 9,
+      "fatG": 19,
+      "carbG": 66.7,
+      "sodiumMg": 1003
+    },
+    "declaredSugarG": 3,
+    "declaredSatFatG": 9,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/880/926/094/7122/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "65g"
+  },
+  {
+    "id": "off-6911988033413",
+    "name": "大葡町",
+    "brand": "达利园",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉、水、精炼植物油、鸡蛋、白砂糖、椰蓉、人造奶油、葡萄干、脱脂乳粉、起酥油、酵母 、食用盐、谷朊粉、淀粉、食品添加剂 (脱氢乙酸钠、维生素C)",
+    "nutrition": {
+      "energyKj": 1650,
+      "proteinG": 9.2,
+      "fatG": 20.6,
+      "carbG": 42,
+      "sodiumMg": 163
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:bread with rasins"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/198/803/3413/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "115g"
+  },
+  {
+    "id": "off-6970682380056",
+    "name": "春雷笋",
+    "brand": "椒修郎",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "竹笋、水、食用盐、柠檬酸",
+    "nutrition": {
+      "energyKj": 79,
+      "proteinG": 1.08,
+      "fatG": 1.3,
+      "carbG": 0.17,
+      "sodiumMg": 12
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:sprouts",
+      "en:bamboo-shoots"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/068/238/0056/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "600g"
+  },
+  {
+    "id": "off-6901285993060",
+    "name": "饮用纯净水",
+    "brand": "怡宝",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:Purified water"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/128/599/3060/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "12.8L"
+  },
+  {
+    "id": "off-6908791888880",
+    "name": "猪肉粽",
+    "brand": "三全",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "白糯米,水,猪肉,酱油,白砂糖,食用盐,赤砂糖, 味精,白酒,黄酒,鸡精调味料,呈味核苷酸二钠。",
+    "nutrition": {
+      "energyKj": 841,
+      "proteinG": 5,
+      "fatG": 3.7,
+      "carbG": 36.4,
+      "sodiumMg": 357
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:meals",
+      "en:rice-dishes",
+      "en:zongzi"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/879/188/8880/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "750g"
+  },
+  {
+    "id": "off-6926687410243",
+    "name": "单晶冰糖",
+    "brand": "希美",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "单晶体冰糖",
+    "nutrition": {
+      "energyKj": 1688,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 99.3,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 99.3,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:sweeteners",
+      "en:sugars",
+      "en:Crystal sugar"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/668/741/0243/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "350g"
+  },
+  {
+    "id": "off-6902007506001",
+    "name": "料酒",
+    "brand": "恒顺",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、大米、小麦、食用酒精、食用盐、焦糖色。",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:alcoholic-beverages",
+      "en:wines"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/200/750/6001/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "350ml"
+  },
+  {
+    "id": "off-6920458835617",
+    "name": "菊花茶",
+    "brand": "怡宝",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、黄冰糖、杭白菊花速溶粉、柠檬酸钠、碳酸氢钠、 三氯蔗糖、安赛蜜、食品用香精。 \n黄冰糖添加量≥40g/L。 \n* 菊花速溶粉添加量≥2g/L, 其中 1g 菊花速溶粉由大于10朵浙江桐乡杭白菊花制成。",
+    "nutrition": {
+      "energyKj": 82,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 4.6,
+      "sodiumMg": 16
+    },
+    "declaredSugarG": 4.3,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:hot-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/045/883/5617/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "450ml"
+  },
+  {
+    "id": "off-6971196385070",
+    "name": "蜜桃乌龙茶",
+    "brand": "奈雪的茶",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、浓缩水蜜桃汁(添加量≥30g/L)､赤藓糖醇、脱色脱酸浓缩苹果汁、白芽奇兰(乌龙茶,添加量≥5g/L)、罗汉果浓缩汁(添加量≥1.5g/L)、透明质酸钠、维生素C、D-异抗坏血酸钠、柠檬酸、柠檬酸钠、食用香精",
+    "nutrition": {
+      "energyKj": 80,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 7.6,
+      "sodiumMg": 18
+    },
+    "declaredSugarG": 4.7,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:Flavoured oolong tea"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/119/638/5070/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6971196385025",
+    "name": "葡萄乌龙茶",
+    "brand": "奈雪的茶",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、浓缩葡萄汁（添加量 ≥30g/L）、浓缩苹果汁、赤藓糖醇、乌龙茶茶叶(添加量≥5g/L)、罗 汉果浓缩汁(添加量≥1.5g/L)、紫胡萝卜浓缩汁、透明质酸钠、维生素C、D-异抗坏血酸钠、柠檬酸、柠檬酸钠、食用香精",
+    "nutrition": {
+      "energyKj": 80,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 7.8,
+      "sodiumMg": 18
+    },
+    "declaredSugarG": 4.7,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:Flavored oolong tea"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/119/638/5025/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6907992103051",
+    "name": "风味发酵乳",
+    "brand": "伊利",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳（添加量80%） 水、白砂糖、果葡糖浆、浓缩乳清蛋白粉、羟丙基二淀粉磷酸酯，琼脂，嗜热链球菌、保加利亚乳杆菌、乳双歧杆菌(BL-99益生菌)。",
+    "nutrition": {
+      "energyKj": 324,
+      "proteinG": 2.8,
+      "fatG": 3.1,
+      "carbG": 9.5,
+      "sodiumMg": 71
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:desserts",
+      "en:fermented-milk-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/799/210/3051/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "450g"
+  },
+  {
+    "id": "off-6971884850620",
+    "name": "原味奶昔乳酸菌饮品（果汁型）",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水、果葡糖浆、全脂奶粉、浓缩苹果汁(17g/L)、食品添加剂【羧甲基纤维素钠、黄原胶、单,双硬脂酸甘油酯、 乳酸、柠檬酸、DL-苹果酸、环己基氨基 磺酸钠、安赛蜜、阿斯巴甜(含苯丙氨酸)、 山梨酸钾】嗜热链球菌、保加利亚乳杆菌、 食品用香精。 果汁含量:≥10%",
+    "nutrition": {
+      "energyKj": 119,
+      "proteinG": 0.7,
+      "fatG": 0.7,
+      "carbG": 4.8,
+      "sodiumMg": 30
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:sterilized lactobacillus drink"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/188/485/0620/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "300g"
+  },
+  {
+    "id": "off-6938866513607",
+    "name": "纯牛奶",
+    "brand": "天山雪",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 266,
+      "proteinG": 3,
+      "fatG": 3.6,
+      "carbG": 4.8,
+      "sodiumMg": 61
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:homogenized-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/886/651/3607/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "185g"
+  },
+  {
+    "id": "off-6938866540726",
+    "name": "麦香牛奶",
+    "brand": "天山雪",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "生牛乳、水、白砂糖、燕麦粉, 食品添加剂(单,双甘油脂肪酸酯、 黄原胶、三聚磷酸钠、卡拉胶、瓜尔胶)、食品用香精 燕麦粉添加量:5g/kg 乳含量≥80%",
+    "nutrition": {
+      "energyKj": 290,
+      "proteinG": 2.6,
+      "fatG": 3.2,
+      "carbG": 7.5,
+      "sodiumMg": 69
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/886/654/0726/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "185g"
+  },
+  {
+    "id": "off-6938866510453",
+    "name": "天原生态纯牛奶",
+    "brand": "天山雪",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 274,
+      "proteinG": 3.3,
+      "fatG": 3.6,
+      "carbG": 5,
+      "sodiumMg": 59
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:whole-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/886/651/0453/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6972507871909",
+    "name": "拌饭海苔（原味）",
+    "brand": "笑口喵",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "配料表:干紫菜(干坛紫菜)、白芝麻、白砂糖、玉米油、芝麻油、食用盐",
+    "nutrition": {
+      "energyKj": 2276,
+      "proteinG": 18.2,
+      "fatG": 34.9,
+      "carbG": 39.7,
+      "sodiumMg": 1036
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:seeweed"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/250/787/1909/front_en.15.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250g"
+  },
+  {
+    "id": "off-6927344720187",
+    "name": "红小豆",
+    "brand": "梦思乡",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "红小豆",
+    "nutrition": {
+      "energyKj": 1293,
+      "proteinG": 20.2,
+      "fatG": 0.6,
+      "carbG": 55.7,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:legumes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/734/472/0187/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500g"
+  },
+  {
+    "id": "off-6923986040171",
+    "name": "95%蜂蜜&红枣枸杞提取液",
+    "brand": "蜂之巢",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "红枣枸杞提取液（红枣、枸杞、饮用水），柠檬酸钠，食品香精",
+    "nutrition": {
+      "energyKj": 1343,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 79,
+      "sodiumMg": 234
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/398/604/0171/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "14g"
+  },
+  {
+    "id": "off-6922577704188",
+    "name": "老酸奶",
+    "brand": "君乐宝",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳(添加量≥92%),白砂糖,乳清蛋白粉,嗜热链球菌,保加利亚乳杆菌,乙酰化二淀粉磷酸酯、明胶、果胶、单硬脂酸甘油酯,三氯蔗糖",
+    "nutrition": {
+      "energyKj": 356,
+      "proteinG": 3.3,
+      "fatG": 3.5,
+      "carbG": 10,
+      "sodiumMg": 61
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:desserts",
+      "en:fermented-milk-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/257/770/4188/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "139g"
+  },
+  {
+    "id": "off-6934665095528",
+    "name": "双拼果粒 桃气菠菠",
+    "brand": "蒙牛",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳、果葡糖浆、黄桃菠萝果酱、白砂糖、羟丙基二淀粉磷酸酯、琼脂、维生素D、三氯蔗糖、安赛蜜、保加利亚乳杆菌、嗜热链球菌",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:desserts",
+      "en:fermented-milk-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/466/509/5528/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "90g"
+  },
+  {
+    "id": "off-6935625700957",
+    "name": "长富纯牛奶250mL",
+    "brand": "长富",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 271,
+      "proteinG": 3.3,
+      "fatG": 3.5,
+      "carbG": 5,
+      "sodiumMg": 70
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:乳制品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/562/570/0957/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "4"
+  },
+  {
+    "id": "off-6920907808612",
+    "name": "呀土豆",
+    "brand": "好丽友",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "马铃薯粉(马铃薯,单双甘油脂肪酸酯、柠檬酸、亚硫酸氢钠),植物 油,淀粉、食品添加剂(酸酸酸淀粉、磷酸酯双淀粉),滋香烤鸡味调味料 「白砂糖,麦芽糊精,食用香精,食用盐、香辛料,味精,酿造酱油,二氧化 硅、柠檬酸、酵母抽提物,阿斯巴甜(含苯丙氨酸),5-呈味核苷酸二钠筆 根红,植物油․磷脂,焦糖色食用葡萄糖,紐甜, 食用盐,食用香精。",
+    "nutrition": {
+      "energyKj": 1558,
+      "proteinG": 2.8,
+      "fatG": 21.3,
+      "carbG": 42.5,
+      "sodiumMg": 211600
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/090/780/8612/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "70g"
+  },
+  {
+    "id": "off-6974468300016",
+    "name": "含气果味咖啡饮料（红西柚味）",
+    "brand": "无限波谱",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水、咖啡浓缩液(添加量25%)、苹果浓缩汁(添加量≥50.0g/L)、红西柚浓缩汁(添加量≥10.0g/L) 、聚葡萄糖、维生素C、二氧化碳、柠檬酸、柠檬酸钠、三氯蔗糖、山梨酸钾、食用香精",
+    "nutrition": {
+      "energyKj": 92,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 5.2,
+      "sodiumMg": 6
+    },
+    "declaredSugarG": 4.8,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:carbonated coffee drink"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/446/830/0016/front_en.14.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "300ml"
+  },
+  {
+    "id": "off-6924743915060",
+    "name": "美国经典原味薯片",
+    "brand": "Lay's",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "乐事一下 真愛 够薄 口味 消费者热线:4008208718(中国大陆地区适用, 地工作日周一到周五9:00--17:00)话费自理 贮存条件:请置于干燥凉爽处,避免阳光直射。开口后请即食,以免受潮。 融方生产商($):百事食品(中国)有限公司 产地:上海市 上海市松江工业区东兴路99号 邮政编码:201600 食品生产许可证编号: SC112310117003092 生产商:百事食品(中国)门限公司北京分厂(QY) 产地:北京市 北京市大兴区青:店镇联华路8号 邮政编码:102605 食品生产许可证编号: SC10111151410047 百事食品(中国)有限公司武汉分厂(WH) 产地:湖北省武汉市 湖北省武汉市东西湖区走马岭汇通大道10号 邮政编码:430043 食品生产许可证编号: SC11242011202405 受委托生产商:百事食品(四川)有限公司(DY)地:四川省德阳市 四川省德阳市泰山南路三段110号 邮政编码 618000 食品生产许可证编号: SC11251060100019 百事食品(广东)有限公司(FS)产地:广东省深山市 广东省佛山市南海区丹灶镇利众路5号 政编码:528216 食品生产许可证编号:SC112440610057 百事食品(山东)有限公司(SD) 产地:山东省临沂市 山东省临沂市临沭县经济开发区持大道1号邮政编码:276715 食品生产许可证编号: SC11237132919294 具体生产商请以生产日期旁的20代号为准 熱品标准号:QB/T 2686 马铃薯、植物油、经典原味调味料(含5’呈味核苷 酸二钠)、TBHQ。 每份食用 项目 能量 蛋白质 肪 - 饱和腰 碳水化 - 糖 2 钠 云重食品 “乐事”、“Lay's”、“百事食品”及其相关文字热經改 为美国百事公司所拥有的商标,百善量易 公司获准在中国使用 保质期 生产",
+    "nutrition": {
+      "energyKj": 916,
+      "proteinG": 2.3,
+      "fatG": 14,
+      "carbG": 21.1,
+      "sodiumMg": 200
+    },
+    "declaredSugarG": 0.5,
+    "declaredSatFatG": 7,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:meats-and-their-products",
+      "en:salty-snacks",
+      "en:appetizers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/474/391/5060/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6938536200103",
+    "name": "肉松面包",
+    "brand": "金马",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "小麦粉、人造奶油、奶粉、 鸡蛋、白砂糖、酵母、肉松、沙拉酱、食盐、饮用水。 食品添加剂:膨松剂 ( 酶制剂、 维生素C、硬脂酰乳酸钠、葡萄糖、淀粉)丙酸钙、脱脂乙酸钠、 食用香精。",
+    "nutrition": {
+      "energyKj": 1329,
+      "proteinG": 9.4,
+      "fatG": 3.5,
+      "carbG": 61.7,
+      "sodiumMg": 304
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/853/620/0103/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "100g"
+  },
+  {
+    "id": "off-6902083891329",
+    "name": "娃哈哈 营养快线 香草冰淇淋味",
+    "brand": "Wahaha",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖、全脂乳粉、食品添加剂(羧甲基纤维素钠、柠檬酸、乳酸、柠檬酸钠、三聚磷酸钠、瓜尔胶、蔗糖素、安赛蜜、黄原胶、乳酸链球菌素)、浓缩苹果汁、脱脂乳粉、食用香精、牛磺酸、维生素E(dl-a-醋酸生育酚)、柠檬酸锌、烟酰胺",
+    "nutrition": {
+      "energyKj": 190,
+      "proteinG": 1,
+      "fatG": 1.2,
+      "carbG": 6,
+      "sodiumMg": 100
+    },
+    "declaredSugarG": 2.5,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/208/389/1329/front_zh.27.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500 g"
+  },
+  {
+    "id": "off-6923644299774",
+    "name": "特仑苏有机纯牛奶",
+    "brand": "特仑苏",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "有机生牛乳",
+    "nutrition": {
+      "energyKj": 309,
+      "proteinG": 3.6,
+      "fatG": 4.4,
+      "carbG": 5,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "zh:全脂灭菌乳"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/364/429/9774/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:cn-bio-102"
+    ],
+    "quantity": ""
+  },
+  {
+    "id": "off-6928804016567",
+    "name": "雪碧（无糖）",
+    "brand": "可口可乐",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、抗性糊精､食品添加剂[二氧化碳､柠檬酸、 柠檬酸钾、苯甲酸钠､阿斯巴甜(含苯丙氨酸)、安赛 蜜、蔗糖素)、食用香精",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 1.5,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/880/401/6567/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": ""
+  },
+  {
+    "id": "off-6955150411463",
+    "name": "有机纯牛奶",
+    "brand": "圣牧",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "有机生牛乳",
+    "nutrition": {
+      "energyKj": 285,
+      "proteinG": 3.3,
+      "fatG": 3.9,
+      "carbG": 5,
+      "sodiumMg": 65
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "zh:牛奶"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/515/041/1463/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:organic",
+      "en:eu-organic",
+      "en:cn-bio-154"
+    ],
+    "quantity": "200ml"
+  },
+  {
+    "id": "off-6920616317580",
+    "name": "旺旺雪饼",
+    "brand": "旺旺",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "配料表:大米(≥60%)、白砂糖、植物油(含特丁基 对苯二酚)、米粉、淀粉、食用盐、食品添加剂(明胶 5'-呈味核苷酸二钠)、味精 致敏原信息:此生产线也生产含大豆、麸质谷物、鱼、 蛋、甲壳纲类动物、乳制品的产品",
+    "nutrition": {
+      "energyKj": 2017,
+      "proteinG": 4.4,
+      "fatG": 18.5,
+      "carbG": 74,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/061/631/7580/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "258g"
+  },
+  {
+    "id": "off-6901209200182",
+    "name": "(未命名)",
+    "brand": "光明",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "GAP--AE FX\nUBEST\n8128285%.38S1 200mgl\nRRAIGD\n100H 33\n2727\n34-\na8RBa-1200mgl, p-URR 3000mL\nAC. 15sH\n7\n372-60\nPRRA G8 19645\nAESB4899\nBEAnns784\nEAE SC10533010410342",
+    "nutrition": {
+      "energyKj": 272,
+      "proteinG": 3.4,
+      "fatG": 3.4,
+      "carbG": 5.2,
+      "sodiumMg": 58
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:cow-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6959269900450",
+    "name": "鲜蛋酥",
+    "brand": "柏味园",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,白砂糖,鲜鸡蛋(添加量≥25%), 棕榈油,食用盐,食品添加剂(碳酸氢铵, 香兰素,β-胡萝卜素)。",
+    "nutrition": {
+      "energyKj": 1750,
+      "proteinG": 7.6,
+      "fatG": 6.4,
+      "carbG": 81.4,
+      "sodiumMg": 213
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/926/990/0450/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "400g / 包"
+  },
+  {
+    "id": "off-6937451811531",
+    "name": "果味大棒棒糖（蜜桃味）",
+    "brand": "不二家",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "白砂糖、麦芽糖浆、食品添加剂(柠檬酸、红花黄)、 食品用香精、速溶绿茶粉",
+    "nutrition": {
+      "energyKj": 1623,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 97,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 97,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:candies"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/745/181/1531/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "10g / 支 / 包"
+  },
+  {
+    "id": "off-6926475208441",
+    "name": "阿萨姆风味低糖奶茶",
+    "brand": "优乐美",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "调制乳粉、植脂末、白砂糖、麦芽糊精、乳粉(脱脂乳粉、全脂乳粉)、阿萨姆速溶红茶粉、食用香精",
+    "nutrition": {
+      "energyKj": 224,
+      "proteinG": 0.8,
+      "fatG": 2,
+      "carbG": 8,
+      "sodiumMg": 19
+    },
+    "declaredSugarG": 4.1,
+    "declaredSatFatG": 1.5,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:hot-beverages",
+      "en:Milk tea"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/647/520/8441/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "25g / 包"
+  },
+  {
+    "id": "off-6953367200078",
+    "name": "椰子汁饮料",
+    "brand": "隐雪",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖、鲜椰肉汁、羧甲基纤维素钠、单双甘油脂肪酸酯、酪蛋白酸钠、黄原胶、琼脂、安赛蜜、三氯蔗糖、碳酸氢钠、柠檬酸钠、食用盐、食用香精",
+    "nutrition": {
+      "energyKj": 126,
+      "proteinG": 0,
+      "fatG": 1.8,
+      "carbG": 3.5,
+      "sodiumMg": 60
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/336/720/0078/front_zh.16.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "310mL / 罐"
+  },
+  {
+    "id": "off-6911988009852",
+    "name": "高纤粗粮饼",
+    "brand": "好吃点",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉、精炼植物油、食用小麦麸皮、白砂糖、起酥油、鸡蛋、芝麻、花生酱、食品添加剂 (磷酸氢钙、磷脂、碳酸氢钠、碳酸氢铵、柠檬酸、 特丁基对苯二酚)、食用盐、食用香料",
+    "nutrition": {
+      "energyKj": 2100,
+      "proteinG": 6.8,
+      "fatG": 33,
+      "carbG": 42,
+      "sodiumMg": 240
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 6.2,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/198/800/9852/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "168g / 包 / 24 片"
+  },
+  {
+    "id": "off-6911988000170",
+    "name": "高纤蔬菜饼",
+    "brand": "好吃点",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉、精炼植物油、食用小麦麸皮、白砂糖、起酥油、 鸡蛋、芝麻、花生酱、抗性糊精、食品添加剂(磷酸氢钙、磷脂、碳酸氢钠、碳酸氢铵、柠檬酸、特丁基对苯二酚)、脱水蔬菜(分葱)、食用盐、番茄粉、食用香料",
+    "nutrition": {
+      "energyKj": 2065,
+      "proteinG": 6.9,
+      "fatG": 32,
+      "carbG": 42,
+      "sodiumMg": 240
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 6.2,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/198/800/0170/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "168g / 包 / 24 片"
+  },
+  {
+    "id": "off-6971496208888",
+    "name": "红枣莲子藕粉",
+    "brand": "美粥食客",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "藕粉(藕粉、麦芽糊精、食用葡萄糖、 白砂糖、红枣粉、莲子粉)、红枣碎",
+    "nutrition": {
+      "energyKj": 1518,
+      "proteinG": 3.6,
+      "fatG": 5.6,
+      "carbG": 73.5,
+      "sodiumMg": 22
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:冲调食品",
+      "zh:方便食品",
+      "zh:藕粉"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/149/620/8888/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500g / 包 / 14 袋"
+  },
+  {
+    "id": "off-6908471004944",
+    "name": "六个核桃",
+    "brand": "养元",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、核桃仁、白砂糖、低聚果糖、低聚异麦芽糖、单双甘油脂肪酸酯、酪朊酸钠、黄原胶、蔗糖脂肪酸酯、碳酸钠、三氯蔗糖、食品用香精",
+    "nutrition": {
+      "energyKj": 169,
+      "proteinG": 0.6,
+      "fatG": 2.6,
+      "carbG": 3.7,
+      "sodiumMg": 27
+    },
+    "declaredSugarG": 3.7,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:dairy-substitutes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/847/100/4944/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "180mL / 罐"
+  },
+  {
+    "id": "off-6930466605423",
+    "name": "熟榴莲（榴莲口味雪糕）",
+    "brand": "港湾码头",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "饮用水、白砂糖、麦芽糖浆、食用植物油、全脂奶粉、乳清粉、奶油、榴莲泥、食品添加剂（单双甘油脂肪酸酯、瓜尔胶、黄原胶、羧基甲纤维素钠、刺槐豆胶、甜蜜素、安赛蜜、阿斯巴甜、苯丙氨酸、糖精钠、柠檬黄、食用香精）",
+    "nutrition": {
+      "energyKj": 696,
+      "proteinG": 1.5,
+      "fatG": 8.2,
+      "carbG": 21.6,
+      "sodiumMg": 51
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/046/660/5423/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "62g / 支"
+  },
+  {
+    "id": "off-6972146801022",
+    "name": "精制刺梨汁",
+    "brand": "羿宫坊",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "刺梨原汁、赤藓糖醇、三氯蔗糖",
+    "nutrition": {
+      "energyKj": 165,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 9.7,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 4.35,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/214/680/1022/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "50ml * 10 瓶 / 盒"
+  },
+  {
+    "id": "off-6972333776270",
+    "name": "花式面包",
+    "brand": "桃李",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "面包用小麦粉(小麦粉,硬脂酰乳酸钙),水,白砂糖,起酥油,鲜鸡蛋,小麦粉,鲜酵母,食用盐,食品添加剂(硫酸钙,单双甘油脂肪酸酯,硬脂酰乳酸钠,碳酸钙,维生素C,丙酸钙,脱氢乙酸钠)",
+    "nutrition": {
+      "energyKj": 1422,
+      "proteinG": 8.8,
+      "fatG": 8.2,
+      "carbG": 57,
+      "sodiumMg": 237
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/233/377/6270/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "70g / 包"
+  },
+  {
+    "id": "off-6973500311317",
+    "name": "引子月饼",
+    "brand": "贵顺成",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "面粉、苏子、胡麻、猪油、白砂糖、 植物油、麦芽糖、芝麻、芸豆、食用盐、饮用水、羟丙基二淀粉碘酸酯、 山梨酸钾",
+    "nutrition": {
+      "energyKj": 2245,
+      "proteinG": 9.2,
+      "fatG": 38.4,
+      "carbG": 39.3,
+      "sodiumMg": 12
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:pies",
+      "zh:月饼",
+      "zh:黔式月饼"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/350/031/1317/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "50g / 包"
+  },
+  {
+    "id": "off-6927770903437",
+    "name": "花都牧场有机纯牛奶",
+    "brand": "山花",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 317,
+      "proteinG": 3.8,
+      "fatG": 4.1,
+      "carbG": 5.9,
+      "sodiumMg": 79
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/777/090/3437/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:fsc"
+    ],
+    "quantity": "220ml / 瓶"
+  },
+  {
+    "id": "off-6901668006011",
+    "name": "奥利奥 树莓味+蓝莓味",
+    "brand": "亿滋",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,白砂糖, 食用植物油,可可粉,淀粉, 食用葡萄糖, 食品添加剂 (碳酸氢钠,碳酸氢铵,大豆磷脂, 柠 檬酸, 胭脂虫红, 栀子蓝),食用盐,蓝莓粉,树莓粉,食用香精香料",
+    "nutrition": {
+      "energyKj": 8121,
+      "proteinG": 4.63917525773196,
+      "fatG": 20.6185567010309,
+      "carbG": 67.0103092783505,
+      "sodiumMg": 361
+    },
+    "declaredSugarG": 41.2371134020619,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 5.15463917525773,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/166/800/6011/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "194g / 4 包"
+  },
+  {
+    "id": "off-6973330082548",
+    "name": "奇亚籽胚芽燕麦片",
+    "brand": "燕谷坊",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "胚芽燕麦片、黑麦片、 燕麦麸皮粉、奇亚籽",
+    "nutrition": {
+      "energyKj": 1490,
+      "proteinG": 16.6,
+      "fatG": 5.9,
+      "carbG": 49.3,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 18.9,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:seeds",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/333/008/2548/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:Whole Grains Council"
+    ],
+    "quantity": "35g / 袋"
+  },
+  {
+    "id": "off-86009102",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "10 Supplement Facts Serving Size: 1 Capsule Servings per Container: 60 Vitamin C (as Ascorbic Acid) Thiamin (Thiamin HCI) Riboflavin Niacin (as Niacinamide) Vitamin B6 (as Pyridoxine HCI) Vitamin B12 (as Cyanocobalamin) Biotin Choline (as Choline Bitartrate) Zinc (as Zinc Oxide) Selenium (as L-Selenomethionine) AnaGainTM Nu Black Sesame Extract Inositol *%DV not established Amount per Serving 50 mg 50 mg 5mg 50 mg NE 5 mg 15 mcg 10 mcg 12 mg 50 mg 30 mcg 100 mg 50 mg 12 mg Other Ingredients: Hypromellose (Veggie capsule shell), Silicon Dioxide and Magnesium Stearate. AnaGain Nu is a trademark of Mibelle Biochemistry XDV 56% 4167% 385% 312% 294% 576% 34% 2% 454% 55%",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dietary-supplements",
+      "zh:Comprehensive nutrition"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/000/008/600/9102/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:vegetarian",
+      "en:no-gluten",
+      "en:vegan"
+    ],
+    "quantity": null
+  },
+  {
+    "id": "off-6920912356795",
+    "name": "烧烤牛排味块",
+    "brand": "盼盼",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "大米粉、植物油、小麦粉、白砂糖、玉米糁、蛋黄粉制品(鸡蛋、麦芽糊精、植物油)、食用淀粉、味精、牛肉粉复合调味料 (白砂糖、麦芽糊精、牛肉粉(牛肉、酸水解植物蛋白调味液、食用牛 油、食用葡萄糖)、食用盐、味精、食用玉米淀粉、酵母抽提物、食品用 香精、酿造酱油、香辛料、二氧化硅)、食品用香精、复合酸水 解植物蛋白调味粉(酸水解植物蛋白调味液、麦芽糊精、食用盐、味精、 复色、琥珀酸二钠、呈味核苷酸二钠、L-丙氨酸、柠檬酸)、香辛料、碳酸钙、柠檬黄、特丁基对苯二酚",
+    "nutrition": {
+      "energyKj": 2386,
+      "proteinG": 5.1,
+      "fatG": 36.5,
+      "carbG": 55.8,
+      "sodiumMg": 548
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:fried-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/091/235/6795/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "60g / 袋"
+  },
+  {
+    "id": "off-6901668005854",
+    "name": "DL 100%葡萄复合果汁",
+    "brand": "Oreo",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、葡萄原汁、浓缩葡萄汁、浓缩苹果汁",
+    "nutrition": {
+      "energyKj": 213,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 12.3,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 12,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/166/800/5854/front_zh.28.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1L"
+  },
+  {
+    "id": "off-6931958063691",
+    "name": "QQ桃桃果汁100软糖",
+    "brand": "旺旺",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "麦芽糖、白砂糖、脱色脱酸苹果浓缩汁、明胶、山梨糖醇液、柠檬酸、果胶、 柠檬酸钠、巴西棕榈蜡、食用葡萄糖、浓缩桃汁、浓缩果蔬汁(红萝卜、苹果、黑加仑、柠檬酸)、食品用香精",
+    "nutrition": {
+      "energyKj": 1355,
+      "proteinG": 6.5,
+      "fatG": 0,
+      "carbG": 73.2,
+      "sodiumMg": 31
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:sweeteners",
+      "en:sugars"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/195/806/3691/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "60g / 袋"
+  },
+  {
+    "id": "off-6954767400785",
+    "name": "阳光 柠檬味茶饮料",
+    "brand": "可口可乐",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水,赤藓糖醇,红茶茶叶,速溶红茶粉,浓缩柠檬汁、维生素C,柠檬酸,葡萄糖酸钠,蔗糖素,安赛蜜,食用盐,食用香精",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 2.8,
+      "sodiumMg": 9
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:hot-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/476/740/0785/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6931958034592",
+    "name": "旺仔泡芙（牛奶味）",
+    "brand": "旺旺",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "起酥油[精炼植物油(含维生素E)、单, 双甘油脂肪酸酯]、鸡蛋、小麦粉、白砂糖、全脂乳粉、植物油(特丁基对苯二酚)、乳糖、淀粉、食用盐、碳酸氢铵、碳酸氢钠、磷脂、酪蛋白酸钠、液体麦精(大麦、麦芽、水)、食品用香精",
+    "nutrition": {
+      "energyKj": 2424,
+      "proteinG": 9.2,
+      "fatG": 39.5,
+      "carbG": 47.4,
+      "sodiumMg": 505
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/195/803/4592/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "30g / 包"
+  },
+  {
+    "id": "off-6922507005408",
+    "name": "康师傅包装饮用水",
+    "brand": "康师傅",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水，氯化钾，硫酸镁",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:drinking-water"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/250/700/5408/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:Water",
+      "zh:包装饮用水"
+    ],
+    "quantity": "1500g"
+  },
+  {
+    "id": "off-6971714701566",
+    "name": "谷焙奇酸奶沙琪玛",
+    "brand": "谷焙奇",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Wheat flour, eggs, maltitol liquid, edible vegetable oil (containing tert-butylhydroquinone), gluten, yogurt powder (added ≥3%), whole milk powder (added amount≥2%), sesame seeds, edible salt, food additives (sorbitol liquid, sodium bicarbonate, disodium dibasic phosphate), food flavor.",
+    "nutrition": {
+      "energyKj": 530,
+      "proteinG": 2.08571428571429,
+      "fatG": 4.28571428571429,
+      "carbG": 19.7428571428571,
+      "sodiumMg": 16
+    },
+    "declaredSugarG": 17.1428571428571,
+    "declaredSatFatG": 0.571428571428571,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:desserts",
+      "en:snacks",
+      "en:dairy-desserts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/171/470/1566/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:Cold-processed-pastries",
+      "zh:冷加工糕点"
+    ],
+    "quantity": "350g"
+  },
+  {
+    "id": "off-6906907417344",
+    "name": "劲爽无糖百事可乐",
+    "brand": "百事",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、食品添加剂(二氧化碳、 焦糖色、磷酸、柠檬酸钠、阿斯巴甜(含苯丙氨酸)、食用香精、 安赛蜜、咖啡因、山梨酸钾、蔗糖素、柠檬酸、苯甲酸钠",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 1
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:artificially-sweetened-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/690/741/7344/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:可乐型汽水"
+    ],
+    "quantity": "900毫升"
+  },
+  {
+    "id": "off-6922507036808",
+    "name": "康师傅喝开水",
+    "brand": "康师傅",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters",
+      "en:drinking-water"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/250/703/6808/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:熟水饮用水"
+    ],
+    "quantity": "1500g"
+  },
+  {
+    "id": "off-6911988051745",
+    "name": "达利园黑全麦软面包",
+    "brand": "达利园",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "小麦粉、白砂糖、水、人造奶油、鸡蛋、黑全麦粉、全麦粉、精炼植物油，果葡糖浆，酵母，可可粉，谷朊粉， 食用小麦麸皮、乳粉、食用盐、麦芽糖浆、食品添加剂(碳酸氢钠、脱氢乙酸钠，硬脂酰乳酸钙， 蔗糖脂肪酸酯、山梨酸钾、抗坏血酸棕榈酸酯、柠檬酸、纽甜)、食用酒精、食用香料。",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/198/805/1745/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:调理面包"
+    ],
+    "quantity": "散装称重"
+  },
+  {
+    "id": "off-6974117080016",
+    "name": "手撕素牛排（黑椒味）",
+    "brand": "红派",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "大豆拉丝蛋白(膨化豆制品)、水、 大豆油、黑胡椒、食用盐、白砂糖、天然香辛料、 食用香精香料、食品添加剂(谷氨酸钠、乙基麦 芽酚、山梨酸钾)。",
+    "nutrition": {
+      "energyKj": 1056,
+      "proteinG": 18.6,
+      "fatG": 16.4,
+      "carbG": 7.8,
+      "sodiumMg": 284
+    },
+    "declaredSugarG": 5,
+    "declaredSatFatG": 10,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:豆制品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/411/708/0016/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:大豆蛋白类制品"
+    ],
+    "quantity": "20g"
+  },
+  {
+    "id": "off-6973989610468",
+    "name": "三好明畅酱香大鸡腿",
+    "brand": "三好明畅",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "鸡腿，饮用水，食盐，白砂糖，香辛料、酿造酱油(含焦糖色)、谷氨酸钠， 红曲红、亚硝酸钠、食用香精香料。",
+    "nutrition": {
+      "energyKj": 441,
+      "proteinG": 16.3571428571429,
+      "fatG": 4,
+      "carbG": 0.857142857142857,
+      "sodiumMg": 275
+    },
+    "declaredSugarG": 0.571428571428571,
+    "declaredSatFatG": 3.57142857142857,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:meats-and-their-products",
+      "zh:酱卤肉制品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/398/961/0468/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:酱卤肉制品"
+    ],
+    "quantity": "140g"
+  },
+  {
+    "id": "off-6921168593910",
+    "name": "农夫山泉100%NFC橙汁",
+    "brand": "Nongfu Spring",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "100%NFC 橙汁，橙果肉（添加量5%）",
+    "nutrition": {
+      "energyKj": 23,
+      "proteinG": 0.0666666666666667,
+      "fatG": 0,
+      "carbG": 1.11111111111111,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0.555555555555556,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/116/859/3910/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:果汁"
+    ],
+    "quantity": "900 ml"
+  },
+  {
+    "id": "off-6920912360402",
+    "name": "艾比利薯片（田园番茄味）",
+    "brand": "盼盼",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "马铃薯雪花全粉(马铃薯、单双甘油脂肪酸酯、 柠檬酸)、植物油、淀粉、马铃薯、复合调味料(白砂糖、 麦芽糊精、番茄粉、食用盐、味精、食品用香精、DL-苹果酸、二氧化硅、柠檬酸、呈味核苷酸二钠、阿斯巴甜、苯丙氨酸)、单双甘油脂肪酸酯、食用盐、味精、碳酸氢钠、磷脂、柠檬酸、特丁基对苯二酚",
+    "nutrition": {
+      "energyKj": 2297,
+      "proteinG": 2.4,
+      "fatG": 33.5,
+      "carbG": 59.8,
+      "sodiumMg": 472
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/091/236/0402/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "60+3g / 袋"
+  },
+  {
+    "id": "off-6934024513007",
+    "name": "百事纯水乐",
+    "brand": "百事",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:waters"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/402/451/3007/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:饮用纯净水"
+    ],
+    "quantity": "1500克"
+  },
+  {
+    "id": "off-6923775942327",
+    "name": "亲亲金沙蛋黄小龙虾味虾条",
+    "brand": "亲亲",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "虾条坯料(小麦粉、木薯淀粉、食用玉米淀粉、虾、白砂糖、食用盐、味精、香辛料(≥0.12%)、碳酸氢钠、碳酸氯钠)、植物油、金沙蛋黄小龙虾味调味料(白砂糖、味精、食用 香精(含咸蛋黄、鱼制品)、蛋黄粉、食用盐、酱油粉(酿造酱油， 麦芽糊精、食用盐、味精)、酵母抽提物、辣椒粉、大蒜粉、香辛料、二氧化硅、磷酸三钙、5'-呈味核苷酸二钠、柠檬酸、辣椒红，姜黄、阿斯巴甜(含苯丙氨酸))、特丁基对苯二酚",
+    "nutrition": {
+      "energyKj": 2923,
+      "proteinG": 10.4285714285714,
+      "fatG": 30.1428571428571,
+      "carbG": 95.8571428571428,
+      "sodiumMg": 505
+    },
+    "declaredSugarG": 55.7142857142857,
+    "declaredSatFatG": 14.2857142857143,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:膨化食品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/377/594/2327/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:焙烤型膨化食品"
+    ],
+    "quantity": "70g"
+  },
+  {
+    "id": "off-6959090900971",
+    "name": "泡翅（鲍汁味）",
+    "brand": "天搏",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "鸭翅尖、饮用水、白砂糖、食用盐、味精、辣椒、酿 造酱油(含焦糖色)、鲍鱼汁调味料、香辛料 食品添加剂(红曲红、红曲黄色素、D·异抗坏血酸钠、 双乙酸钠、乳酸链球菌素、乳酸、乙基麦芽酚)",
+    "nutrition": {
+      "energyKj": 1618,
+      "proteinG": 41.5,
+      "fatG": 17.5,
+      "carbG": 15.75,
+      "sodiumMg": 1340
+    },
+    "declaredSugarG": 10,
+    "declaredSatFatG": 15,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:meats-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/909/090/0971/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:酱卤肉制品"
+    ],
+    "quantity": "40g"
+  },
+  {
+    "id": "off-6959202303881",
+    "name": "100% NFC黄桃汁",
+    "brand": "汇多滋",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "黄桃原浆",
+    "nutrition": {
+      "energyKj": 20,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 1.17,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 1.17,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/920/230/3881/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:果蔬汁"
+    ],
+    "quantity": "1000g"
+  },
+  {
+    "id": "off-6954767420363",
+    "name": "可口可乐零度",
+    "brand": "Coca cola zero",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、食品添加剂(二氧化碳、焦糖色、磷酸、苯甲酸钠、阿斯巴甜(含苯丙氨酸)、安赛蜜、柠檬酸钠、咖啡因、蔗糖素)、食用香精",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 18
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/476/742/0363/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:low-or-no-sugar",
+      "en:no-sugar"
+    ],
+    "quantity": "888ml"
+  },
+  {
+    "id": "off-6954767430461",
+    "name": "雪碧纤维+",
+    "brand": "可口可乐",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、抗性糊精、食品添加剂(二氧化碳、柠檬酸、 柠檬酸钾、苯甲酸钠、阿斯巴甜(含苯丙氨酸)、安赛 蜜、蔗糖素)、食用香精",
+    "nutrition": {
+      "energyKj": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 0,
+      "sodiumMg": 1
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0.3,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/476/743/0461/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "zh:碳酸饮料"
+    ],
+    "quantity": "500克"
+  },
+  {
+    "id": "off-6923404800974",
+    "name": "就是桃 水蜜桃风味饮料",
+    "brand": "盼盼",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、果葡糖浆、白砂糖、浓缩水蜜桃汁、浓缩苹果汁、食用盐、柠檬酸、DL-苹果酸、维生素C、三氯蔗糖、柠檬酸钠、 D-异抗坏血酸钠、食用香精",
+    "nutrition": {
+      "energyKj": 66,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 3.9,
+      "sodiumMg": 28
+    },
+    "declaredSugarG": 3.9,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/340/480/0974/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250mL / 包"
+  },
+  {
+    "id": "off-6971858720102",
+    "name": "纯牛乳",
+    "brand": "认养",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 264,
+      "proteinG": 3.1,
+      "fatG": 3.4,
+      "carbG": 5,
+      "sodiumMg": 65
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/185/872/0102/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "200g / 包"
+  },
+  {
+    "id": "off-6921168599134",
+    "name": "维他命水",
+    "brand": "农夫山泉",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "配料表:水、果葡糖浆、白砂糖、浓缩 柚子汁、柠檬酸、叶黄素、D-异抗坏血 酸钠、维生素C、食用盐、烟酰胺、维生 素B6、食用香精",
+    "nutrition": {
+      "energyKj": 578,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 25.5,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:功能饮料"
+    ],
+    "imageFront": null,
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "500ml"
+  },
+  {
+    "id": "off-6957342200985",
+    "name": "流心面包 老酸奶味",
+    "brand": "秀峰香",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "小麦粉、酸奶味沙拉酱(植物油、麦芽糖醇、饮用水、山梨糖醇、海藻糖、乳酸发酵液、酿造食醋、柠檬酸、食用盐、山梨酸钾、脱氢乙酸钠、乳酸链球菌素、食用香精)、饮用水、食用油脂制品、白砂糖 、鸡蛋、食品加工用酵母、乳粉、果葡糖浆、食用盐、复配乳化剂(单双甘油脂肪酸酯、磷脂、聚甘油脂肪酸酯)、复配酶制剂(a-淀粉酶、木聚糖酶、葡糖氧化酶)、丙酸钙、脱氢乙酸钠、抗坏血酸棕榈酸酯、食用香精",
+    "nutrition": {
+      "energyKj": 1590,
+      "proteinG": 5.8,
+      "fatG": 19.9,
+      "carbG": 44.4,
+      "sodiumMg": 210
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/734/220/0985/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "85g / 袋"
+  },
+  {
+    "id": "off-5055534302934",
+    "name": "Whey Protein Vanille",
+    "brand": "MYPROTEIN",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Whey Protein Concentrate (Milk) (96%), Emulsifier (Soy Lecithin), Flavouring, Sweetener (Sucralose)",
+    "nutrition": {
+      "energyKj": 1622,
+      "proteinG": 73.3333333333333,
+      "fatG": 6,
+      "carbG": 9,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 5,
+    "declaredSatFatG": 3.66666666666667,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dietary-supplements",
+      "en:bodybuilding-supplements",
+      "en:protein-powders"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/505/553/430/2934/front_en.61.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1kg"
+  },
+  {
+    "id": "off-6901668009784",
+    "name": "香脆曲奇 浓浓巧克力味",
+    "brand": "趣多多",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,代可可脂巧克力颗粒,大豆磷脂,食用植物油,白砂糖,乳清粉,可可粉,食品添加剂(碳酸氢钠,碳酸氢铵,磷酸氢二铵,焦糖色,柠檬酸),食用盐,食用香精",
+    "nutrition": {
+      "energyKj": 2045,
+      "proteinG": 5.5,
+      "fatG": 24.5,
+      "carbG": 60.5,
+      "sodiumMg": 360
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/166/800/9784/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "510g / 盒 / 24 包"
+  },
+  {
+    "id": "off-6917878078861",
+    "name": "宝路薄荷糖",
+    "brand": "雀巢",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "白砂糖,葡萄糖浆,食品添加剂(氧化淀粉,硬脂酸镁),食用香精",
+    "nutrition": {
+      "energyKj": 1700,
+      "proteinG": 0,
+      "fatG": 0.833333333333333,
+      "carbG": 98.3333333333333,
+      "sodiumMg": 17
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:condiments",
+      "en:culinary-plants"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/787/807/8861/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "70.5g / 包"
+  },
+  {
+    "id": "off-6906839618604",
+    "name": "维多粒果冻爽(荔枝味)",
+    "brand": "旺旺",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖、椰果、果葡糖浆、魔芋粉、浓缩荔枝汁、食品添加剂(卡拉胶、柠檬酸、柠檬酸钾、氯化钾、乳酸钙、山梨 酸钾)、食品用香精",
+    "nutrition": {
+      "energyKj": 255,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 15,
+      "sodiumMg": 15
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:snacks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/683/961/8604/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "150g / 包"
+  },
+  {
+    "id": "off-6970008051080",
+    "name": "腰果",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "腰果、食用盐",
+    "nutrition": {
+      "energyKj": 2539,
+      "proteinG": 18.1,
+      "fatG": 37.9,
+      "carbG": 38.2,
+      "sodiumMg": 280
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": null,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "zh:腰果"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/000/805/1080/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6924743922570",
+    "name": "青柠味薯片",
+    "brand": "Lay's",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "马铃薯、植物油、青柠味调味料(含食用香精、柠檬酸、DL-苹果酸、阿斯巴甜(含苯丙氨酸)、5'-呈味核苷酸二钠、甜菊糖苷、纽甜)、食用香精、TBHQ。",
+    "nutrition": {
+      "energyKj": 2260,
+      "proteinG": 5.66666666666667,
+      "fatG": 33.3333333333333,
+      "carbG": 54.6666666666667,
+      "sodiumMg": 527
+    },
+    "declaredSugarG": 7,
+    "declaredSatFatG": 5.33333333333333,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/474/392/2570/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "75g"
+  },
+  {
+    "id": "off-9300807287378",
+    "name": "Fish Oil 1000",
+    "brand": "Blackmores",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Natural fish oil, omega-3 marine triglycerides, Eicosapentaenoic acid (EPA), Docosahexaenoic acid (DHA)",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dietary-supplements",
+      "en:vitamins"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/930/080/728/7378/front_en.15.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "400 pcs"
+  },
+  {
+    "id": "off-6906839615771",
+    "name": "维多粒果冻爽（葡萄味）",
+    "brand": "旺旺",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "水、白砂糖、椰果、果葡糖浆、魔芋粉、浓缩葡萄汁、卡拉胶、柠檬酸、柠檬酸钾、氯化钾、乳酸钙、山梨酸钾、食品用香精",
+    "nutrition": {
+      "energyKj": 255,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 15,
+      "sodiumMg": 15
+    },
+    "declaredSugarG": 11,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:desserts",
+      "en:puddings",
+      "zh:果冻"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/683/961/5771/front_zh.8.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "150g / 袋"
+  },
+  {
+    "id": "off-6956213701187",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "TRUE FOOD 姚依雪 脆皮面 CUIPIXIAO an 兄弟 非油炸康化食量 长葛市依雪食品厂",
+    "nutrition": {
+      "energyKj": 1849,
+      "proteinG": null,
+      "fatG": 11.3,
+      "carbG": 70.5,
+      "sodiumMg": 1384
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/695/621/370/1187/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6921434100026",
+    "name": "English Muffin Whole Wheat",
+    "brand": "Bimbo",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Water, Wheat Flour, Whole Wheat Flour (10%), Yeast, Corn Flour, Sulfur, Fructose Syrup, Pancake Flour (Wheat Flour, Calcium sulfate, fumaric acid, DATEM, citric acid, vitamin C, white vinegar, Maltodextrin, salt, sugar, acetic acid, alata gum, silicon dioxide), salt, vegetable oil, Calcium propanoate, Glycerol monostearate, Xanthan gum",
+    "nutrition": {
+      "energyKj": 910,
+      "proteinG": 9.4,
+      "fatG": 1.9,
+      "carbG": 40,
+      "sodiumMg": 306
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/143/410/0026/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "200g"
+  },
+  {
+    "id": "off-6934665095511",
+    "name": "双拼果粒 莓莓满满",
+    "brand": "蒙牛",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳、果葡糖浆、混合莓果酱、白砂糖、羟丙基二淀粉磷酸酯、 琼脂、维生素D、三氯蔗糖、安赛蜜、保加利亚乳杆菌、嗜热链球菌",
+    "nutrition": {
+      "energyKj": 335,
+      "proteinG": 2.6,
+      "fatG": 3,
+      "carbG": 10.5,
+      "sodiumMg": 76
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:desserts",
+      "en:fermented-milk-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/466/509/5511/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "90g"
+  },
+  {
+    "id": "off-8009361063169",
+    "name": "Fruit Müsli with Bits of Wild Berries and Honey",
+    "brand": "Fuchs",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "0at flakes, wholewheat flakes, sultanas, rice and raspberry crumpies (rice, wheat and corn flour, sugar, barley malt ex - tract, concentrated raspberry juice, corn starch, salt, glucose syrup, beetroot powder, elderberry powder, natural lemon flavour), apples, prunes, honey 1%, strawberry and raspberry grains (glucose syrup, sugar, strawberries and raspberries, starch, concentrated raspberry juice, thickening agent: sodium alginate), strawberries, blackberries, raspberries, blueberries, lemon flakes",
+    "nutrition": {
+      "energyKj": 6247,
+      "proteinG": 10,
+      "fatG": 3.9,
+      "carbG": 68.9,
+      "sodiumMg": 40
+    },
+    "declaredSugarG": 13.8,
+    "declaredSatFatG": 0.7,
+    "declaredFiberG": 3.1,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/800/936/106/3169/front_en.7.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "375g"
+  },
+  {
+    "id": "off-9339687041480",
+    "name": "Great Start 5 Grain & Seeds",
+    "brand": "Woolworths",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Whole Grain Oats (22%), Corn (18%), Sunflower Seeds (8%), Wheat (6%), Brown Sugar, Pepitas (5%), Canola Oil, Wholemeal Wheat Flour (4%), Rice Pops, Whole Grain Barley (3.5%), Oat Flour, Wheat Bran, Cashews (2%), Maltodextrin, Sugar, Buckwheat (1.5%), Dietary Fibre (Inulin), Barley Malt Extract, Puffed Millet (1%), Salt, Vegetable Emulsifier (471), Sugar Syrup, Mineral (Iron), Vitamins (Niacin, Thiamin, Riboflavin, Folic Acid)",
+    "nutrition": {
+      "energyKj": 1790,
+      "proteinG": 12.2,
+      "fatG": 12,
+      "carbG": 63.2,
+      "sodiumMg": 132
+    },
+    "declaredSugarG": 10.5,
+    "declaredSatFatG": 1.6,
+    "declaredFiberG": 10,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/933/968/704/1480/front_en.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:source-of-fibre",
+      "en:high-fibres"
+    ],
+    "quantity": "400g"
+  },
+  {
+    "id": "off-6902083922658",
+    "name": "娃哈哈 AD钙 AD钙奶饮料",
+    "brand": "Wahaha",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖、全脂乳粉、脱脂乳粉、果葡糖浆、食品添加剂(羧甲基纤维素钠、磷酸、柠檬酸、三聚磷酸钠、柠檬酸钠、蔗糖素、安赛蜜、乳酸链球菌素)、浓缩乳清蛋白粉、碳酸钙、食用香精、维生素A、维生素D",
+    "nutrition": {
+      "energyKj": 157,
+      "proteinG": 1,
+      "fatG": 0.7,
+      "carbG": 6,
+      "sodiumMg": 112
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/208/392/2658/front_zh.14.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "450 ml"
+  },
+  {
+    "id": "off-6972434755648",
+    "name": "诺特兰得 血橙复合B族维生素咀嚼片 运动营养食品 耐力类",
+    "brand": "诺特兰德",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "山梨糖醇,低聚异麦芽糖,牛磺酸,复配营养强化剂(烟酸,泛酸,维生素B1,维生素B6,维生素B2,叶酸,生物素,维生素B12),血橙粉,柠檬酸,硬脂酸镁,食用香精,三氯蔗糖",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:candies"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/243/475/5648/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "36g (0.6g x 60)"
+  },
+  {
+    "id": "off-6971196385162",
+    "name": "奈雪果茶 青提香乌龙茶 果汁茶饮料",
+    "brand": "奈雪的茶",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、果葡糖浆、赤藓糖醇、白葡萄浓缩汁、白芽奇兰(乌龙茶)、罗汉果浓缩汁、维生素C、D-异抗坏血酸钠、柠檬酸、柠檬酸钠、食用盐、食用香精",
+    "nutrition": {
+      "energyKj": 82,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 7.8,
+      "sodiumMg": 18
+    },
+    "declaredSugarG": 4.8,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/119/638/5162/front_zh.9.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "450ml"
+  },
+  {
+    "id": "off-9787569908565",
+    "name": "DL橙汁",
+    "brand": "",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、浓缩橙汁、巴西鲜榨血橙汁",
+    "nutrition": {
+      "energyKj": 179,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbG": 9.6,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 9.3,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/978/756/990/8565/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6914522030091",
+    "name": "DL酸奶水果燕麦脆",
+    "brand": "DL",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "冻干蓝莓酸奶块、冻干草莓酸奶块、冻干黄桃酸奶块 添加1000万+益生菌 ·冻干无花果丁 FD冻干技术，锁住酸甜原本味道 ·添加葡萄干、蔓越莓干、椰子脆片、木瓜丁 果香味足，口感酸甜适中 ·扁桃仁碎、腰果仁碎、南瓜籽仁、蜂蜜谷物圈",
+    "nutrition": {
+      "energyKj": 1862,
+      "proteinG": 14.9,
+      "fatG": 18.1,
+      "carbG": 49.4,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 20,
+    "declaredSatFatG": 9,
+    "declaredFiberG": 12.4,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/452/203/0091/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "320克"
+  },
+  {
+    "id": "off-6920907800968",
+    "name": "好丽友•派 涂饰蛋类芯饼 巧克力味",
+    "brand": "Orion",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "白砂糖、小麦粉、葡萄糖浆,起酥油、水、可可粉、乳粉、食用葡萄糖、食用盐、鸡蛋,蛋白粉,可可液块,低聚异麦芽糖,乳糖,食品添加剂(磷酸二氢钙,碳酸氢钠、碳酸氢铵，黄原胶,明胶,酪蛋白酸钠,阿拉伯胶,磷脂,食用香精香料),牛脂风味酱(食用牛油,牛肉,酸水解植物蛋白调味液,食用盐)",
+    "nutrition": {
+      "energyKj": 1801,
+      "proteinG": 4.3,
+      "fatG": 16.5,
+      "carbG": 65.7,
+      "sodiumMg": 255
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 16.5,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:cakes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/090/780/0968/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "445g"
+  },
+  {
+    "id": "off-6971424905582",
+    "name": "好士多 卷心扯面包 红豆夹心",
+    "brand": "好士多",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "小麦粉、饮用水、白砂糖、鸡蛋、人造奶油、沙拉酱、原味夹心酱(复合调味料)、海藻糖、酵母、红小豆、食用盐、面包糠(小麦粉、酵母、食用盐、日落黄、柠檬黄)、山梨糖醇、甘油、丙酸钙、脱氢乙酸钠、食用香精",
+    "nutrition": {
+      "energyKj": 1489,
+      "proteinG": 7.6,
+      "fatG": 12.4,
+      "carbG": 53,
+      "sodiumMg": 226
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 12.4,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/142/490/5582/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6976153190216",
+    "name": "DL大月饼（芋泥麻薯酥饼）",
+    "brand": "DL",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "香芋馅≥28%(芋头,麦芽糖浆,白芸豆,水,山梨糖醇,大豆油,全脂乳粉,大豆膳食纤维 粉,紫薯粉,奶油,海藻糖,食用盐,山梨酸钾),拉丝麻薯≥17%(复合调味料),小麦粉,奶油冰沙 (食品馅料),黄油,鸭蛋黄,鸡蛋,白砂糖,炼乳,辣味鸡肉松,海藻糖,食醋粉(调味料),食用盐, 风味饮料(表面装饰),复配膨松剂(焦磷酸二氢二钠,碳酸氢钠),碳酸氢铵β-胡萝卜素,山 梨酸钾。致敏物质提示:产品含有麸质的谷物及其制品,大豆及其制品,蛋类及其制品, 乳及乳制品。",
+    "nutrition": {
+      "energyKj": 1654,
+      "proteinG": 5,
+      "fatG": 15.7,
+      "carbG": 58.1,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 18,
+    "declaredSatFatG": 11,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:dairies",
+      "en:desserts",
+      "en:snacks",
+      "en:dairy-desserts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/615/319/0216/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "490克"
+  },
+  {
+    "id": "off-9787568036696",
+    "name": "DL 烩面坯",
+    "brand": "DL",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "烩面 产品类型:生湿面制品 坯 配料 小麦粉、水、食用盐,植物油。 致敏物质提示:产品中含有麸质的谷物及其制品, 大豆及其制品。 贮藏方法:0-5℃冷藏 非即食,加热熟制后食用。 120分钟后",
+    "nutrition": {
+      "energyKj": 1055,
+      "proteinG": 8.8,
+      "fatG": 1,
+      "carbG": 51.1,
+      "sodiumMg": 920
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 0.25,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:pastas",
+      "en:noodles"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/978/756/803/6696/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "360"
+  },
+  {
+    "id": "off-6917878005508",
+    "name": "鹰唛炼奶",
+    "brand": "雀巢",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳(≥65%),白砂糖,无水奶油,可可粉(≥3%),乳糖。",
+    "nutrition": {
+      "energyKj": 1389,
+      "proteinG": 7.2,
+      "fatG": 8.5,
+      "carbG": 56,
+      "sodiumMg": 116
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:炼乳",
+      "zh:炼奶"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/691/787/800/5508/front_zh.13.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "185g"
+  },
+  {
+    "id": "off-6925303789862",
+    "name": "雅哈柠檬水 柠檬味饮料",
+    "brand": "Uni-President",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、白砂糖、浓缩柠檬汁、柠檬酸、DL-苹果酸、维生素C、果胶、柠檬酸钠、D-异抗坏血酸钠、维生素E、乙酰磺胺酸钾、三氯蔗糖、食用香精",
+    "nutrition": {
+      "energyKj": 108,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 6.2,
+      "sodiumMg": 12
+    },
+    "declaredSugarG": 6.2,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:fruit-based-foods-and-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/530/378/9862/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "1000 ml"
+  },
+  {
+    "id": "off-6944839959211",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "品名:康师傅 鲜果橙 橙水果饮品 配料表:水、果葡糖浆、白砂糖、橙浓缩汁 食品 添加剂(柠檬酸、柠檬酸钠、羧甲基纤维素 •维生素C、果胶、B-胡萝卜素)、食用香精",
+    "nutrition": {
+      "energyKj": 191,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 11.2,
+      "sodiumMg": 16
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:橙汁饮料"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/694/483/995/9211/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6977590340011",
+    "name": "老味糕点",
+    "brand": "北方威力发",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "小麦粉,饮用水,白砂糖,食用植物油 ,鸡蛋,白豆沙,花生仁,红桔丁,白芝麻,葡萄干,玫瑰酱,青红丝,食用盐,丙酸钙,脱氢乙酸钠",
+    "nutrition": {
+      "energyKj": 1832,
+      "proteinG": 8.4,
+      "fatG": 16.2,
+      "carbG": 64.1,
+      "sodiumMg": 42
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/697/759/034/0011/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "220克"
+  },
+  {
+    "id": "off-3502042113122",
+    "name": "(未命名)",
+    "brand": "三元",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "生牛乳",
+    "nutrition": {
+      "energyKj": 279,
+      "proteinG": 3.3,
+      "fatG": 3.9,
+      "carbG": 4.6,
+      "sodiumMg": 60
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [],
+    "imageFront": "https://images.openfoodfacts.org/images/products/350/204/211/3122/front_zh.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250ml"
+  },
+  {
+    "id": "off-6921516726298",
+    "name": "(未命名)",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "红参（人工种植/5年生）",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "zh:营养品",
+      "zh:饮品"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/692/151/672/6298/front_zh.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6939580610412",
+    "name": "百事可乐",
+    "brand": "百事",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "水、果葡糖浆、白砂糖、食品添加剂(二氧化碳、 焦糖色、磷酸、食用香精、咖啡因、安赛蜜、蔗糖素)",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:carbonated-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/693/958/061/0412/front_zh.7.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-6000739074253",
+    "name": "Waitrose Essential Fruit & Nut Muesli",
+    "brand": "Waitrose",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Oat flakes, wholegrain wheat flakes, wholegrain toasted matted wheat flakes (wheat, barley malt extract), barley flakes, sultanas (12%), raisins (6%), toasted coconut (5%), whole roasted hazelnuts (4%), whole almonds (4%), sunflower seeds (3%), dried diced apricots (3%) (apricots, preservative (sulphur dioxide)), golden raisins (3%) (golden raisins, preservative (sulphur dioxide)). chopped dates (296). ALLERGY ADVICE: For allergens, including cereals containing gluten, see ingredients in bold. May contain other nuts",
+    "nutrition": {
+      "energyKj": 1625,
+      "proteinG": 9.7,
+      "fatG": 10.8,
+      "carbG": 58.2,
+      "sodiumMg": 12
+    },
+    "declaredSugarG": 19.5,
+    "declaredSatFatG": 3.5,
+    "declaredFiberG": 8.9,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/600/073/907/4253/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:vegetarian",
+      "en:vegan",
+      "en:no-added-sugar"
+    ],
+    "quantity": "1kg"
+  },
+  {
+    "id": "off-5201168815399",
+    "name": "Feta cheese (P.D.O.) lactose free",
+    "brand": "Dodoni",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Mixtures of sheeps and goats milk, salt, starter culture, microbial rennet, lactase.",
+    "nutrition": {
+      "energyKj": 1075,
+      "proteinG": 17,
+      "fatG": 21,
+      "carbG": 0,
+      "sodiumMg": 1000
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": 15.7,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:frozen-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/520/116/881/5399/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:vegetarian",
+      "en:no-lactose",
+      "en:no-preservatives",
+      "en:pdo",
+      "en:certified-by-agrocert",
+      "en:green-dot",
+      "en:ITQI award"
+    ],
+    "quantity": "150 g"
+  },
+  {
+    "id": "off-6906839701016",
+    "name": "旺仔奶类饮品",
+    "brand": "hot kid",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "WATER, SWEETENED CONDENSED MILK, WHOLE MILK POWDER, SKIMMED MILK POWDER, SUGAR, FLAVOURING, MONO AND DIGLYCERIDES OF FATTY ACIDS (INS 471), SUCROSE ESTERS OF FATTY ACIDS (INS 473)",
+    "nutrition": {
+      "energyKj": 1096,
+      "proteinG": 2.61224489795918,
+      "fatG": 1.79591836734694,
+      "carbG": 9.10204081632653,
+      "sodiumMg": 38
+    },
+    "declaredSugarG": 9.10204081632653,
+    "declaredSatFatG": 1.18367346938776,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:dairy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/690/683/970/1016/front_en.14.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:halal"
+    ],
+    "quantity": "245ml"
+  },
+  {
+    "id": "off-0012256091053",
+    "name": "Nouilles Larges Aux Oeufs Wingman 454G",
+    "brand": "Noodle House",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Wheat Flour, Water, Egg, Tapioca Flour, Acidity Regulator (Potassium Carbonate E501, Sodium Carbonate E500), Colour(E102) [FD&C Yellow No.5] This Product Contains Gluten (Wheat) and Egg",
+    "nutrition": {
+      "energyKj": 1623,
+      "proteinG": 14,
+      "fatG": 1.6,
+      "carbG": 78,
+      "sodiumMg": 149
+    },
+    "declaredSugarG": 2.4,
+    "declaredSatFatG": 0.3,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:pastas",
+      "en:noodles"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/001/225/609/1053/front_fr.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": null
+  },
+  {
+    "id": "off-0054300091114",
+    "name": "Rocky Mountain Fruit Marshmallows",
+    "brand": "Doumak Inc.",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Glucose syrup, sugar, modified food starch (corn), gelatin (pork), water, natural and artificial flavor, tetrasodium pyrophosphate E450 (stabilizer), E100, E120, E133",
+    "nutrition": {
+      "energyKj": 1394,
+      "proteinG": 2,
+      "fatG": 0,
+      "carbG": 80,
+      "sodiumMg": 80
+    },
+    "declaredSugarG": 66,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:candies"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/005/430/009/1114/front_en.28.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-gluten"
+    ],
+    "quantity": "300g"
+  },
+  {
+    "id": "off-0054300090018",
+    "name": "Marshmallows classic",
+    "brand": "Rocky Mountain",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Glucose syrup, Sugar, Modified food starch (corn), Gelatin (pork), Water, Tetrasodium pyrophosphate E450 (stabilizer), natural and artificial flavor. Gluten Free",
+    "nutrition": {
+      "energyKj": 1377,
+      "proteinG": 2,
+      "fatG": 0,
+      "carbG": 79,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 65,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:candies"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/005/430/009/0018/front_en.8.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-gluten"
+    ],
+    "quantity": "300 g"
+  },
+  {
+    "id": "off-0070177118525",
+    "name": "Twinings Infusions Pure Peppermint 25 Teebeutel",
+    "brand": "Twinings",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Pfefferminze",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:hot-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/007/017/711/8525/front_en.5.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:halal"
+    ],
+    "quantity": "50g"
+  },
+  {
+    "id": "off-0077330337335",
+    "name": "Beatrix Potter Butter Cookies",
+    "brand": "Beatrix Potter",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Wheat flour,butter(26%),sugar,desiccated coconut,raising agent(ammonium bicarbonate),salt,invert sugar syrup,natural flavor.",
+    "nutrition": {
+      "energyKj": 2098,
+      "proteinG": 5.8,
+      "fatG": 23.3,
+      "carbG": 66.1,
+      "sodiumMg": 122
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/007/733/033/7335/front_en.3.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "908g"
+  },
+  {
+    "id": "off-0089686400427",
+    "name": "Hot Chili Sauce",
+    "brand": "Indofood",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Air, Cabai 23%, Gula, Garam, gental Nabati, Rempah-rempah (mengandung Bawang Putih 0,5%), Pengatur Keasaman, Perisa Alami, Pengawet (Natrium Benzoat, Natrium Metabisulfit).",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:condiments",
+      "en:sauces",
+      "en:hot-sauces",
+      "en:sambal"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/008/968/640/0427/front_en.28.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "130ml"
+  },
+  {
+    "id": "off-0898999000022",
+    "name": "椰子水",
+    "brand": "Vita coco",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "椰子水，少于1%的糖，抗坏血酸（维生素C）。",
+    "nutrition": {
+      "energyKj": 77,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 4.55,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 3.94,
+    "declaredSatFatG": 0,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/089/899/900/0022/front_en.405.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-gluten",
+      "en:kosher",
+      "en:no-gmos",
+      "en:100-natural",
+      "en:certified-b-corporation",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:non-gmo-project",
+      "en:star-k-kosher"
+    ],
+    "quantity": "330 ml"
+  },
+  {
+    "id": "off-20247928",
+    "name": "(未命名)",
+    "brand": "Bio-Sonne",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "36% oatmeal', spelt wheat flakes', cane sugar', whole grain rice crispies', rapeseed oil, spelt wheat flour', desiccated coconut', 3% aronia berry powder', rice starch syrup', lemon juice concentrate', salt,",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/000/002/024/7928/front_de.58.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:vegetarian",
+      "en:organic",
+      "en:eu-organic",
+      "en:vegan",
+      "en:at-bio-301"
+    ],
+    "quantity": "500g"
+  },
+  {
+    "id": "off-20892371",
+    "name": "Norwegische Lachsfilet Mit Haut",
+    "brand": "Lidl",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Norwegisches Lachsfilet mit Haut. Zubereitungsempfehlung: ln der Pfanne: Das Filet von beiden Seiten bürzen, jedoch nicht salzen. Etwas Butter Oder 01 in einer Pfanne erhiüen. Das Filet auf der Hautseite 4-5 Minuten anbraten, einmal wenden und auf der Fleischseite bei geringer Hiüe 4-5 Minuten weiterbraten. AnschlieBend leicht salzen. Guten Appetit!",
+    "nutrition": {
+      "energyKj": 888,
+      "proteinG": 19.8,
+      "fatG": 14.9,
+      "carbG": 0,
+      "sodiumMg": 32
+    },
+    "declaredSugarG": 0,
+    "declaredSatFatG": 2,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:fishes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/000/002/089/2371/front_fr.4.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "300 g"
+  },
+  {
+    "id": "off-20917906",
+    "name": "Joghurt mild",
+    "brand": "Milbona",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Joghurt mild, 3,5 % Fett.",
+    "nutrition": {
+      "energyKj": 294,
+      "proteinG": 4.5,
+      "fatG": 3.5,
+      "carbG": 5.2,
+      "sodiumMg": 48
+    },
+    "declaredSugarG": 5.2,
+    "declaredSatFatG": 2.5,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/000/002/091/7906/front_de.120.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-gmos",
+      "de:ohne-gentechnik",
+      "en:nutriscore",
+      "en:nutriscore-grade-b"
+    ],
+    "quantity": "150g"
+  },
+  {
+    "id": "off-224048000270018798",
+    "name": "(未命名)",
+    "brand": "Carrefour",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "pork",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:meats-and-their-products",
+      "en:meats",
+      "en:pork-and-its-products",
+      "en:pork"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/224/048/000/270018798/front_zh.5.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "270g"
+  },
+  {
+    "id": "off-233886000244014546",
+    "name": "(未命名)",
+    "brand": "Carrefour",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "pork",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [],
+    "imageFront": "https://images.openfoodfacts.org/images/products/233/886/000/244014546/front_zh.5.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "0.244kg"
+  },
+  {
+    "id": "off-3041090899300",
+    "name": "Gallia Calisma 2 2ème âge De 6 à 12 Mois",
+    "brand": "Gallia",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Lactose (LAIT) - huiles végétales palme, colza, coprah, tournesol, mortierella alpinal - maltodex trines LAIT écrémé - protéines de lactosérum concentrées (LAIT alacto-oligosaccharides (GOSI LAIT) fructo-oligosaccharides (FOS) - huile de POISSON - chlorure de choline - taurine émulsifiant: lécithine de SOJA inositol antioxydant: extrait riche en tocophérols-L-tryptophane - nucléo - tides - L-carnitine - vitamines: C niacine, acide pantothénique, acide folique, A, E, biotine, B1, D3, B12, B6, B2, K1 - minéraux: carbonate de calcium, citrate de potassium, chlorure de calcium, sulfate de fer, phosphate de calcium, chlorure de magnésium, sulfates de zinc, cuivre et manganèse, iodure de potassium, sélénite de sodium",
+    "nutrition": {
+      "energyKj": 1959,
+      "proteinG": 9.3,
+      "fatG": 20.6,
+      "carbG": 59.3,
+      "sodiumMg": 636
+    },
+    "declaredSugarG": 44.9,
+    "declaredSatFatG": 8.4,
+    "declaredFiberG": 3.8,
+    "offCategories": [
+      "en:baby-foods",
+      "en:baby-milks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/304/109/089/9300/front_fr.17.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "800g"
+  },
+  {
+    "id": "off-3045140015849",
+    "name": "Carrés Noir Noisette",
+    "brand": "Côte d'Or",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Sucre, pâte de cacao, _noisettes_ entières 20%, beurre de cacao, _beurre_ concentré, émulsifiant (lécithine de _soja_), arôme, _lait_ entier en poudre, Cacao: 47% minimum dans le chocolat noir extra-supérieur,",
+    "nutrition": {
+      "energyKj": 2401,
+      "proteinG": 6.8,
+      "fatG": 40,
+      "carbG": 43,
+      "sodiumMg": 4
+    },
+    "declaredSugarG": 40,
+    "declaredSatFatG": 18,
+    "declaredFiberG": 7.4,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/304/514/001/5849/front_fr.62.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:cocoa-life",
+      "en:green-dot",
+      "en:made-in-belgium",
+      "en:rainforest-alliance",
+      "fr:triman"
+    ],
+    "quantity": "200 g e (10 * 20 g)"
+  },
+  {
+    "id": "off-3083680004671",
+    "name": "Junge Erbsen",
+    "brand": "Bonduelle",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Palerbsen, Wasser, Zucker, Salz.",
+    "nutrition": {
+      "energyKj": 357,
+      "proteinG": 6.2,
+      "fatG": 0.7,
+      "carbG": 10,
+      "sodiumMg": 244
+    },
+    "declaredSugarG": 1.7,
+    "declaredSatFatG": 0.2,
+    "declaredFiberG": 6.9,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:fruits-and-vegetables-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/308/368/000/4671/front_de.40.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "quantity": "200g"
+  },
+  {
+    "id": "off-3161712996153",
+    "name": "Brie au bleu",
+    "brand": "Ile de France",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "lait de vache pasteurisé, crème, sel, ferments lactiques et d'affinage, enzime coagulante, penicillium roqueforti",
+    "nutrition": {
+      "energyKj": 1344,
+      "proteinG": 18,
+      "fatG": 28,
+      "carbG": 0.1,
+      "sodiumMg": 800
+    },
+    "declaredSugarG": 0.1,
+    "declaredSatFatG": 19,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/316/171/299/6153/front_en.18.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:green-dot"
+    ],
+    "quantity": "125g"
+  },
+  {
+    "id": "off-3165951213019",
+    "name": "Le thon sauce catalane",
+    "brand": "Saupiquet",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Sauce, thon 25%, légumes 19% (cornichons au vinaigre d'alcool, carottes, oignons). Composition de la sauce : eau, concentré de tomate 17%, huile de tournesol, vinaigre de vin blanc, sucre, sel, arôme, amidon transformé de maïs, épices, épaississants : gomme guar et gomme xanthane.",
+    "nutrition": {
+      "energyKj": 327,
+      "proteinG": 7.2,
+      "fatG": 2.6,
+      "carbG": 6.4,
+      "sodiumMg": 440
+    },
+    "declaredSugarG": 1.5,
+    "declaredSatFatG": 0.4,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:canned-foods",
+      "en:fishes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/316/595/121/3019/front_fr.58.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:green-dot",
+      "fr:Qualité responsable"
+    ],
+    "quantity": "135 g e"
+  },
+  {
+    "id": "off-3166291521802",
+    "name": "Badiane Anis Etoilé",
+    "brand": "Ducros",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Badiane.",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/316/629/152/1802/front_fr.25.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:green-dot",
+      "fr:triman"
+    ],
+    "quantity": "25 g"
+  },
+  {
+    "id": "off-3364699780016",
+    "name": "Boisson gazeuse arome pomme",
+    "brand": "COCK BRAND",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "eau,fructose,dioxide de carbone, acide citrique, acide maltique, édulcorants, citrate de sodium,sorbate de potassium,arôme",
+    "nutrition": {
+      "energyKj": 97,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbG": 5.7,
+      "sodiumMg": 8
+    },
+    "declaredSugarG": 5.7,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:non-alcoholic-beverages",
+      "en:artificially-sweetened-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/336/469/978/0016/front_fr.6.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "350 ml"
+  },
+  {
+    "id": "off-3560070776238",
+    "name": "Lait noisettes & raisins",
+    "brand": "Carrefour",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Sucre, _noisettes_ entières torréfiées15%, raisins secs 15% (raisins secs, huile de tournesol), beurre de cacao, poudre de _lait_ écrémé, pâte de cacao (fèves de cacao* origines Côte d'Ivoire), matière grasse de _lait_ anhydre, émulsifiant: lécithines, arôme naturel de vanille.\nCacao: 32% minimum dans le chocolat au lait.\nPeut contenir des traces d'autres fruits à coque et de céréales contenant du gluten.\n* fèves de cacao issues du programme Transparence Cacao",
+    "nutrition": {
+      "energyKj": 2227,
+      "proteinG": 8.5,
+      "fatG": 33,
+      "carbG": 49,
+      "sodiumMg": 60
+    },
+    "declaredSugarG": 45,
+    "declaredSatFatG": 15,
+    "declaredFiberG": 3.6,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/356/007/077/6238/front_en.51.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:green-dot",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-d",
+      "en:nutriscore-grade-e",
+      "fr:triman"
+    ],
+    "quantity": "200 g"
+  },
+  {
+    "id": "off-3760122710672",
+    "name": "Saumon Rose du Pacifique 2 x 125 g",
+    "brand": "Direct Océan",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "saumon",
+    "nutrition": {
+      "energyKj": 403,
+      "proteinG": 19.85,
+      "fatG": 1.75,
+      "carbG": 0.1,
+      "sodiumMg": 132
+    },
+    "declaredSugarG": 0.1,
+    "declaredSatFatG": 0.39,
+    "declaredFiberG": 0,
+    "offCategories": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:fishes",
+      "en:frozen-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/376/012/271/0672/front_fr.68.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:fishing-method",
+      "en:purse-seine-fishing",
+      "fr:triman",
+      "fr:Poisson-sauvage"
+    ],
+    "quantity": "250 g"
+  },
+  {
+    "id": "off-3760150148607",
+    "name": "Noni Energy Banane",
+    "brand": "Noni",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Purée de banane, purée de Noni, eau.",
+    "nutrition": {
+      "energyKj": 343,
+      "proteinG": 1,
+      "fatG": 1,
+      "carbG": 17,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 16,
+    "declaredSatFatG": 0,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:energy-drinks"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/376/015/014/8607/front_fr.56.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:low-or-no-sugar",
+      "en:no-colorings",
+      "en:no-preservatives",
+      "en:no-added-sugar"
+    ],
+    "quantity": "100 g"
+  },
+  {
+    "id": "off-40804866",
+    "name": "Vinaigrette Fine Herbs Salad Dressing",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "water, spirit vinegar, white wine vinegar, glucose-fructose syrup, sugar, salt, spices, acidity regulator: sodium acetate, thickening agents: carrageen and locust bean gum, herbs, natural flavouring, yeast extract,",
+    "nutrition": {
+      "energyKj": 177,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "carbG": 10,
+      "sodiumMg": 1240
+    },
+    "declaredSugarG": 10,
+    "declaredSatFatG": 0.1,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:condiments",
+      "en:sauces",
+      "en:salad-dressings",
+      "en:vinaigrettes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/000/004/080/4866/front_en.10.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-colorings"
+    ],
+    "quantity": null
+  },
+  {
+    "id": "off-4000521144814",
+    "name": "Arôme vanille",
+    "brand": "Dr. Oetker",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Arôme vanille.",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:condiments",
+      "en:herbs-and-spices"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/400/052/114/4814/front_fr.128.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:green-dot",
+      "en:made-in-germany"
+    ],
+    "quantity": "2ml"
+  },
+  {
+    "id": "off-4000521663407",
+    "name": "vitalis Müsli Joghurt",
+    "brand": "Dr. Oetker",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "69% Vollkorn-HAFERFLOCKEN, 10% MAGERMILCHJOGHURT-Konfekt (Palmkernfett, MAGERMILCHJOGHURTPULVER, Zucker, MILCHZUCKER, SÜSSMOLKENPULVER, Emulgator (Lecithine)), Zucker, 4,9 % Cornflakes (Mais, Zucker, Salz, GERSTENMALZEXTRAKT), Sonnenblumenöl, WEIZENMEHL, Reismehl, Glukosesirup, 0,6 % gefriergetrocknete Erdbeerstücke, WEIZENVOLLKORNMEHL, MAGERMILCHJOGHURTPULVER, Aroma (enthält MILCH), getrocknete WEIZENKEIME, getrockneter GERSTENMALZEXTRAKT, MAGERMILCHPULVER, Salz. Kann enthalten: SOJA, MANDELN, HASELNÜSSE, CASHEWKERNE, PEKANNÜSSE.",
+    "nutrition": {
+      "energyKj": 1743,
+      "proteinG": 11,
+      "fatG": 12,
+      "carbG": 62,
+      "sodiumMg": 108
+    },
+    "declaredSugarG": 14,
+    "declaredSatFatG": 4.4,
+    "declaredFiberG": 7.3,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/400/052/166/3407/front_de.65.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:nutriscore",
+      "en:nutriscore-grade-c"
+    ],
+    "quantity": "600g"
+  },
+  {
+    "id": "off-4001686301555",
+    "name": "(未命名)",
+    "brand": "Haribo",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Glukosesirup; Zucker; Gelatine; Dextrose; Fruchtsaft aus Fruchtsaftkonzentrat: Apfel, Himbeere, Erdbeere, Orange, Zitrone, Ananas; Säuerungs - mittel: Citronensäure; Sonnenblumenöl; Frucht - und Pflanzen - konzentrate: Saflor, Spirulina, Apfel, Holunderbeere, Orange Schwarze Johannisbeere, Kiwi, Zitrone, Aronia, Mango, Traube Passionsfrucht; Aroma; Holunderbeerextrakt; Überzugsmittel Bienenwachs weiß und gelb.",
+    "nutrition": {
+      "energyKj": 1445,
+      "proteinG": 6.9,
+      "fatG": 0.5,
+      "carbG": 77,
+      "sodiumMg": 28
+    },
+    "declaredSugarG": 46,
+    "declaredSatFatG": 0.1,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/400/168/630/1555/front_zh.43.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:german-agricultural-society",
+      "en:made-in-the-eu",
+      "en:DLG Jährlich Prämiert"
+    ],
+    "quantity": "100 g"
+  },
+  {
+    "id": "off-4008169304508",
+    "name": "(未命名)",
+    "brand": "Siroperie Meurens",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "concentrated juice of cooked fruit 65% (pears, apples, dates), sugar 35%, acidifier: citric acid",
+    "nutrition": {
+      "energyKj": 1199,
+      "proteinG": 0.7,
+      "fatG": 0.4,
+      "carbG": 68,
+      "sodiumMg": 8
+    },
+    "declaredSugarG": 61,
+    "declaredSatFatG": 0.3,
+    "declaredFiberG": 2,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:spreads"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/400/816/930/4508/front_fr.82.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:made-in-belgium"
+    ],
+    "quantity": "450 g"
+  },
+  {
+    "id": "off-4008169309008",
+    "name": "Sirop de liège",
+    "brand": "Meurens",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "jus concentré de fruits cuits (poires, pommes, dates) 65%, sucre 35%, acidifiant: acide citrique",
+    "nutrition": {
+      "energyKj": 1201,
+      "proteinG": 0.6,
+      "fatG": 0.5,
+      "carbG": 68,
+      "sodiumMg": 8
+    },
+    "declaredSugarG": 62,
+    "declaredSatFatG": 0.1,
+    "declaredFiberG": 2,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:frozen-foods"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/400/816/930/9008/front_fr.24.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:green-dot",
+      "en:made-in-belgium"
+    ],
+    "quantity": "900 g"
+  },
+  {
+    "id": "off-4045317058593",
+    "name": "Frische Milch 3,8% Fett",
+    "brand": "Bärenmarke",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "pasteurisierte und homogenisierte Vollmilch",
+    "nutrition": {
+      "energyKj": 278,
+      "proteinG": 3.3,
+      "fatG": 3.8,
+      "carbG": 4.8,
+      "sodiumMg": 52
+    },
+    "declaredSugarG": 4.8,
+    "declaredSatFatG": 2.5,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:milks-liquid-and-powder"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/404/531/705/8593/front_de.96.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-gmos",
+      "en:fsc",
+      "de:ohne-gentechnik",
+      "en:fsc-mix"
+    ],
+    "quantity": "1l"
+  },
+  {
+    "id": "off-4891599847888",
+    "name": "JDB Herbal Tea",
+    "brand": "JDB",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "Eau, sucre, herbes 0,2%",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:hot-beverages"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/489/159/984/7888/front_fr.20.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "310 ml"
+  },
+  {
+    "id": "off-4902888116322",
+    "name": "嗨啾 葡萄味软糖",
+    "brand": "Morinaga",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "SIROP DE SUCRE,SUCRE,HUILE DE PLANTE,GELATINE,JUS DE RAISIN CONCENTRE ,CONFITURE, YAOURT CONCENTRE,ACIDULANT,AROMES, EMULSIFIANT, PIGMENT DE CHOU ROUGE,BLEU DE GARDENIA. (ALLERGENES: LAIT.)",
+    "nutrition": {
+      "energyKj": null,
+      "proteinG": null,
+      "fatG": null,
+      "carbG": null,
+      "sodiumMg": null
+    },
+    "declaredSugarG": null,
+    "declaredSatFatG": null,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:candies"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/490/288/811/6322/front_fr.37.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": ""
+  },
+  {
+    "id": "off-5000159366267",
+    "name": "Twix",
+    "brand": "Twix",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "sucre, sirop de glucose, farine de _blé_ (17%), matière grasse de palme, beurre de cacao, _lait_ écrémé en poudre, pâte de cacao, _lactose_, _beurre_ concentré (lait), petit-_lait_ en poudre, cacao maigre, sel, émulsififant: _E322), poudre à lever E500, extrait naturel de vanille.",
+    "nutrition": {
+      "energyKj": 2059,
+      "proteinG": 4.5,
+      "fatG": 23.9,
+      "carbG": 64.6,
+      "sodiumMg": 164
+    },
+    "declaredSugarG": 48.6,
+    "declaredSatFatG": 13.8,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:bars"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/500/015/936/6267/front_fr.11.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": ""
+  },
+  {
+    "id": "off-5010477348272",
+    "name": "The original crunchy",
+    "brand": "Jordans",
+    "category": "饮料",
+    "unit": "100ml",
+    "ingredients": "flocons d'AVOINE complets (66%), fruits secs (17%) (raisins secs, raisins de sultane, dés d'ananas séché (ananas, sucre de canne, régulateur d'acidité: acide citrique), éclats de noix de coco, dattes hachées dés de papaye séchée (papaye, sucre de canne), copeaux de banane séchée (banane, huile de noix de coco, sucre, arôme naturel), sucre, huiles végétales (huile de colza, huile de palme), AMANDES entières (1%), miel (1%), graines de tournesol, arôme naturel.",
+    "nutrition": {
+      "energyKj": 1771,
+      "proteinG": 9.2,
+      "fatG": 12.5,
+      "carbG": 64.9,
+      "sodiumMg": 0
+    },
+    "declaredSugarG": 23.8,
+    "declaredSatFatG": 3.6,
+    "declaredFiberG": 6.1,
+    "offCategories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/501/047/734/8272/front_fr.62.400.jpg",
+    "imageIngredients": null,
+    "labels": [
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:no-palm-oil"
+    ],
+    "quantity": "750 g"
+  },
+  {
+    "id": "off-5016614057090",
+    "name": "Halloumi Grillkäse",
+    "brand": "",
+    "category": "其他",
+    "unit": "100g",
+    "ingredients": "Lait pasteurisé de brebis, de chèvre et de vache, sel, présure et menthe hachée. Allergènes: 43% de matière grasse.",
+    "nutrition": {
+      "energyKj": 1350,
+      "proteinG": 23,
+      "fatG": 25,
+      "carbG": 2,
+      "sodiumMg": 1200
+    },
+    "declaredSugarG": 1,
+    "declaredSatFatG": 17,
+    "declaredFiberG": null,
+    "offCategories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses"
+    ],
+    "imageFront": "https://images.openfoodfacts.org/images/products/501/661/405/7090/front_fr.20.400.jpg",
+    "imageIngredients": null,
+    "labels": [],
+    "quantity": "250 g"
+  }
+]

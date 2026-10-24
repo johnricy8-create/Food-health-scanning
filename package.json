@@ -1,0 +1,17 @@
+{
+  "name": "food-score-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "食品配料表评分引擎（可调参）+ Gemini 2.5 Flash 抽取中转",
+  "scripts": {
+    "score": "node src/cli.mjs",
+    "sync": "node scripts/sync-engine.mjs",
+    "off": "node scripts/fetch-off.mjs",
+    "proxy": "node --env-file=.env server/proxy.mjs",
+    "proxy:dev": "node --env-file=.env --watch server/proxy.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

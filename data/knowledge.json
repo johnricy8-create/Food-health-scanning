@@ -1,0 +1,161 @@
+{
+  "_comment": "配料表知识库。tier: low=一般 / medium=有争议 / high=高关注或新国标已限用。fn=功能类别，用于'同类最多扣2次'的去重。",
+
+  "additives": [
+    { "name": "亚硝酸钠", "aliases": ["亚硝酸盐"], "fn": "护色剂", "tier": "high", "note": "与胺类可形成亚硝胺；婴幼儿食品禁用" },
+    { "name": "亚硝酸钾", "aliases": [], "fn": "护色剂", "tier": "high", "note": "同上" },
+    { "name": "硝酸钠", "aliases": [], "fn": "护色剂", "tier": "high", "note": "可还原为亚硝酸盐" },
+    { "name": "硝酸钾", "aliases": [], "fn": "护色剂", "tier": "high", "note": "同上" },
+    { "name": "脱氢乙酸钠", "aliases": ["脱氢乙酸"], "fn": "防腐剂", "tier": "high", "note": "GB 2760-2024 已大幅缩减使用范围" },
+    { "name": "苯甲酸钠", "aliases": ["苯甲酸"], "fn": "防腐剂", "tier": "medium", "note": "与维生素C共存可能生成微量苯" },
+    { "name": "特丁基对苯二酚", "aliases": ["TBHQ"], "fn": "抗氧化剂", "tier": "high", "note": "高温油炸常用，国际上有争议" },
+    { "name": "丁基羟基茴香醚", "aliases": ["BHA"], "fn": "抗氧化剂", "tier": "high", "note": "IARC 2B 类" },
+    { "name": "二丁基羟基甲苯", "aliases": ["BHT"], "fn": "抗氧化剂", "tier": "high", "note": "争议性抗氧化剂" },
+    { "name": "糖精钠", "aliases": ["糖精"], "fn": "甜味剂", "tier": "high", "note": "早期争议甜味剂，现行限量严格" },
+    { "name": "环己基氨基磺酸钠", "aliases": ["甜蜜素"], "fn": "甜味剂", "tier": "high", "note": "部分国家限制使用" },
+    { "name": "溴酸钾", "aliases": [], "fn": "加工助剂", "tier": "high", "note": "中国已禁用（面粉处理剂）" },
+    { "name": "过氧化苯甲酰", "aliases": [], "fn": "漂白剂", "tier": "high", "note": "中国已禁用（面粉增白）" },
+    { "name": "硫酸铝钾", "aliases": ["明矾"], "fn": "膨松剂", "tier": "high", "note": "铝残留，儿童食品限量更严" },
+    { "name": "硫酸铝铵", "aliases": [], "fn": "膨松剂", "tier": "high", "note": "同上" },
+    { "name": "二氧化钛", "aliases": [], "fn": "着色剂", "tier": "high", "note": "欧盟 2022 年起禁用" },
+
+    { "name": "山梨酸钾", "aliases": ["山梨酸"], "fn": "防腐剂", "tier": "medium", "note": "常用防腐剂，限量内使用较安全" },
+    { "name": "丙酸钙", "aliases": ["丙酸钠"], "fn": "防腐剂", "tier": "medium", "note": "面包防霉常用" },
+    { "name": "双乙酸钠", "aliases": [], "fn": "防腐剂", "tier": "medium", "note": "防霉剂" },
+    { "name": "纳他霉素", "aliases": [], "fn": "防腐剂", "tier": "medium", "note": "表面防霉" },
+    { "name": "乳酸链球菌素", "aliases": ["Nisin"], "fn": "防腐剂", "tier": "low", "note": "天然来源抑菌剂" },
+    { "name": "阿斯巴甜", "aliases": [], "fn": "甜味剂", "tier": "medium", "note": "IARC 2023 列为 2B；苯丙酮尿症患者需避免" },
+    { "name": "安赛蜜", "aliases": ["乙酰磺胺酸钾"], "fn": "甜味剂", "tier": "medium", "note": "人工甜味剂" },
+    { "name": "三氯蔗糖", "aliases": ["蔗糖素"], "fn": "甜味剂", "tier": "medium", "note": "人工甜味剂，高温下可能生成有害物" },
+    { "name": "纽甜", "aliases": [], "fn": "甜味剂", "tier": "medium", "note": "人工甜味剂" },
+    { "name": "柠檬黄", "aliases": ["酒石黄"], "fn": "着色剂", "tier": "medium", "note": "合成色素，儿童注意力相关研究有争议" },
+    { "name": "日落黄", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "胭脂红", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "诱惑红", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "亮蓝", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "靛蓝", "aliases": ["靛蓝铝色淀"], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "苋菜红", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "赤藓红", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "新红", "aliases": [], "fn": "着色剂", "tier": "medium", "note": "合成色素" },
+    { "name": "焦糖色", "aliases": ["焦糖色素"], "fn": "着色剂", "tier": "medium", "note": "氨法/亚硫酸铵法工艺副产物有争议" },
+    { "name": "二氧化硫", "aliases": ["亚硫酸钠", "焦亚硫酸钠", "低亚硫酸钠"], "fn": "漂白剂", "tier": "medium", "note": "哮喘人群敏感" },
+    { "name": "磷酸", "aliases": ["磷酸盐"], "fn": "酸度调节剂", "tier": "medium", "note": "含磷添加剂总量值得关注" },
+    { "name": "三聚磷酸钠", "aliases": [], "fn": "水分保持剂", "tier": "medium", "note": "磷酸盐类" },
+    { "name": "六偏磷酸钠", "aliases": [], "fn": "水分保持剂", "tier": "medium", "note": "磷酸盐类" },
+    { "name": "焦磷酸钠", "aliases": [], "fn": "水分保持剂", "tier": "medium", "note": "磷酸盐类" },
+    { "name": "亚铁氰化钾", "aliases": ["亚铁氰化钠"], "fn": "抗结剂", "tier": "medium", "note": "食盐抗结剂" },
+    { "name": "乙二胺四乙酸二钠", "aliases": ["EDTA二钠"], "fn": "稳定剂", "tier": "medium", "note": "螯合剂" },
+
+    { "name": "柠檬酸", "aliases": [], "fn": "酸度调节剂", "tier": "low", "note": "最常见酸味剂" },
+    { "name": "柠檬酸钠", "aliases": [], "fn": "酸度调节剂", "tier": "low", "note": "缓冲剂" },
+    { "name": "苹果酸", "aliases": [], "fn": "酸度调节剂", "tier": "low", "note": "酸味剂" },
+    { "name": "乳酸", "aliases": [], "fn": "酸度调节剂", "tier": "low", "note": "酸味剂" },
+    { "name": "冰乙酸", "aliases": ["醋酸"], "fn": "酸度调节剂", "tier": "low", "note": "酸味剂" },
+    { "name": "碳酸氢钠", "aliases": ["小苏打"], "fn": "膨松剂", "tier": "low", "note": "含钠，需计入钠负荷" },
+    { "name": "碳酸氢铵", "aliases": [], "fn": "膨松剂", "tier": "low", "note": "膨松剂" },
+    { "name": "碳酸钙", "aliases": [], "fn": "膨松剂", "tier": "low", "note": "也是钙源" },
+    { "name": "黄原胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "微生物发酵来源" },
+    { "name": "瓜尔胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "植物来源" },
+    { "name": "果胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "水果来源" },
+    { "name": "卡拉胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "海藻来源" },
+    { "name": "海藻酸钠", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "海藻来源" },
+    { "name": "羧甲基纤维素钠", "aliases": ["CMC"], "fn": "增稠剂", "tier": "low", "note": "纤维素衍生物" },
+    { "name": "微晶纤维素", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "纤维素衍生物" },
+    { "name": "结冷胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "发酵来源" },
+    { "name": "刺槐豆胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "植物来源" },
+    { "name": "琼脂", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "海藻来源" },
+    { "name": "明胶", "aliases": [], "fn": "增稠剂", "tier": "low", "note": "动物来源" },
+    { "name": "羟丙基二淀粉磷酸酯", "aliases": ["乙酰化二淀粉磷酸酯", "磷酸酯双淀粉", "改性淀粉"], "fn": "增稠剂", "tier": "low", "note": "变性淀粉" },
+    { "name": "单双甘油脂肪酸酯", "aliases": ["单甘酯"], "fn": "乳化剂", "tier": "low", "note": "最常见乳化剂" },
+    { "name": "蔗糖脂肪酸酯", "aliases": [], "fn": "乳化剂", "tier": "low", "note": "乳化剂" },
+    { "name": "聚甘油脂肪酸酯", "aliases": [], "fn": "乳化剂", "tier": "low", "note": "乳化剂" },
+    { "name": "大豆磷脂", "aliases": ["卵磷脂"], "fn": "乳化剂", "tier": "low", "note": "天然来源；大豆过敏者注意" },
+    { "name": "硬脂酰乳酸钠", "aliases": [], "fn": "乳化剂", "tier": "low", "note": "面包改良" },
+    { "name": "抗坏血酸", "aliases": ["维生素C"], "fn": "抗氧化剂", "tier": "low", "note": "也是营养素" },
+    { "name": "抗坏血酸钠", "aliases": [], "fn": "抗氧化剂", "tier": "low", "note": "同上" },
+    { "name": "生育酚", "aliases": ["维生素E"], "fn": "抗氧化剂", "tier": "low", "note": "天然抗氧化剂" },
+    { "name": "迷迭香提取物", "aliases": [], "fn": "抗氧化剂", "tier": "low", "note": "天然抗氧化剂" },
+    { "name": "谷氨酸钠", "aliases": ["味精"], "fn": "增味剂", "tier": "low", "note": "增鲜；含钠" },
+    { "name": "5'-呈味核苷酸二钠", "aliases": ["呈味核苷酸二钠"], "fn": "增味剂", "tier": "low", "note": "与味精协同增鲜" },
+    { "name": "5'-肌苷酸二钠", "aliases": [], "fn": "增味剂", "tier": "low", "note": "增鲜" },
+    { "name": "5'-鸟苷酸二钠", "aliases": [], "fn": "增味剂", "tier": "low", "note": "增鲜" },
+    { "name": "酵母抽提物", "aliases": [], "fn": "增味剂", "tier": "low", "note": "天然增鲜" },
+    { "name": "红曲红", "aliases": ["红曲米"], "fn": "着色剂", "tier": "low", "note": "天然色素" },
+    { "name": "甜菜红", "aliases": [], "fn": "着色剂", "tier": "low", "note": "天然色素" },
+    { "name": "β-胡萝卜素", "aliases": ["胡萝卜素"], "fn": "着色剂", "tier": "low", "note": "天然色素，也是维生素A前体" },
+    { "name": "辣椒红", "aliases": ["辣椒红素"], "fn": "着色剂", "tier": "low", "note": "天然色素" },
+    { "name": "姜黄素", "aliases": [], "fn": "着色剂", "tier": "low", "note": "天然色素" },
+    { "name": "栀子黄", "aliases": [], "fn": "着色剂", "tier": "low", "note": "天然色素" },
+    { "name": "番茄红素", "aliases": [], "fn": "着色剂", "tier": "low", "note": "天然色素" },
+    { "name": "赤藓糖醇", "aliases": [], "fn": "甜味剂", "tier": "low", "note": "糖醇，几乎不产生热量" },
+    { "name": "木糖醇", "aliases": [], "fn": "甜味剂", "tier": "low", "note": "糖醇，过量易腹泻" },
+    { "name": "山梨糖醇", "aliases": [], "fn": "甜味剂", "tier": "low", "note": "糖醇，过量易腹泻" },
+    { "name": "麦芽糖醇", "aliases": [], "fn": "甜味剂", "tier": "low", "note": "糖醇" },
+    { "name": "甜菊糖苷", "aliases": ["甜菊糖"], "fn": "甜味剂", "tier": "low", "note": "植物来源甜味剂" },
+    { "name": "罗汉果甜苷", "aliases": [], "fn": "甜味剂", "tier": "low", "note": "植物来源甜味剂" },
+    { "name": "食用香精", "aliases": ["食用香料", "香精", "香兰素", "乙基麦芽酚"], "fn": "香精", "tier": "low", "note": "不标示具体成分，是'超加工'的重要标志" },
+    { "name": "氯化镁", "aliases": ["卤水"], "fn": "凝固剂", "tier": "low", "note": "豆腐凝固剂" },
+    { "name": "硫酸钙", "aliases": ["石膏"], "fn": "凝固剂", "tier": "low", "note": "豆腐凝固剂" },
+    { "name": "葡萄糖酸-δ-内酯", "aliases": ["内酯"], "fn": "凝固剂", "tier": "low", "note": "内酯豆腐凝固剂" },
+    { "name": "二氧化硅", "aliases": [], "fn": "抗结剂", "tier": "low", "note": "抗结块" },
+    { "name": "氯化钾", "aliases": [], "fn": "营养强化剂", "tier": "low", "note": "低钠盐成分" }
+  ],
+
+  "transFatSources": [
+    "氢化植物油", "部分氢化植物油", "氢化棕榈油", "植脂末", "奶精", "咖啡伴侣",
+    "代可可脂", "起酥油", "人造奶油", "麦淇淋", "植物奶油", "植脂奶油"
+  ],
+
+  "hiddenSugars": [
+    "果葡糖浆", "高果糖玉米糖浆", "玉米糖浆", "麦芽糖浆", "葡萄糖浆", "转化糖浆",
+    "浓缩果汁", "浓缩苹果汁", "浓缩橙汁", "结晶果糖", "麦芽糊精"
+  ],
+
+  "caloricSugars": [
+    "白砂糖", "绵白糖", "蔗糖", "红糖", "冰糖", "果糖", "葡萄糖", "果葡糖浆",
+    "玉米糖浆", "麦芽糖浆", "葡萄糖浆", "转化糖浆", "蜂蜜", "浓缩果汁",
+    "浓缩苹果汁", "浓缩橙汁", "结晶果糖", "麦芽糊精", "焦糖糖浆", "低聚果糖"
+  ],
+
+  "nonNutritiveSweeteners": [
+    "阿斯巴甜", "安赛蜜", "三氯蔗糖", "甜蜜素", "糖精钠", "纽甜", "爱德万甜",
+    "甜菊糖苷", "罗汉果甜苷", "赤藓糖醇", "木糖醇", "山梨糖醇", "麦芽糖醇"
+  ],
+
+  "sodiumSynergyKeywords": ["谷氨酸钠", "味精", "5'-呈味核苷酸二钠", "呈味核苷酸二钠", "食用盐", "食盐", "酱油"],
+
+  "allergens": [
+    { "name": "麸质（小麦）", "keywords": ["小麦", "小麦粉", "麸质", "大麦", "黑麦", "面粉"] },
+    { "name": "蛋", "keywords": ["鸡蛋", "蛋清", "蛋黄", "全蛋"] },
+    { "name": "乳", "keywords": ["生牛乳", "牛乳", "乳粉", "全脂乳粉", "脱脂乳粉", "乳清", "奶油", "黄油", "炼乳"] },
+    { "name": "大豆", "keywords": ["大豆", "大豆蛋白", "豆浆", "豆粉"] },
+    { "name": "花生", "keywords": ["花生"] },
+    { "name": "坚果", "keywords": ["巴旦木", "核桃", "腰果", "榛子", "开心果", "杏仁", "夏威夷果"] },
+    { "name": "鱼", "keywords": ["鱼", "鱼肉", "鱼粉"] },
+    { "name": "甲壳类", "keywords": ["虾", "蟹", "甲壳"] },
+    { "name": "芝麻", "keywords": ["芝麻"] }
+  ],
+
+  "nova4IngredientMarkers": [
+    "植脂末", "代可可脂", "起酥油", "人造奶油", "氢化植物油", "麦芽糊精",
+    "葡萄糖浆", "果葡糖浆", "大豆分离蛋白", "分离蛋白", "改性淀粉"
+  ],
+
+  "nova4MarkerFunctions": [
+    "防腐剂", "抗氧化剂", "着色剂", "甜味剂", "增味剂",
+    "乳化剂", "增稠剂", "香精", "膨松剂", "抗结剂", "护色剂", "漂白剂",
+    "稳定剂", "水分保持剂"
+  ],
+
+  "fvKeywords": [
+    "苹果", "橙", "橙汁", "葡萄", "草莓", "蓝莓", "桃", "梨", "菠萝", "芒果", "柠檬",
+    "番茄", "胡萝卜", "菠菜", "南瓜", "玉米", "豌豆", "蔬菜", "水果", "果汁", "果酱",
+    "大豆", "豆浆", "豆类", "鹰嘴豆", "扁豆"
+  ],
+
+  "starchKeywords": ["小麦粉", "面粉", "淀粉", "大米", "米粉", "马铃薯", "玉米粉", "木薯"],
+
+  "dairyKeywords": ["生牛乳", "牛乳", "鲜牛奶", "牛奶", "乳粉"],
+
+  "juiceKeywords": ["橙汁", "苹果汁", "葡萄汁", "果汁", "浓缩果汁", "NFC"]
+}

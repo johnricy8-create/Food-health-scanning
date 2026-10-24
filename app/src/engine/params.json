@@ -1,0 +1,169 @@
+{
+  "version": "0.1.0",
+  "_comment": "所有可调参数集中在这里。改权重/阈值/锚点不用改代码。",
+
+  "active": "balanced",
+  "presets": {
+    "balanced": {
+      "_desc": "默认：营养六成，加工与添加剂各两成",
+      "weights": { "nutrition": 0.60, "processing": 0.20, "additives": 0.20 },
+      "lowThreshold": 65,
+      "penaltyStrength": 0.50,
+      "maxPenalty": 12
+    },
+    "nutritionHeavy": {
+      "_desc": "只看营养：糖盐脂能量权重更高，添加剂影响变小",
+      "weights": { "nutrition": 0.70, "processing": 0.15, "additives": 0.15 },
+      "lowThreshold": 65,
+      "penaltyStrength": 0.50,
+      "maxPenalty": 10
+    },
+    "labelSensitive": {
+      "_desc": "只看配料表：添加剂和加工程度权重更高，适合在意'科技与狠活'的用户",
+      "weights": { "nutrition": 0.45, "processing": 0.25, "additives": 0.30 },
+      "lowThreshold": 70,
+      "penaltyStrength": 0.60,
+      "maxPenalty": 18
+    }
+  },
+
+  "beverageCategories": {
+    "_comment": "只有这些类目走饮料阈值表。牛奶/豆浆虽然按 100ml 卖，但用普通食品表（Nutri-Score 官方做法）",
+    "list": ["饮料", "饮品"]
+  },
+
+  "nutriScore": {
+    "_comment": "Nutri-Score 2021 阈值。points = 严格大于该阈值的阈值个数",
+    "solid": {
+      "energyKj": [335, 670, 1005, 1340, 1675, 2010, 2345, 2680, 3015, 3350],
+      "sugarG": [4.5, 9, 13.5, 18, 22.5, 27, 31, 36, 40, 45],
+      "satFatG": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "sodiumMg": [90, 180, 270, 360, 450, 540, 630, 720, 810, 900],
+      "proteinG": [1.6, 3.2, 4.8, 6.4, 8.0],
+      "fiberG": [0.7, 1.4, 2.1, 2.8, 3.5]
+    },
+    "beverage": {
+      "energyKj": [0, 30, 60, 90, 120, 150, 180, 210, 240, 270],
+      "sugarG": [0, 1.5, 3, 4.5, 6, 7.5, 9, 10.5, 12, 13.5],
+      "satFatG": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "sodiumMg": [90, 180, 270, 360, 450, 540, 630, 720, 810, 900],
+      "proteinG": [1.6, 3.2, 4.8, 6.4, 8.0],
+      "fiberG": [0.7, 1.4, 2.1, 2.8, 3.5]
+    },
+    "fvThresholds": [40, 60, 80],
+    "rankGrades": { "A": -1, "B": 2, "C": 10, "D": 18, "E": 999 }
+  },
+
+  "nutritionMapping": {
+    "_comment": "Nutri-Score 原始分(-15..40) → 营养分(0..100) 的分段锚点，越小越好",
+    "anchors": [[-15, 100], [-1, 90], [2, 76], [10, 50], [18, 18], [40, 0]]
+  },
+
+  "processingScore": {
+    "_comment": "NOVA 1-4 → 分数",
+    "nova1": 100,
+    "nova2": 88,
+    "nova3": 65,
+    "nova4": 35
+  },
+
+  "additivePenalty": {
+    "_comment": "每个功能类别最多累计 2 个（防止'三种色素扣到 0'）",
+    "low": 6,
+    "medium": 14,
+    "high": 30,
+    "maxPerFunctionalClass": 2
+  },
+
+  "hiddenSignalPenalty": {
+    "_comment": "原'隐形风险'维度已取消，这些信号并入营养质量 / 添加剂。数值是直接扣在对应维度分上的点数",
+    "transFatSource": { "points": 10, "dimension": "nutrition" },
+    "hiddenSugar": { "points": 8, "dimension": "nutrition" },
+    "addedSugarBeverage": { "points": 7, "dimension": "nutrition" },
+    "sodiumSynergy": { "points": 12, "dimension": "additives" }
+  },
+
+  "servingSize": {
+    "_comment": "一次食用量的估算（g 或 ml），用来把'每 100g'换算成'吃一次大概多少'",
+    "饮料": 250,
+    "饮品": 250,
+    "乳制品": 200,
+    "方便食品": 100,
+    "饼干": 30,
+    "糕点": 50,
+    "坚果": 25,
+    "调味品": 15,
+    "谷物": 40,
+    "膨化食品": 30,
+    "糖果": 10,
+    "肉制品": 50,
+    "default": 100
+  },
+
+  "energyIntake": {
+    "_comment": "成人每日参考能量。8400 kJ 是中国 NRV 用的取整值，对应 2000 kcal",
+    "dailyRefKj": 8400,
+    "dailyRefKcal": 2000
+  },
+
+  "gradeCeiling": {
+    "_comment": "营养等级是 E 的产品，无论配料表多干净，总分不高于此值",
+    "A": 100, "B": 95, "C": 80, "D": 45, "E": 25
+  },
+
+  "displayGrade": {
+    "_comment": "总显示等级（按总分切）",
+    "A": 85, "B": 70, "C": 55, "D": 40, "E": 0
+  },
+
+  "sugarEstimate": {
+    "_comment": "中国营养成分表不强制标'糖'，只能从配料表推断。band = 糖源出现位置对应的碳水占比",
+    "bands": [
+      { "maxIndex": 1, "fraction": 0.75 },
+      { "maxIndex": 3, "fraction": 0.45 },
+      { "maxIndex": 6, "fraction": 0.25 },
+      { "maxIndex": 99, "fraction": 0.10 }
+    ],
+    "starchDampening": 0.35,
+    "beverageBoost": 1.20,
+    "beverageCap": 0.95,
+    "noSugarFound": {
+      "dairy": { "fraction": 0.95, "capG": 5.0 },
+      "juice": { "fraction": 0.90, "capG": 12.0 },
+      "default": { "fraction": 0.05, "capG": 2.0 }
+    }
+  },
+
+  "satFatEstimate": {
+    "_comment": "不强制标'饱和脂肪'，按脂肪来源推断饱和比例，取命中来源里的最大值。dominantOnly=该原料必须出现在前 dominantMaxIndex+1 位（防止'大豆蛋白'被当成脂肪来源）",
+    "default": 0.35,
+    "dominantMaxIndex": 2,
+    "rules": [
+      { "keywords": ["代可可脂", "起酥油", "人造奶油", "植脂末", "氢化"], "factor": 0.80 },
+      { "keywords": ["棕榈油", "椰子油", "棕榈仁油", "黄油", "奶油", "猪油", "牛油", "羊油", "生牛乳", "全脂乳粉", "乳脂"], "factor": 0.65 },
+      { "keywords": ["巴旦木", "核桃", "腰果", "花生", "榛子", "开心果", "瓜子", "芝麻", "杏仁"], "factor": 0.12, "dominantOnly": true },
+      { "keywords": ["大豆", "燕麦"], "factor": 0.15, "dominantOnly": true },
+      { "keywords": ["菜籽油", "葵花籽油", "大豆油", "玉米油", "橄榄油", "花生油", "山茶油", "米糠油", "植物油"], "factor": 0.25, "dominantOnly": true }
+    ]
+  },
+
+  "fiberEstimate": {
+    "_comment": "未标示膳食纤维时，按原料推断（保守值）。dominantOnly 同上，防止'大豆蛋白'给火腿肠送纤维分",
+    "dominantMaxIndex": 2,
+    "rules": [
+      { "keywords": ["燕麦", "全麦", "麸皮", "黑麦"], "fiberG": 6.0, "dominantOnly": true },
+      { "keywords": ["大豆", "豆类", "鹰嘴豆"], "fiberG": 4.0, "dominantOnly": true },
+      { "keywords": ["坚果", "巴旦木", "核桃", "腰果"], "fiberG": 5.0, "dominantOnly": true }
+    ]
+  },
+
+  "energyFallback": {
+    "_comment": "能量缺失时按 蛋白17 + 脂肪37 + 碳水17 (kJ/g) 计算",
+    "proteinKj": 17, "fatKj": 37, "carbKj": 17
+  },
+
+  "energyCrossCheck": {
+    "_comment": "标示能量与计算能量偏差超过此比例，判定识别可能有误",
+    "tolerance": 0.20
+  }
+}
