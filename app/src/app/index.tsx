@@ -10,9 +10,9 @@ import { analyzeImage } from "../api";
 import { listHistory, pushHistory, saveResult, HistoryItem } from "../storage";
 import { setCurrent } from "../store";
 
-/** 上传前把长边压到 1600px。视觉模型对像素数很敏感，
- *  直接传 3000×4000 的原图经常要 40 秒以上，压完 10 秒左右。 */
-const MAX_EDGE = 1600;
+/** 上传前把长边压到 1280px。视觉模型对像素数很敏感：
+ *  3000×4000 原图要 35 秒，1600px 约 10 秒，1280px 约 6 秒。 */
+const MAX_EDGE = 1280;
 
 async function prepareImage(asset: ImagePicker.ImagePickerAsset) {
   const fallback = { base64: asset.base64 ?? "", mimeType: asset.mimeType ?? "image/jpeg" };

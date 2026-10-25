@@ -157,70 +157,91 @@ function buildAdvice({ values, isBeverage, servingG, servingKcal, dailyRefKcal }
 /* ---------- 分数解释 ---------- */
 
 const DIM_CN = { nutrition: "营养质量", processing: "加工程度", additives: "添加剂" };
+const TIER_CN = { high: "高关注", medium: "中等", low: "低关注" };
+
+/**
+ * 添加剂的"构成 + 含量"。
+ *
+ * 含量：标签一般只写名字不写添加量，但 GB 7718 要求配料按加入量递减排列，
+ * 所以配料表排位就是含量的近似——排得越前，含量越高。这里如实说明是排位推断。
+ */
+function describeAdditives(additives, addPen, tokens) {
+  if (!additives.length) return null;
+
+  const tiers = ["high", "medium", "low"]
+    .map((t) => [t, additives.filter((a) => a.tier === t).length])
+    .filter(([, n]) => n > 0)
+    .map(([t, n]) => `${TIER_CN[t]} ${n} 种`);
+
+  // 按功能类别聚合，扣分重的排前面
+  const classes = [...addPen.perClass]
+    .sort((a, b) => b.penalty - a.penalty)
+    .slice(0, 3)
+    .map((c) => (c.count > 1 ? `${c.fn} ${c.count} 种` : c.fn));
+
+  // 排位 = 含量高低的近似
+  const ranked = additives
+    .map((a) => ({ name: a.name, idx: tokens.findIndex((t) => t.includes(a.matchedAs)) }))
+    .filter((a) => a.idx >= 0)
+    .sort((a, b) => a.idx - b.idx)
+    .slice(0, 3)
+    .map((a) => `${a.name}（第 ${a.idx + 1} 位）`);
+
+  return {
+    count: additives.length,
+    tierText: tiers.join("、"),
+    classText: classes.join("、"),
+    posText: ranked.join("、"),
+  };
+}
 
 /**
  * 说明"为什么是这个分数"。
- * 只看各维度的权重和实际丢分，纯规则，不引入任何模型——
- * 同一份数据永远得到同一段解释。
+ * 主线是添加剂：多少种、什么功能、什么关注级别、在配料表里的排位（含量近似）。
+ * 纯规则，同一份数据永远得到同一段解释。
  */
-function buildScoreReason({ total, dims, w, losses, deductions, credits, nutri, nova, additives, capped, ceiling }) {
-  const keys = Object.keys(w);
+function buildScoreReason({ total, dims, w, losses, deductions, nutri, nova, additives, addPen, tokens, capped, ceiling }) {
   const pct = (k) => Math.round(w[k] * 100);
   const sc = (k) => Math.round(dims[k]);
-
   const byLoss = [...losses].sort((a, b) => b.lost - a.lost);
-  const mainLoss = byLoss[0];
-  const secondLoss = byLoss[1];
-  const mainGain = [...keys].sort((a, b) => w[b] * dims[b] - w[a] * dims[a])[0];
-
-  // 优先引用"主因维度"里的扣分项，没有就退回第一条
-  const topDeduction = (k) => {
-    const d = deductions.filter((x) => x.weight === k);
-    return d.length ? `「${d[0].text}」` : deductions.length ? `「${deductions[0].text}」` : "";
-  };
-
+  const addLost = Math.round(w.additives * (100 - dims.additives) * 10) / 10;
+  const comp = describeAdditives(additives, addPen, tokens);
   const parts = [];
 
-  if (total >= 80) {
-    let s = `分数高，主要靠${DIM_CN[mainGain]}（${sc(mainGain)} 分，占 ${pct(mainGain)}% 权重）撑起来`;
-    const support = [];
-    if (dims.processing >= 88) support.push(`加工程度低（NOVA ${nova.level}）`);
-    if (dims.additives >= 90)
-      support.push(additives.length === 0 ? "没有使用食品添加剂" : `添加剂只有 ${additives.length} 种且级别低`);
-    if (nutri.grade === "A") support.push("营养等级为 A");
-    if (support.length) s += `，加上${support.join("、")}`;
-    parts.push(s + "。");
-
-    if (deductions.length) {
-      const n = deductions.length;
-      parts.push(`${n === 1 ? "仍然有一处扣分" : `仍然有 ${n} 处扣分`}：${topDeduction(mainLoss.key)}，但对总分影响有限。`);
-    } else {
-      parts.push("三个维度都没有明显扣分项。");
-    }
-    return parts.join("");
-  }
-
-  if (total >= 60) {
+  /* 1) 添加剂构成 + 含量 */
+  if (!comp) {
     parts.push(
-      `分数中等，主要受${DIM_CN[mainLoss.key]}限制：该维度只有 ${sc(mainLoss.key)} 分，占 ${pct(mainLoss.key)}% 权重，单项就损失约 ${Math.round(mainLoss.lost)} 分。`
+      `添加剂项满分 ${sc("additives")} 分（占 ${pct("additives")}% 权重）：配料表里没有检出食品添加剂。`
     );
-    if (secondLoss && sc(secondLoss.key) < 70) {
-      parts.push(`${DIM_CN[secondLoss.key]}也只有 ${sc(secondLoss.key)} 分（权重 ${pct(secondLoss.key)}%），同样在拖后腿。`);
-    } else if (credits.length) {
-      parts.push(`拉回来的是${credits[0].text}。`);
+  } else {
+    parts.push(`添加剂共 ${comp.count} 种（${comp.tierText}），集中在${comp.classText}。`);
+    if (comp.posText) {
+      parts.push(`标签不标添加量，按配料表"含量从高到低"的排位看：${comp.posText}。`);
     }
-    if (deductions.length) parts.push(`最直接的扣分项是${topDeduction(mainLoss.key)}。`);
-    return parts.join("");
+    parts.push(
+      `添加剂项因此得 ${sc("additives")} 分（占 ${pct("additives")}% 权重，损失约 ${Math.round(addLost)} 分）` +
+        (byLoss[0].key === "additives" ? "，是这次扣分的主要来源。" : "，不是主要失分点。")
+    );
   }
 
-  parts.push(
-    `分数低，主要因为${DIM_CN[mainLoss.key]}只拿到 ${sc(mainLoss.key)} 分，占 ${pct(mainLoss.key)}% 权重，单项就损失约 ${Math.round(mainLoss.lost)} 分。`
-  );
-  if (deductions.length) parts.push(`最直接的扣分项是${topDeduction(mainLoss.key)}。`);
-  if (secondLoss && sc(secondLoss.key) < 70) {
-    parts.push(`${DIM_CN[secondLoss.key]} ${sc(secondLoss.key)} 分（权重 ${pct(secondLoss.key)}%）进一步拉低。`);
+  /* 2) 其余维度：一句话交代，不喧宾夺主 */
+  const others = byLoss.filter((l) => l.key !== "additives" && l.lost >= 3);
+  const addIsMain = byLoss[0].key === "additives";
+  if (total >= 80) {
+    const support = [];
+    if (dims.nutrition >= 80) support.push(`营养质量 ${sc("nutrition")} 分`);
+    if (dims.processing >= 80) support.push(`加工程度 ${sc("processing")} 分（NOVA ${nova.level}）`);
+    if (support.length) parts.push(`另外${support.join("、")}，三个维度都没有明显扣分。`);
+  } else if (others.length) {
+    const o = others[0];
+    const d = deductions.find((x) => x.weight === o.key);
+    parts.push(
+      `${DIM_CN[o.key]} ${sc(o.key)} 分（占 ${pct(o.key)}%）${addIsMain ? "也在拉低总分" : "是主要失分点"}` +
+        (d ? `，例如「${d.text}」` : "") + "。"
+    );
   }
-  if (capped) parts.push(`另外营养等级为 ${nutri.grade}，按规则总分封顶 ${ceiling} 分。`);
+
+  if (capped) parts.push(`营养等级为 ${nutri.grade}，按规则总分封顶 ${ceiling} 分。`);
   return parts.join("");
 }
 
@@ -369,6 +390,8 @@ export function analyse(sample, kb, params, presetName = params.active) {
     nutri,
     nova,
     additives,
+    addPen,
+    tokens,
     capped: ceiling < 100 && beforeCap > ceiling,
     ceiling,
   });

@@ -10,6 +10,7 @@
  */
 import { createServer } from "node:http";
 import { readFileSync } from "node:fs";
+import { createHash } from "node:crypto";
 
 const { analyse } = await import("../src/score.mjs");
 const { extract, narrate, providerInfo } = await import("../src/extract/index.mjs");
@@ -89,6 +90,11 @@ const server = createServer(async (req, res) => {
       return json(res, 400, { error: "需要 text 或 imageBase64" }, cors);
     }
 
+    // 同一张图 / 同一段文字重复请求，直接给上次的结果
+    const cacheKey = hashOf(body.imageBase64 ?? `text:${body.text}`);
+    const hit = cacheGet(cacheKey);
+    if (hit) return json(res, 200, { ...hit, cached: true }, cors);
+
     const extracted = await extract({
       text: body.text,
       imageBase64: body.imageBase64,
@@ -109,7 +115,9 @@ const server = createServer(async (req, res) => {
     // 转述是"锦上添花"，失败不能影响打分结果；默认关闭，省一次模型调用和十几秒
     const narrative = NARRATIVE_ON ? await narrate(result).catch(() => null) : null;
 
-    return json(res, 200, { extracted, result, narrative }, cors);
+    const payload = { extracted, result, narrative };
+    cacheSet(cacheKey, payload);
+    return json(res, 200, payload, cors);
   } catch (err) {
     console.error("[analyze]", err);
     // 图片过大：明确告诉客户端，别让它以为"网络连不上"
@@ -139,6 +147,22 @@ server.listen(PORT, () => {
 function json(res, code, payload, headers = {}) {
   const body = JSON.stringify(payload);
   res.writeHead(code, { "Content-Type": "application/json; charset=utf-8", ...headers }).end(body);
+}
+
+/** 同一张图重复识别（重试、来回切页）直接返回，不用再等模型 */
+const CACHE_MAX = 20;
+const cache = new Map();
+const hashOf = (s) => createHash("sha1").update(s).digest("hex");
+function cacheGet(key) {
+  const hit = cache.get(key);
+  if (!hit) return null;
+  cache.delete(key);
+  cache.set(key, hit); // 命中后挪到队尾，LRU
+  return hit;
+}
+function cacheSet(key, value) {
+  cache.set(key, value);
+  if (cache.size > CACHE_MAX) cache.delete(cache.keys().next().value);
 }
 
 function tooBigMessage() {
